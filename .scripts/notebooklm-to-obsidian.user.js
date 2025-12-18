@@ -64,34 +64,65 @@
 
     /**
      * 현재 페이지에서 NotebookLM 노트 내용 추출
+     * NotebookLM의 실제 DOM 구조 기반 (2025-12-18 업데이트)
      */
     function extractNotebookContent() {
-        // NotebookLM 페이지 구조에 맞게 수정 필요
-        // 이것은 일반적인 추출 로직입니다
+        console.log('[NotebookLM→Obsidian] 🔍 콘텐츠 추출 시작');
 
-        const titleElement = document.querySelector('h1') ||
-                            document.querySelector('[role="heading"]') ||
-                            document.querySelector('.title');
+        // NotebookLM의 note viewer 찾기
+        const viewer = document.querySelector('labs-tailwind-doc-viewer.note-editor');
+        console.log('[NotebookLM→Obsidian] viewer 찾기:', viewer ? '✅ 발견' : '❌ 없음');
 
-        const title = titleElement ? titleElement.textContent.trim() : '무제 노트';
-
-        // 본문 추출 - NotebookLM의 실제 구조에 맞게 셀렉터 조정 필요
-        const contentElements = document.querySelectorAll('.note-content, [role="document"], article');
-        let content = '';
-
-        if (contentElements.length > 0) {
-            contentElements.forEach(el => {
-                content += el.textContent.trim() + '\n\n';
-            });
-        } else {
-            // 대체: body에서 스크립트/스타일 제외하고 텍스트 추출
-            const bodyClone = document.body.cloneNode(true);
-            // 스크립트, 스타일, 네비게이션 제거
-            bodyClone.querySelectorAll('script, style, nav, header, footer').forEach(el => el.remove());
-            content = bodyClone.textContent.trim();
+        if (!viewer) {
+            console.error('[NotebookLM→Obsidian] Note viewer를 찾을 수 없습니다. 노트가 열려있는지 확인하세요.');
+            return { title: '무제 노트', content: '' };
         }
 
-        return { title, content };
+        // 제목 추출: 첫 번째 heading 요소에서 추출
+        let title = '무제 노트';
+        const headingElement = viewer.querySelector('.paragraph.heading3, .paragraph.heading2, .paragraph.heading1');
+        console.log('[NotebookLM→Obsidian] heading 찾기:', headingElement ? '✅ 발견' : '❌ 없음');
+
+        if (headingElement) {
+            const headingClone = headingElement.cloneNode(true);
+            // 인용 버튼 제거
+            headingClone.querySelectorAll('button.citation-marker').forEach(btn => btn.remove());
+            title = headingClone.textContent.trim();
+            console.log('[NotebookLM→Obsidian] 제목:', title);
+        }
+
+        // 본문 추출: 모든 paragraph 요소
+        const paragraphs = viewer.querySelectorAll('.paragraph');
+        console.log('[NotebookLM→Obsidian] paragraph 개수:', paragraphs.length);
+
+        let content = '';
+
+        paragraphs.forEach((para, index) => {
+            // DOM 복사본 생성 (원본 변경 방지)
+            const clone = para.cloneNode(true);
+
+            // 불필요한 요소 제거
+            clone.querySelectorAll('button.citation-marker').forEach(btn => btn.remove());
+
+            const text = clone.textContent.trim();
+            if (text) {
+                // heading은 마크다운 형식으로 변환
+                if (para.classList.contains('heading1')) {
+                    content += `# ${text}\n\n`;
+                } else if (para.classList.contains('heading2')) {
+                    content += `## ${text}\n\n`;
+                } else if (para.classList.contains('heading3')) {
+                    content += `### ${text}\n\n`;
+                } else {
+                    content += text + '\n\n';
+                }
+            }
+        });
+
+        console.log('[NotebookLM→Obsidian] 추출된 내용 길이:', content.length, '자');
+        console.log('[NotebookLM→Obsidian] 내용 미리보기:', content.substring(0, 100));
+
+        return { title, content: content.trim() };
     }
 
     /**
