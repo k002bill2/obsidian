@@ -1,0 +1,78 @@
+.miniRagPluginQuestionBox{
+	width: 100%;
+	height: 100px;
+	resize: none;
+}
+
+.miniRagPluginChatContainer{
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+.miniRagPluginConvoBox{
+	cursor: pointer;
+	white-space: pre-line;
+	width: auto;
+	max-width: 90%;
+	border-radius: 10px;
+	margin-top: 4px;
+	padding: 8px;
+}
+
+.miniRagPluginConvoBox.query{
+	text-align: right;
+	background: green;
+	justify-self: right;
+}
+
+.miniRagPluginConvoBox.response{
+	text-align: left;
+	background: grey;
+	justify-self: left;
+}
+
+.miniRagPluginButtonArea{
+	display: flex;
+	justify-content: space-between;
+}
+
+.miniRagPluginButtonArea.left{
+	gap: 4px;
+}
+
+.miniRagPluginSendButton.miniRagPluginSendButton{
+	background-color: green;
+}
+
+/*Loading Animation - Start*/
+.miniRagPluginLoader {
+	 width: 16px;
+	 height: 16px;
+	 margin: 100px auto;
+	 border-radius: 50%;
+	 background-color: #fff;
+	 box-shadow: 32px 0 #fff, -32px 0 #fff;
+	 position: relative;
+	 animation: miniRagPluginTripleDot 750ms ease-out infinite alternate;
+ }
+
+.miniRagPluginLoader.hidden{
+	display: none;
+}
+
+@keyframes miniRagPluginTripleDot {
+	0% {
+		background-color: #FFF2;
+		box-shadow: 32px 0 #FFF2, -32px 0 #FFF;
+	}
+	50% {
+		background-color: #FFF;
+		box-shadow: 32px 0 #FFF2, -32px 0 #FFF2;
+	}
+	100% {
+		background-color: #FFF2;
+		box-shadow: 32px 0 #FFF, -32px 0 #FFF2;
+	}
+}
+/*Loading Animation - End*/
