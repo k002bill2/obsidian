@@ -18,7 +18,7 @@
     // 설정 - 필요시 수정하세요
     // ========================================
     const CONFIG = {
-        obsidianApiUrl: 'https://127.0.0.1:27124',
+        obsidianApiUrl: 'http://127.0.0.1:27123',  // HTTPS → HTTP (자체 서명 인증서 문제 회피)
         obsidianApiKey: '68b243f4d0009646914570125cc8658dd677f26f0295d38b6d39d4106b27c7a4',
         targetFolder: 'NotebookLM',
         autoTags: ['notebooklm', 'imported'],
@@ -237,7 +237,7 @@ tags: [${CONFIG.autoTags.join(', ')}]
 
         const customButton = document.createElement('button');
         customButton.id = 'obsidian-save-btn';
-        customButton.innerHTML = '📓 Obsidian에 저장';
+        customButton.textContent = '📓 Obsidian에 저장';  // innerHTML → textContent (Trusted Types 정책 준수)
         customButton.style.cssText = `
             position: fixed;
             bottom: 20px;
