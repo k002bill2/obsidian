@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         NotebookLM to Obsidian Auto-Saver
 // @namespace    http://tampermonkey.net/
-// @version      1.0.0
-// @description  NotebookLM의 "메모에 저장" 버튼 클릭 시 Obsidian으로 자동 저장
+// @version      2.0.0
+// @description  NotebookLM의 "메모에 저장" 버튼 클릭 시 Obsidian으로 자동 저장 (NOTE-EDITOR 기반)
 // @author       Claude Code
 // @match        https://notebooklm.google.com/*
 // @grant        GM_xmlhttpRequest
@@ -18,7 +18,7 @@
     // 설정 - 필요시 수정하세요
     // ========================================
     const CONFIG = {
-        obsidianApiUrl: 'http://127.0.0.1:27123',  // HTTPS → HTTP (자체 서명 인증서 문제 회피)
+        obsidianApiUrl: 'http://127.0.0.1:27123',  // HTTP (자체 서명 인증서 문제 회피)
         obsidianApiKey: '68b243f4d0009646914570125cc8658dd677f26f0295d38b6d39d4106b27c7a4',
         targetFolder: 'NotebookLM',
         autoTags: ['notebooklm', 'imported'],
@@ -64,65 +64,71 @@
 
     /**
      * 현재 페이지에서 NotebookLM 노트 내용 추출
-     * NotebookLM의 실제 DOM 구조 기반 (2025-12-18 업데이트)
+     * NOTE-EDITOR 기반 (2025-12-19 최종 업데이트)
      */
     function extractNotebookContent() {
         console.log('[NotebookLM→Obsidian] 🔍 콘텐츠 추출 시작');
+        console.log('[NotebookLM→Obsidian] 페이지 URL:', window.location.href);
 
-        // NotebookLM의 note viewer 찾기
-        const viewer = document.querySelector('labs-tailwind-doc-viewer.note-editor');
-        console.log('[NotebookLM→Obsidian] viewer 찾기:', viewer ? '✅ 발견' : '❌ 없음');
+        // NOTE-EDITOR 찾기 (NotebookLM의 실제 에디터)
+        const noteEditor = document.querySelector('note-editor');
+        console.log('[NotebookLM→Obsidian] NOTE-EDITOR 찾기:', noteEditor ? '✅ 발견' : '❌ 없음');
 
-        if (!viewer) {
-            console.error('[NotebookLM→Obsidian] Note viewer를 찾을 수 없습니다. 노트가 열려있는지 확인하세요.');
+        if (!noteEditor) {
+            console.error('[NotebookLM→Obsidian] ❌ NOTE-EDITOR를 찾을 수 없습니다.');
+            console.log('[NotebookLM→Obsidian] 노트를 열고 페이지가 완전히 로드된 후 다시 시도하세요.');
             return { title: '무제 노트', content: '' };
         }
 
-        // 제목 추출: 첫 번째 heading 요소에서 추출
+        // 제목 추출 (INPUT 요소에서)
         let title = '무제 노트';
-        const headingElement = viewer.querySelector('.paragraph.heading3, .paragraph.heading2, .paragraph.heading1');
-        console.log('[NotebookLM→Obsidian] heading 찾기:', headingElement ? '✅ 발견' : '❌ 없음');
 
-        if (headingElement) {
-            const headingClone = headingElement.cloneNode(true);
-            // 인용 버튼 제거
-            headingClone.querySelectorAll('button.citation-marker').forEach(btn => btn.remove());
-            title = headingClone.textContent.trim();
-            console.log('[NotebookLM→Obsidian] 제목:', title);
-        }
-
-        // 본문 추출: 모든 paragraph 요소
-        const paragraphs = viewer.querySelectorAll('.paragraph');
-        console.log('[NotebookLM→Obsidian] paragraph 개수:', paragraphs.length);
-
-        let content = '';
-
-        paragraphs.forEach((para, index) => {
-            // DOM 복사본 생성 (원본 변경 방지)
-            const clone = para.cloneNode(true);
-
-            // 불필요한 요소 제거
-            clone.querySelectorAll('button.citation-marker').forEach(btn => btn.remove());
-
-            const text = clone.textContent.trim();
-            if (text) {
-                // heading은 마크다운 형식으로 변환
-                if (para.classList.contains('heading1')) {
-                    content += `# ${text}\n\n`;
-                } else if (para.classList.contains('heading2')) {
-                    content += `## ${text}\n\n`;
-                } else if (para.classList.contains('heading3')) {
-                    content += `### ${text}\n\n`;
+        // 1순위: note-header__editable-title 클래스를 가진 INPUT
+        const titleInput = noteEditor.querySelector('input.note-header__editable-title');
+        if (titleInput && titleInput.value) {
+            title = titleInput.value.trim();
+            console.log('[NotebookLM→Obsidian] 제목 추출 (input.note-header__editable-title):', title);
+        } else {
+            // 2순위: 아무 INPUT이라도
+            const anyInput = noteEditor.querySelector('input[type="text"], input:not([type])');
+            if (anyInput && anyInput.value) {
+                title = anyInput.value.trim();
+                console.log('[NotebookLM→Obsidian] 제목 추출 (input 대안):', title);
+            } else {
+                // 3순위: 페이지 제목에서 추출 (마지막 수단)
+                const pageTitle = document.title.replace(' - NotebookLM', '').trim();
+                if (pageTitle && pageTitle !== 'NotebookLM') {
+                    title = pageTitle;
+                    console.log('[NotebookLM→Obsidian] 제목 추출 (페이지 제목):', title);
                 } else {
-                    content += text + '\n\n';
+                    console.warn('[NotebookLM→Obsidian] 제목을 찾을 수 없어 기본값 사용');
                 }
             }
-        });
+        }
+
+        // 본문 추출 - NOTE-EDITOR의 innerText (형식 유지)
+        let content = noteEditor.innerText.trim();
+
+        // 제목 제거 (중복 방지)
+        if (title !== '무제 노트') {
+            // 제목이 맨 앞에 있으면 제거
+            const lines = content.split('\n');
+            if (lines[0].trim() === title.trim()) {
+                lines.shift(); // 첫 줄 제거
+                content = lines.join('\n').trim();
+            }
+        }
 
         console.log('[NotebookLM→Obsidian] 추출된 내용 길이:', content.length, '자');
+        console.log('[NotebookLM→Obsidian] 줄바꿈 개수:', (content.match(/\n/g) || []).length);
         console.log('[NotebookLM→Obsidian] 내용 미리보기:', content.substring(0, 100));
 
-        return { title, content: content.trim() };
+        if (!content || content.length < 10) {
+            console.error('[NotebookLM→Obsidian] ❌ 추출된 내용이 너무 짧습니다.');
+            return { title, content: '' };
+        }
+
+        return { title, content };
     }
 
     /**
@@ -222,7 +228,6 @@ tags: [${CONFIG.autoTags.join(', ')}]
      */
     function addSaveButtonListener() {
         // NotebookLM의 "메모에 저장" 버튼 찾기
-        // 사용자가 제공한 HTML 구조 기반
         const saveButton = document.querySelector('button[mat-stroked-button] .save-to-note-text');
 
         if (!saveButton) {
@@ -268,7 +273,7 @@ tags: [${CONFIG.autoTags.join(', ')}]
 
         const customButton = document.createElement('button');
         customButton.id = 'obsidian-save-btn';
-        customButton.textContent = '📓 Obsidian에 저장';  // innerHTML → textContent (Trusted Types 정책 준수)
+        customButton.textContent = '📓 Obsidian에 저장';
         customButton.style.cssText = `
             position: fixed;
             bottom: 20px;
@@ -323,7 +328,7 @@ tags: [${CONFIG.autoTags.join(', ')}]
 
     // 페이지 로드 시 버튼 감지
     function init() {
-        console.log('[NotebookLM→Obsidian] 스크립트 시작');
+        console.log('[NotebookLM→Obsidian] 스크립트 시작 (v2.0.0 - NOTE-EDITOR 기반)');
 
         // 기존 버튼 감지
         addSaveButtonListener();
