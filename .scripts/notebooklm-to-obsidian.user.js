@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         NotebookLM to Obsidian Auto-Saver
 // @namespace    http://tampermonkey.net/
-// @version      2.0.0
-// @description  NotebookLM의 "메모에 저장" 버튼 클릭 시 Obsidian으로 자동 저장 (NOTE-EDITOR 기반)
+// @version      2.1.0
+// @description  NotebookLM의 "메모에 저장" 버튼 클릭 시 Obsidian으로 자동 저장 (NOTE-EDITOR + 인용 정보)
 // @author       Claude Code
 // @match        https://notebooklm.google.com/*
 // @grant        GM_xmlhttpRequest
@@ -109,6 +109,18 @@
         // 본문 추출 - NOTE-EDITOR의 innerText (형식 유지)
         let content = noteEditor.innerText.trim();
 
+        // 인용(citation) 개수 확인
+        const citationButtons = noteEditor.querySelectorAll('button.citation-marker');
+        const citationCount = citationButtons.length;
+        console.log('[NotebookLM→Obsidian] 인용 버튼 개수:', citationCount);
+
+        // 인용 정보 푸터 추가
+        if (citationCount > 0) {
+            content += '\n\n---\n\n## 📚 인용 정보\n\n';
+            content += `> 이 문서에는 **${citationCount}개**의 인용이 포함되어 있습니다.\n`;
+            content += `> NotebookLM에서 각 번호를 클릭하면 상세 출처를 확인할 수 있습니다.\n`;
+        }
+
         // 제목 제거 (중복 방지)
         if (title !== '무제 노트') {
             // 제목이 맨 앞에 있으면 제거
@@ -121,6 +133,7 @@
 
         console.log('[NotebookLM→Obsidian] 추출된 내용 길이:', content.length, '자');
         console.log('[NotebookLM→Obsidian] 줄바꿈 개수:', (content.match(/\n/g) || []).length);
+        console.log('[NotebookLM→Obsidian] 인용 개수:', citationCount, '개');
         console.log('[NotebookLM→Obsidian] 내용 미리보기:', content.substring(0, 100));
 
         if (!content || content.length < 10) {
@@ -328,7 +341,7 @@ tags: [${CONFIG.autoTags.join(', ')}]
 
     // 페이지 로드 시 버튼 감지
     function init() {
-        console.log('[NotebookLM→Obsidian] 스크립트 시작 (v2.0.0 - NOTE-EDITOR 기반)');
+        console.log('[NotebookLM→Obsidian] 스크립트 시작 (v2.1.0 - NOTE-EDITOR + 인용 정보)');
 
         // 기존 버튼 감지
         addSaveButtonListener();
