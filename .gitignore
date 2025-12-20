@@ -16,10 +16,19 @@
 
 # API keys and secrets
 Secret/
+secret/
 **/config/*secret*
 **/config/*key*
 **/*secret*.json
 **/*key*.json
+
+# 개인 민감 정보
+개인자료/업무관련/
+개인자료/
+
+# Obsidian API 테스트 파일 (API 키 포함 가능)
+.scripts/test_obsidian_api.sh
+.scripts/**/test*.sh
 
 # macOS
 .DS_Store

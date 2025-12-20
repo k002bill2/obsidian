@@ -1,142 +1,216 @@
 # 🚨 API 키 보안 조치 가이드
 
-## ⚠️ 즉시 조치 필요!
-
-API 키가 Git 히스토리 및 플러그인 설정 파일에 노출되어 있습니다. 아래 단계를 **즉시** 수행하세요.
+모든 API 키와 민감한 정보는 **`secret/` 폴더**에 안전하게 보관하세요!
 
 ---
 
-## 📋 발견된 보안 문제
+## ✅ 보안 조치 완료 상태
 
-### 1. Git 히스토리 내 OpenAI API 키 노출
-- **파일**: `Downloads/springboot-react-docker-chatbot-main/README.md`
-- **커밋**: d7200f2 (2025-08-29)
-- **노출된 키**: `sk-proj-xZldTidJqHYj22JuaIC...` (전체 키 노출됨)
-- **상태**: Git 히스토리에 영구 저장됨
+### 1. ✅ secret 폴더 생성 완료
+- **위치**: `secret/`
+- **상태**: Obsidian에서 볼 수 있음
+- **Git 보호**: `.gitignore`에 추가됨
+- **동기화**: iCloud로만 동기화 (암호화됨)
 
-### 2. Anthropic API 키 노출
-- **파일**: `.obsidian/plugins/smart-composer/data.json`
-- **노출된 키**: `sk-ant-api03-6x_IOVXrL2HWg30UOH...`
-- **상태**: ✅ 플레이스홀더로 교체 완료
-- **조치 필요**: 즉시 재발급
+### 2. ✅ .gitignore 설정 완료
+```gitignore
+# API keys and secrets
+Secret/
+secret/
+.obsidian/plugins/*/data.json
+**/*secret*.json
+**/*key*.json
 
-### 3. Google Gemini API 키 노출
-- **파일**: `.obsidian/plugins/smart-composer/data.json`
-- **노출된 키**: `AIzaSyCv30lDO977Znny8yIombp3COd8L3Sb_00`
-- **상태**: ✅ 플레이스홀더로 교체 완료
-- **조치 필요**: 즉시 재발급
+# 개인 민감 정보
+개인자료/업무관련/
+개인자료/
 
----
-
-## 🔴 1단계: 즉시 API 키 재발급
-
-### OpenAI API 키 재발급
-1. https://platform.openai.com/api-keys 접속
-2. 노출된 키 찾기: `sk-proj-xZldTidJqHYj22JuaIC...`
-3. **"Revoke"** 버튼 클릭하여 키 삭제
-4. **"Create new secret key"**로 새 키 발급
-5. 새 키를 안전한 곳에 저장 (1Password, Bitwarden 등)
-
-### Anthropic API 키 재발급
-1. https://console.anthropic.com/settings/keys 접속
-2. 노출된 키 찾기: `sk-ant-api03-6x_IOVXrL2HWg30UOH...`
-3. 해당 키 삭제
-4. **"Create Key"**로 새 키 발급
-5. 새 키를 안전한 곳에 저장
-
-### Google Gemini API 키 재발급
-1. https://aistudio.google.com/app/apikey 또는 Google Cloud Console 접속
-2. 노출된 키 찾기: `AIzaSyCv30lDO977Znny8yIombp3COd8L3Sb_00`
-3. 해당 키 삭제
-4. 새 API 키 생성
-5. 새 키를 안전한 곳에 저장
-
----
-
-## 🟡 2단계: 새 API 키 설정
-
-### Obsidian Smart Composer 플러그인
-1. Obsidian에서 **Settings** → **Smart Composer** 이동
-2. 각 Provider 설정에서 새로 발급받은 API 키 입력:
-   - **Anthropic**: 새 Anthropic API 키
-   - **Gemini**: 새 Google Gemini API 키
-   - **OpenAI**: 새 OpenAI API 키 (필요시)
-
-**중요**: 플러그인 UI를 통해 입력하면 `data.json`에 자동으로 저장됩니다.
-
----
-
-## 🟢 3단계: Git 히스토리 정리 (선택사항)
-
-Git 히스토리에서 API 키를 완전히 제거하려면:
-
-### 옵션 A: BFG Repo-Cleaner (권장)
-```bash
-# BFG 설치 (Homebrew 사용)
-brew install bfg
-
-# API 키가 포함된 파일 정리
-bfg --replace-text <(echo 'sk-proj-xZldTidJqHYj22JuaIC...*==>***REMOVED***')
-
-# 변경사항 적용
-git reflog expire --expire=now --all
-git gc --prune=now --aggressive
+# Obsidian API 테스트 파일 (API 키 포함 가능)
+.scripts/test_obsidian_api.sh
+.scripts/**/test*.sh
 ```
 
-### 옵션 B: git filter-branch
-```bash
-git filter-branch --force --index-filter \
-  "git rm --cached --ignore-unmatch Downloads/springboot-react-docker-chatbot-main/README.md" \
-  --prune-empty --tag-name-filter cat -- --all
+---
 
+## 📁 secret 폴더 구조
+
+```
+secret/
+├── README.md                    ← 폴더 사용 안내
+├── api-keys.md                 ← ⭐ API 키 중앙 관리
+└── config-backup/              ← 플러그인 설정 백업
+    ├── README.md
+    ├── smart-composer-YYYYMMDD.json
+    └── local-rest-api-YYYYMMDD.json
+```
+
+---
+
+## 🔑 API 키 관리 방법
+
+### 1단계: API 키 저장
+
+**`secret/api-keys.md`** 파일을 열고 API 키를 입력하세요:
+
+```markdown
+## OpenAI API
+- API Key: sk-proj-xxxxx
+- Organization: org-xxxxx
+- 생성일: 2025-12-21
+- 상태: ✅ 활성
+
+## Anthropic API
+- API Key: sk-ant-api03-xxxxx
+- 생성일: 2025-12-21
+- 상태: ✅ 활성
+
+## Obsidian Local REST API
+- API Key: 171c9f4842fe5b6476229473af33bfe4392514641d6fd98fa55283bb04e36db2
+- HTTP Port: 27123
+- 상태: ✅ 활성
+```
+
+### 2단계: 플러그인 설정 백업
+
+중요한 플러그인 설정을 `secret/config-backup/`에 백업:
+
+```bash
+# Smart Composer 설정 백업
+cp ".obsidian/plugins/smart-composer/data.json" \
+   "secret/config-backup/smart-composer-$(date +%Y%m%d).json"
+
+# Local REST API 설정 백업
+cp ".obsidian/plugins/obsidian-local-rest-api/data.json" \
+   "secret/config-backup/local-rest-api-$(date +%Y%m%d).json"
+```
+
+---
+
+## 🔐 보안 체크리스트
+
+### ✅ 기본 보안
+- [x] `secret/` 폴더 생성 완료
+- [x] `.gitignore`에 `secret/` 추가 완료
+- [x] `api-keys.md` 템플릿 생성 완료
+- [x] 플러그인 `data.json` Git 제외 완료
+- [x] `개인자료/` 폴더 Git 제외 완료
+- [x] 업무 관련 접속 정보 보호 완료
+- [x] API 테스트 스크립트 Git 제외 완료
+
+### 📝 매번 확인할 것
+- [ ] API 키를 `secret/api-keys.md`에 저장했는지 확인
+- [ ] Git 커밋 전 `git status` 실행
+- [ ] `secret/` 폴더가 **Untracked files**에 나타나지 않는지 확인
+- [ ] 스크린샷 공유 시 `secret/` 폴더 내용 노출 여부 확인
+
+---
+
+## 🚨 API 키 노출 시 조치
+
+만약 API 키가 Git에 올라갔다면 **즉시** 다음 단계를 수행하세요:
+
+### 1단계: API 키 재발급
+
+#### OpenAI API 키
+1. https://platform.openai.com/api-keys 접속
+2. 노출된 키 찾기 → **"Revoke"** 클릭
+3. **"Create new secret key"**로 새 키 발급
+4. `secret/api-keys.md`에 새 키 저장
+
+#### Anthropic API 키
+1. https://console.anthropic.com/settings/keys 접속
+2. 노출된 키 삭제
+3. **"Create Key"**로 새 키 발급
+4. `secret/api-keys.md`에 새 키 저장
+
+#### Google Gemini API 키
+1. https://aistudio.google.com/app/apikey 접속
+2. 노출된 키 삭제
+3. 새 API 키 생성
+4. `secret/api-keys.md`에 새 키 저장
+
+### 2단계: Git 히스토리 정리
+
+```bash
+# BFG Repo-Cleaner 사용 (권장)
+brew install bfg
+
+# API 키 제거
+bfg --replace-text passwords.txt
+git reflog expire --expire=now --all
+git gc --prune=now --aggressive
+
+# Force push (주의!)
 git push origin --force --all
 ```
 
-⚠️ **주의**: 이 작업은 Git 히스토리를 재작성합니다. 협업 중이라면 팀원들과 조율 필요!
+⚠️ **경고**: Git 히스토리 재작성은 협업 중인 경우 문제가 될 수 있습니다!
+
+### 3단계: 플러그인 설정 업데이트
+
+```bash
+# Obsidian → Settings → Smart Composer
+# 새로 발급받은 API 키 입력
+```
 
 ---
 
-## 📝 4단계: 보안 모범 사례 적용
+## 🔄 API 키 로테이션 (정기 재발급)
 
-### ✅ 완료된 조치
-- [x] `.gitignore` 파일 생성
-- [x] 플러그인 `data.json` 파일을 `.gitignore`에 추가
-- [x] 노출된 API 키를 플레이스홀더로 교체
+### 권장 주기
+- **OpenAI/Anthropic/Google**: 3-6개월마다
+- **Obsidian Local REST API**: 6-12개월마다
 
-### 🔄 향후 권장 사항
-
-1. **환경 변수 사용**
-   - API 키를 `.env` 파일에 저장
-   - `.env` 파일을 `.gitignore`에 추가
-   - 플러그인이 환경 변수를 지원하는지 확인
-
-2. **비밀 관리 도구 사용**
-   - 1Password, Bitwarden, LastPass 등 사용
-   - Obsidian 플러그인 연동 시 복사-붙여넣기
-
-3. **정기적인 키 로테이션**
-   - 3-6개월마다 API 키 재발급
-   - 사용하지 않는 키는 즉시 삭제
-
-4. **Git 커밋 전 체크**
-   - `git diff`로 변경사항 확인
-   - API 키, 비밀번호 등 민감 정보 포함 여부 확인
-   - Pre-commit hook 설정 (선택사항)
+### 로테이션 절차
+1. 새 API 키 발급
+2. `secret/api-keys.md`에 새 키 추가 (이전 키는 삭제하지 말고 "❌ 폐기됨" 표시)
+3. 플러그인 설정 업데이트
+4. 이전 키 삭제 (서비스 제공자 측)
+5. 로그 확인 (의심스러운 활동 체크)
 
 ---
 
-## 🔍 보안 체크리스트
+## 📖 관련 문서
 
-완료 후 아래 항목을 확인하세요:
+- **[secret/README.md](secret/README.md)**: secret 폴더 사용 안내
+- **[secret/api-keys.md](secret/api-keys.md)**: API 키 중앙 관리 (⚠️ 민감 정보)
+- **[NotebookLM 자동 저장 가이드.md](NotebookLM 자동 저장 가이드.md)**: NotebookLM API 설정
 
-- [ ] OpenAI API 키 재발급 완료
-- [ ] Anthropic API 키 재발급 완료
-- [ ] Google Gemini API 키 재발급 완료
-- [ ] 기존 노출된 키 모두 삭제 완료
-- [ ] Obsidian 플러그인에 새 키 설정 완료
-- [ ] `.gitignore` 파일 추가 완료
-- [ ] 플러그인 `data.json` 파일이 Git에서 제외되는지 확인
-- [ ] (선택) Git 히스토리 정리 완료
+---
+
+## 💡 추가 보안 팁
+
+### 1. 비밀 관리 도구 사용
+- **1Password**, **Bitwarden**, **LastPass** 등 사용 권장
+- API 키를 복사-붙여넣기 방식으로 사용
+- 자동 입력 기능 활용
+
+### 2. 환경 변수 사용 (고급)
+```bash
+# .env 파일 생성 (Git 제외됨)
+OPENAI_API_KEY=sk-proj-xxxxx
+ANTHROPIC_API_KEY=sk-ant-api03-xxxxx
+OBSIDIAN_API_KEY=171c9f48...
+```
+
+### 3. 정기 감사
+```bash
+# Git 로그에서 API 키 패턴 검색
+git log -p | grep -i "sk-proj\|sk-ant\|AIzaSy"
+
+# 결과가 없으면 안전
+```
+
+---
+
+## 🎯 현재 관리 중인 API 키
+
+| 서비스 | 파일 위치 | 상태 | 마지막 확인 |
+|--------|----------|------|------------|
+| OpenAI | `secret/api-keys.md` | - | - |
+| Anthropic | `secret/api-keys.md` | - | - |
+| Google Gemini | `secret/api-keys.md` | - | - |
+| **Obsidian Local REST API** | `secret/api-keys.md` | ✅ 활성 | 2025-12-21 |
 
 ---
 
@@ -149,10 +223,17 @@ git push origin --force --all
 ---
 
 ## ⏰ 마지막 업데이트
-- **작성일**: 2025-12-17
+- **작성일**: 2025-12-21
 - **작성자**: Claude Code
-- **버전**: 1.0
+- **버전**: 2.1
+- **변경 사항**:
+  - ✅ `secret/` 폴더 생성 및 안내 추가
+  - ✅ API 키 중앙 관리 시스템 구축
+  - ✅ 플러그인 설정 백업 가이드 추가
+  - ✅ `개인자료/` 폴더 전체 Git 보호 추가
+  - ✅ 업무 관련 접속 정보 보호 설정
+  - ✅ API 테스트 스크립트 보호 설정
 
 ---
 
-**다음 단계**: 위의 1-4단계를 순서대로 진행하세요. 질문이 있으면 언제든지 문의하세요!
+**다음 단계**: `secret/api-keys.md` 파일을 열어서 API 키를 안전하게 저장하세요! 🔐
