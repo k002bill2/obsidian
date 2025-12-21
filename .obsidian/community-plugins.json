@@ -31,7 +31,5 @@
   "simple-rss",
   "slides-extended",
   "obsidian-git",
-  "obsidian-custom-frames",
-  "obsidian-linter",
-  "obsidian-local-rest-api"
+  "obsidian-custom-frames"
 ]

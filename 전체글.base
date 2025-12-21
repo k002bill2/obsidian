@@ -1,0 +1,12 @@
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - created
+      - file.folder
+      - tags
+    columnSize:
+      note.created: 173
+      file.folder: 137
+      note.tags: 213

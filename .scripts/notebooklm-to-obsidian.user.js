@@ -84,11 +84,11 @@
     }
 
     /**
-     * 단일 HTML table을 마크다운으로 변환
+     * NotebookLM 테이블을 마크다운으로 변환 (Angular 컴포넌트 구조 대응)
      */
     function convertTableToMarkdown(table) {
         const rows = Array.from(table.querySelectorAll('tr'));
-        
+
         if (rows.length === 0) {
             return '';
         }
@@ -96,7 +96,18 @@
         const tableData = rows.map(tr => {
             const cells = Array.from(tr.querySelectorAll('th, td'));
             return cells.map(cell => {
-                // 셀 내용에서 줄바꿈을 공백으로, 파이프 문자 이스케이프
+                // NotebookLM 테이블: div.paragraph 내부의 텍스트 추출
+                const paragraphs = cell.querySelectorAll('div.paragraph');
+                if (paragraphs.length > 0) {
+                    // 각 paragraph의 텍스트를 공백으로 연결
+                    const cellText = Array.from(paragraphs)
+                        .map(p => p.innerText.trim())
+                        .join(' ')
+                        .replace(/\n/g, ' ')  // 줄바꿈을 공백으로
+                        .replace(/\|/g, '\\|');  // 파이프 이스케이프
+                    return cellText;
+                }
+                // 일반 HTML 테이블 fallback
                 return cell.innerText.trim().replace(/\n/g, ' ').replace(/\|/g, '\\|');
             });
         });
@@ -130,10 +141,35 @@
      * NotebookLM 전용 마크다운 변환 (실제 DOM 구조 기반)
      */
     function convertNotebookLMToMarkdown(noteEditor) {
-        const paragraphs = noteEditor.querySelectorAll('div.paragraph');
         let markdown = '';
 
+        // 1. 테이블 먼저 처리
+        const tables = noteEditor.querySelectorAll('table');
+        const processedTables = new Set();
+
+        for (const table of tables) {
+            const mdTable = convertTableToMarkdown(table);
+            if (mdTable) {
+                markdown += '\n\n' + mdTable + '\n\n';
+                processedTables.add(table);
+                console.log('[NotebookLM→Obsidian] 테이블 변환 완료');
+            }
+        }
+
+        // 2. 문단 처리 (테이블 내부 요소는 제외)
+        const paragraphs = noteEditor.querySelectorAll('div.paragraph');
+
         for (const para of paragraphs) {
+            // 테이블 내부의 paragraph는 건너뛰기
+            let isInsideTable = false;
+            for (const table of processedTables) {
+                if (table.contains(para)) {
+                    isInsideTable = true;
+                    break;
+                }
+            }
+            if (isInsideTable) continue;
+
             const classList = Array.from(para.classList);
 
             // 헤딩 처리
