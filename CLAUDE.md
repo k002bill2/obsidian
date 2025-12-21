@@ -220,3 +220,65 @@ From `🚨 API 키 보안 조치 가이드.md`:
 - **AI Prompting**: `프롬프트 개발 템플릿.md`, `Clippings/구글의 AI 프롬프팅 정석 TCREI 요약.md`
 - **NotebookLM Integration**: `NotebookLM 동기화 가이드.md`
 - **Project Templates**: Files in `Rules/` starting with `Template_`
+- **Skills Guide**: `skills guide/` 폴더 내 Claude Code 활용 가이드
+
+## Claude Code 확장 시스템
+
+### Skills (`.claude/skills/`)
+
+자동 활성화되는 가이드라인 시스템:
+
+| Skill | 용도 | 트리거 키워드 |
+|-------|------|--------------|
+| `obsidian-note` | 노트 생성/관리 | 노트, note, 문서 |
+| `agent-creator` | Agent 정의 생성 | agent, 에이전트 |
+| `knowledge-organizer` | 기술 문서 작성 | knowledge, 지식, 가이드 |
+
+### Custom Commands (`.claude/commands/`)
+
+| 커맨드 | 설명 |
+|--------|------|
+| `/new-note` | 표준 형식으로 새 노트 생성 |
+| `/dev-docs` | 프로젝트 계획에 대한 Dev Docs 3-파일 생성 |
+| `/update-dev-docs` | 진행 상황으로 Dev Docs 업데이트 |
+| `/new-agent` | 새 AI Agent 정의 생성 |
+
+### Sub-Agents (`.claude/agents/`)
+
+| 에이전트 | 역할 |
+|---------|------|
+| `note-organizer` | 노트 정리 및 구조화 |
+| `knowledge-curator` | 기술 지식 문서 큐레이션 |
+| `strategic-planner` | 대규모 프로젝트 계획 수립 (opus) |
+
+### Workflows (`.agent/workflows/`)
+
+| 워크플로우 | 설명 |
+|-----------|------|
+| `/new-note` | 새 노트 생성 워크플로우 |
+| `/project-planning` | 프로젝트 계획 및 Dev Docs 생성 |
+| `/new-agent` | 새 Agent 생성 워크플로우 |
+
+### Dev Docs 시스템 (`dev/`)
+
+대규모 작업의 컨텍스트를 유지하기 위한 3-파일 시스템:
+
+```
+dev/
+├── active/              # 진행 중인 프로젝트
+│   └── [project]/
+│       ├── [project]-plan.md     # 승인된 계획
+│       ├── [project]-context.md  # 핵심 결정사항
+│       └── [project]-tasks.md    # 체크리스트
+└── completed/           # 완료된 프로젝트 아카이브
+```
+
+**워크플로우**:
+1. 계획 수립: `planning mode로 [프로젝트] 계획해줘`
+2. Dev Docs 생성: `/dev-docs`
+3. 진행 업데이트: `/update-dev-docs`
+4. 세션 재시작: `[프로젝트] 계속 작업해줘`
+
+### Skill Rules (`.claude/skill-rules.json`)
+
+키워드 및 패턴 기반 Skills 자동 활성화 규칙 정의
