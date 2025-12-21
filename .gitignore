@@ -53,3 +53,9 @@ yarn-error.log*
 
 # Node modules (if any Obsidian plugins use them)
 node_modules/
+
+
+
+
+# Ignore Smart Environment folder
+.smart-env

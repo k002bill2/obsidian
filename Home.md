@@ -1,1 +1,2 @@
-[[전체글.base]]
+[[전체글.base]]```smart-grok
+```
