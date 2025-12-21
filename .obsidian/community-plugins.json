@@ -7,9 +7,7 @@
   "periodic-notes",
   "smart-composer",
   "templater-obsidian",
-  "obsidian-local-rest-api",
   "media-extended",
-  "obsidian-custom-frames",
   "obsidian-kanban",
   "dataview",
   "obsidian-tasks-plugin",
@@ -32,5 +30,8 @@
   "mindmap",
   "simple-rss",
   "slides-extended",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-custom-frames",
+  "obsidian-linter",
+  "obsidian-local-rest-api"
 ]

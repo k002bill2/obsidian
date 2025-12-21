@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         NotebookLM to Obsidian Auto-Saver (Browser Edition)
 // @namespace    http://tampermonkey.net/
-// @version      2.4.0
-// @description  NotebookLM을 일반 브라우저에서 열 때 Obsidian으로 자동 저장 (Tampermonkey 필요)
+// @version      3.1.0
+// @description  NotebookLM을 일반 브라우저에서 열 때 Obsidian으로 자동 저장 (Tampermonkey 필요) - DOM 구조 디버그
 // @author       Claude Code
 // @match        https://notebooklm.google.com/*
 // @grant        GM_xmlhttpRequest
@@ -26,7 +26,29 @@
         showNotification: true
     };
 
-    console.log('[NotebookLM→Obsidian] 스크립트 시작 (Browser v2.4.0 - Tampermonkey)');
+    console.log('[NotebookLM→Obsidian] 스크립트 시작 (Browser v3.1.0 - DEBUG)');
+
+    // DOM 구조 디버깅 함수
+    function debugDOMStructure(element, prefix = '', maxDepth = 3, currentDepth = 0) {
+        if (currentDepth > maxDepth) return;
+
+        const tagName = element.tagName?.toLowerCase() || 'text';
+        const className = element.className ? `.${element.className.split(' ').join('.')}` : '';
+        const id = element.id ? `#${element.id}` : '';
+        const text = element.nodeType === Node.TEXT_NODE
+            ? element.textContent.trim().substring(0, 50)
+            : '';
+
+        if (element.nodeType === Node.TEXT_NODE && text) {
+            console.log(`${prefix}[TEXT] "${text}"`);
+        } else if (element.nodeType === Node.ELEMENT_NODE) {
+            console.log(`${prefix}<${tagName}${id}${className}>`);
+
+            for (const child of element.childNodes) {
+                debugDOMStructure(child, prefix + '  ', maxDepth, currentDepth + 1);
+            }
+        }
+    }
 
     // ========================================
     // 유틸리티 함수
@@ -61,86 +83,9 @@
         }, 3000);
     }
 
-    function extractNotebookContent() {
-        console.log('[NotebookLM→Obsidian] 🔍 콘텐츠 추출 시작');
-
-        let noteEditor = document.querySelector('.note-editor');
-        if (!noteEditor) {
-            noteEditor = document.querySelector('.artifact-content');
-        }
-        if (!noteEditor) {
-            noteEditor = document.querySelector('labs-tailwind-doc-viewer');
-        }
-        if (!noteEditor) {
-            noteEditor = document.querySelector('note-editor');
-        }
-
-        if (!noteEditor) {
-            console.error('[NotebookLM→Obsidian] NOTE-EDITOR를 찾을 수 없습니다.');
-            return { title: '무제 노트', content: '' };
-        }
-
-        // 제목 추출
-        let title = '무제 노트';
-        let titleInput = document.querySelector('input.note-header__editable-title') || 
-                         noteEditor.querySelector('input.note-header__editable-title');
-        if (!titleInput) {
-            titleInput = document.querySelector('input.artifact-title');
-        }
-
-        if (titleInput && titleInput.value) {
-            title = titleInput.value.trim();
-        } else {
-            const pageTitle = document.title.replace(' - NotebookLM', '').trim();
-            if (pageTitle && pageTitle !== 'NotebookLM') {
-                title = pageTitle;
-            }
-        }
-
-        // 본문 추출
-        let content = noteEditor.innerText.trim();
-
-        // HTML table 변환
-        content = convertHTMLTablesToMarkdown(noteEditor, content);
-
-        // 인용 정보
-        const citationButtons = noteEditor.querySelectorAll('button.citation-marker');
-        const citationCount = citationButtons.length;
-
-        if (citationCount > 0) {
-            content += '\n\n---\n\n## 📚 인용 정보\n\n';
-            content += `> 이 문서에는 **${citationCount}개**의 인용이 포함되어 있습니다.\n`;
-            content += `> NotebookLM에서 각 번호를 클릭하면 상세 출처를 확인할 수 있습니다.\n`;
-        }
-
-        // 제목 제거 (중복 방지)
-        if (title !== '무제 노트') {
-            const lines = content.split('\n');
-            if (lines[0].trim() === title.trim()) {
-                lines.shift();
-                content = lines.join('\n').trim();
-            }
-        }
-
-        return { title, content };
-    }
-
-    function convertHTMLTablesToMarkdown(noteEditor, content) {
-        const tables = noteEditor.querySelectorAll('table');
-        
-        if (tables.length === 0) {
-            return content;
-        }
-
-        tables.forEach((table) => {
-            const markdownTable = convertTableToMarkdown(table);
-            const tableText = table.innerText;
-            content = content.replace(tableText, markdownTable);
-        });
-
-        return content;
-    }
-
+    /**
+     * 단일 HTML table을 마크다운으로 변환
+     */
     function convertTableToMarkdown(table) {
         const rows = Array.from(table.querySelectorAll('tr'));
         
@@ -150,7 +95,10 @@
 
         const tableData = rows.map(tr => {
             const cells = Array.from(tr.querySelectorAll('th, td'));
-            return cells.map(cell => cell.innerText.trim().replace(/\n/g, ' '));
+            return cells.map(cell => {
+                // 셀 내용에서 줄바꿈을 공백으로, 파이프 문자 이스케이프
+                return cell.innerText.trim().replace(/\n/g, ' ').replace(/\|/g, '\\|');
+            });
         });
 
         const filteredData = tableData.filter(row => row.some(cell => cell));
@@ -175,7 +123,173 @@
         const separatorLine = '| ' + header.map(() => '---').join(' | ') + ' |';
         const dataLines = dataRows.map(row => '| ' + row.join(' | ') + ' |');
 
-        return '\n' + [headerLine, separatorLine, ...dataLines].join('\n') + '\n';
+        return [headerLine, separatorLine, ...dataLines].join('\n');
+    }
+
+    /**
+     * NotebookLM 전용 마크다운 변환 (실제 DOM 구조 기반)
+     */
+    function convertNotebookLMToMarkdown(noteEditor) {
+        const paragraphs = noteEditor.querySelectorAll('div.paragraph');
+        let markdown = '';
+
+        for (const para of paragraphs) {
+            const classList = Array.from(para.classList);
+
+            // 헤딩 처리
+            if (classList.includes('heading3')) {
+                const text = para.innerText.trim();
+                markdown += '\n\n## ' + text + '\n\n';
+                continue;
+            }
+
+            // 일반 문단 처리
+            if (classList.includes('normal')) {
+                let lineText = '';
+
+                for (const child of para.childNodes) {
+                    if (child.nodeType === Node.TEXT_NODE) {
+                        lineText += child.textContent;
+                    } else if (child.nodeType === Node.ELEMENT_NODE) {
+                        const tag = child.tagName.toLowerCase();
+
+                        if (tag === 'b' || tag === 'strong') {
+                            lineText += '**' + child.innerText.trim() + '**';
+                        } else if (tag === 'code') {
+                            lineText += '`' + child.innerText.trim() + '`';
+                        } else if (tag === 'span') {
+                            // 인용 버튼이 포함된 span은 건너뛰기
+                            if (child.querySelector('button.citation-marker')) {
+                                continue;
+                            }
+                            lineText += child.textContent;
+                        } else if (tag === 'button' && child.classList.contains('citation-marker')) {
+                            // 인용 번호 건너뛰기 (이미 원문에 포함됨)
+                            continue;
+                        } else {
+                            lineText += child.innerText || child.textContent || '';
+                        }
+                    }
+                }
+
+                lineText = lineText.trim();
+
+                // 불릿 포인트 감지 및 처리
+                if (lineText.startsWith('• ') || lineText.startsWith('· ')) {
+                    markdown += lineText + '\n';
+                } else if (/^\d+\.\s/.test(lineText)) {
+                    // 번호 목록
+                    markdown += lineText + '\n';
+                } else if (lineText) {
+                    markdown += '\n' + lineText + '\n';
+                }
+            }
+        }
+
+        return markdown.trim();
+    }
+
+
+    /**
+     * 마크다운 정리 (NotebookLM 원본 형식 유지)
+     */
+    function cleanupMarkdown(markdown) {
+        return markdown
+            // 1. 중점 불릿 사이의 불필요한 빈 줄 제거
+            .replace(/(·[^\n]+)\n\n+(·)/g, '$1\n$2')
+
+            // 2. 들여쓰기된 중점 불릿 사이의 빈 줄 제거
+            .replace(/(\s+·[^\n]+)\n\n+(\s+·)/g, '$1\n$2')
+
+            // 3. 3줄 이상 빈 줄 -> 2줄로
+            .replace(/\n{3,}/g, '\n\n')
+
+            // 4. 앞뒤 공백 제거
+            .replace(/^\s+/, '')
+            .replace(/\s+$/, '');
+    }
+
+    /**
+     * NotebookLM 노트 내용 추출 (원본 형식 재현)
+     */
+    function extractNotebookContent() {
+        console.log('[NotebookLM→Obsidian] 🔍 콘텐츠 추출 시작 (v3.1.0 DEBUG)');
+
+        let noteEditor = document.querySelector('.note-editor');
+        if (!noteEditor) {
+            noteEditor = document.querySelector('.artifact-content');
+        }
+        if (!noteEditor) {
+            noteEditor = document.querySelector('labs-tailwind-doc-viewer');
+        }
+        if (!noteEditor) {
+            noteEditor = document.querySelector('note-editor');
+        }
+
+        if (!noteEditor) {
+            console.error('[NotebookLM→Obsidian] NOTE-EDITOR를 찾을 수 없습니다.');
+            return { title: '무제 노트', content: '' };
+        }
+
+        // 🔍 DOM 구조 디버깅 (첫 번째 리스트 항목)
+        console.log('\n===== DOM 구조 디버깅 시작 =====');
+        const firstList = noteEditor.querySelector('ul, ol');
+        if (firstList) {
+            const firstLi = firstList.querySelector('li');
+            if (firstLi) {
+                console.log('첫 번째 리스트 항목 구조:');
+                debugDOMStructure(firstLi, '', 5);
+            }
+        }
+        console.log('===== DOM 구조 디버깅 종료 =====\n');
+
+        // 제목 추출
+        let title = '무제 노트';
+        let titleInput = document.querySelector('input.note-header__editable-title') || 
+                         noteEditor.querySelector('input.note-header__editable-title');
+        if (!titleInput) {
+            titleInput = document.querySelector('input.artifact-title');
+        }
+
+        if (titleInput && titleInput.value) {
+            title = titleInput.value.trim();
+        } else {
+            const pageTitle = document.title.replace(' - NotebookLM', '').trim();
+            if (pageTitle && pageTitle !== 'NotebookLM') {
+                title = pageTitle;
+            }
+        }
+
+        console.log('[NotebookLM→Obsidian] 제목:', title);
+
+        // NotebookLM 전용 마크다운 변환 사용
+        let content = convertNotebookLMToMarkdown(noteEditor);
+        content = cleanupMarkdown(content);
+
+        // 인용 정보
+        const citationButtons = noteEditor.querySelectorAll('button.citation-marker');
+        const citationCount = citationButtons.length;
+
+        if (citationCount > 0) {
+            content += '\n\n---\n\n## 📚 인용 정보\n\n';
+            content += `> 이 문서에는 **${citationCount}개**의 인용이 포함되어 있습니다.\n`;
+            content += `> NotebookLM에서 각 번호를 클릭하면 상세 출처를 확인할 수 있습니다.\n`;
+        }
+
+        // 제목 중복 제거
+        if (title !== '무제 노트') {
+            const lines = content.split('\n');
+            // 첫 줄이 제목과 동일하거나 # 제목 형식인 경우 제거
+            if (lines[0].trim() === title.trim() || lines[0].trim() === '# ' + title.trim()) {
+                lines.shift();
+                content = lines.join('\n').trim();
+            }
+        }
+
+        console.log('[NotebookLM→Obsidian] 내용 길이:', content.length);
+        console.log('[NotebookLM→Obsidian] 샘플:', content.substring(0, 500));
+
+        return { title, content };
     }
 
     function createMarkdown(title, content) {
