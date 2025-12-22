@@ -1,0 +1,12 @@
+---
+link: https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeWNWX28yTThGRmVFTUllaVJVa2Vtd2lOX054WlU3ZWEwN09qZmVTVm12TjBFRmYzYlNIVjh2ZlZjcnl1QXZaUE5GbkVpazF5LTRmVndhcHNQbVkyRUlWSzlEZjBSWnBFN3JSS1dvNHZST0F0UFh0Y0tKZ0FLMGJOQjV5Nno2WWllUldz0gGfAUFVX3lxTE9EM1dEY2lUeE9NV2ktMmRCblNnTFI4Y0lEa2V5RGM0RXVOZlFoY2hleDczSzZ3MlFEMnR0SFJKS043WlF6azNMREtIYm5nV3BWc3FUTHAwaThmU01ieU1RdnpEZWpmamYza2kzOEl2LVRkeU5WLWk5SWM1Z1hhMk9BbGFuaEhRUXZ5d1RQNEpscUNrcU42NWVRRHhTcWJCSQ?oc=5
+author: 
+published: Sun, 21 Dec 2025 23:47:44 GMT
+tags: [News, Google, 스포츠]
+---
+# "태극마크보다 생존" 일본 매체, 김혜성의 WBC 불발 가능성 직격 - 조선일보
+
+[원문 링크](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeWNWX28yTThGRmVFTUllaVJVa2Vtd2lOX054WlU3ZWEwN09qZmVTVm12TjBFRmYzYlNIVjh2ZlZjcnl1QXZaUE5GbkVpazF5LTRmVndhcHNQbVkyRUlWSzlEZjBSWnBFN3JSS1dvNHZST0F0UFh0Y0tKZ0FLMGJOQjV5Nno2WWllUldz0gGfAUFVX3lxTE9EM1dEY2lUeE9NV2ktMmRCblNnTFI4Y0lEa2V5RGM0RXVOZlFoY2hleDczSzZ3MlFEMnR0SFJKS043WlF6azNMREtIYm5nV3BWc3FUTHAwaThmU01ieU1RdnpEZWpmamYza2kzOEl2LVRkeU5WLWk5SWM1Z1hhMk9BbGFuaEhRUXZ5d1RQNEpscUNrcU42NWVRRHhTcWJCSQ?oc=5)
+
+## 요약/본문
+<a href="https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeWNWX28yTThGRmVFTUllaVJVa2Vtd2lOX054WlU3ZWEwN09qZmVTVm12TjBFRmYzYlNIVjh2ZlZjcnl1QXZaUE5GbkVpazF5LTRmVndhcHNQbVkyRUlWSzlEZjBSWnBFN3JSS1dvNHZST0F0UFh0Y0tKZ0FLMGJOQjV5Nno2WWllUldz0gGfAUFVX3lxTE9EM1dEY2lUeE9NV2ktMmRCblNnTFI4Y0lEa2V5RGM0RXVOZlFoY2hleDczSzZ3MlFEMnR0SFJKS043WlF6azNMREtIYm5nV3BWc3FUTHAwaThmU01ieU1RdnpEZWpmamYza2kzOEl2LVRkeU5WLWk5SWM1Z1hhMk9BbGFuaEhRUXZ5d1RQNEpscUNrcU42NWVRRHhTcWJCSQ?oc=5" target="_blank">"태극마크보다 생존" 일본 매체, 김혜성의 WBC 불발 가능성 직격</a>&nbsp;&nbsp;<font color="#6f6f6f">조선일보</font><strong><a href="https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lCenJtY0VCRUVTM0dXS1E2SXJDZ0FQAQ?hl=ko&gl=KR&ceid=KR:ko&oc=5" target="_blank">Google 뉴스에서 전체 콘텐츠 보기</a></strong>

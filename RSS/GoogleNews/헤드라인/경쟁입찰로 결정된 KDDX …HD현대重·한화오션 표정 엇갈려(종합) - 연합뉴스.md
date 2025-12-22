@@ -1,0 +1,12 @@
+---
+link: https://news.google.com/rss/articles/CBMiW0FVX3lxTE5qOURnYWx4d0lWbUNFZHpaRUJTblpKNkRIblRLNVZLNGVVYWQtcGhQMzQxdzRNaWRVVVc2bWhwZ3VLSWJNV1Y2S1dhRUstaHlDSHFvYUtzbzRmc2PSAWBBVV95cUxPYlNrTl83TGI1UmpvS1ItM2N5aTBBOURkaE9UczNiU2NyOThlYW1sMFNIRG8wNnllSmNZMTBUTTdqVWhYS0NWQ2dtaUJBY2Z1WDBqa3pwQ2RhdVJCSi1MSmE?oc=5
+author: 
+published: Mon, 22 Dec 2025 10:08:33 GMT
+tags: [News, Google, 헤드라인]
+---
+# 경쟁입찰로 결정된 KDDX …HD현대重·한화오션 표정 엇갈려(종합) - 연합뉴스
+
+[원문 링크](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5qOURnYWx4d0lWbUNFZHpaRUJTblpKNkRIblRLNVZLNGVVYWQtcGhQMzQxdzRNaWRVVVc2bWhwZ3VLSWJNV1Y2S1dhRUstaHlDSHFvYUtzbzRmc2PSAWBBVV95cUxPYlNrTl83TGI1UmpvS1ItM2N5aTBBOURkaE9UczNiU2NyOThlYW1sMFNIRG8wNnllSmNZMTBUTTdqVWhYS0NWQ2dtaUJBY2Z1WDBqa3pwQ2RhdVJCSi1MSmE?oc=5)
+
+## 요약/본문
+<ol><li><a href="https://news.google.com/rss/articles/CBMiW0FVX3lxTE5qOURnYWx4d0lWbUNFZHpaRUJTblpKNkRIblRLNVZLNGVVYWQtcGhQMzQxdzRNaWRVVVc2bWhwZ3VLSWJNV1Y2S1dhRUstaHlDSHFvYUtzbzRmc2PSAWBBVV95cUxPYlNrTl83TGI1UmpvS1ItM2N5aTBBOURkaE9UczNiU2NyOThlYW1sMFNIRG8wNnllSmNZMTBUTTdqVWhYS0NWQ2dtaUJBY2Z1WDBqa3pwQ2RhdVJCSi1MSmE?oc=5" target="_blank">경쟁입찰로 결정된 KDDX …HD현대重·한화오션 표정 엇갈려(종합)</a>&nbsp;&nbsp;<font color="#6f6f6f">연합뉴스</font></li><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE9qajJqQmVRa3lpZ3pNMV9PQ2M0TnYza05OaFlqd19jLUhWN2FvdWZONERJM09FTzVhNnpCaEJDNFQ3QjlYVGxKcWNpNGxzVzFIRXBZa3NFbDVnd9IBVEFVX3lxTE9NTXY0bWh5Q09SdS1BSGJzeGN0QzNvODNxOXg4cms5N2piNVgxRkFEWklBdUhuS1RIX21ubi1BT3ItbXNBSWFEOTN6aGZpendLM2s4dQ?oc=5" target="_blank">'2년 표류' KDDX 사업 급물살…치열한 수주전 예고</a>&nbsp;&nbsp;<font color="#6f6f6f">한국경제</font></li><li><a href="https://news.google.com/rss/articles/CBMiT0FVX3lxTE1VLXVlNXNEWjNTdGtjd2RFZmVaMm1fa3V1OEhHM0k1MnZvS1ByaVQycHA0SHBvdTlpSGdpSWNPeWs4Z3NOMF9zRFdRQXg4YnM?oc=5" target="_blank">벌점과 대통령 입김… 이미 한쪽으로 기운 ‘경쟁 입찰’</a>&nbsp;&nbsp;<font color="#6f6f6f">v.daum.net</font></li><li><a href="https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ETlBFTFN6TEhXMzRXWjVQOFFRUGhEODRxa3BrT2U2Y1VIRGVjZkdIcW9EX2ZkcnZLTEtLcUljTWE5MEJQekM0dXBSTEZCd0dBTGt5UQ?oc=5" target="_blank">‘7조원 규모’ 한국형 차기 구축함 사업 방식, ‘경쟁입찰’로 결정</a>&nbsp;&nbsp;<font color="#6f6f6f">JTBC</font></li><li><a href="https://news.google.com/rss/articles/CBMiW0FVX3lxTE9UbUluWEw4RFA2a3VZQjNodllNY3RwY3Q0WHBDbnlabGRsVGVEQUpZcGR2WTRHb0RFcWdQQTZRVjlYYTlsNUtMdE1yR2dJYll0eHpnNi1HMVpvblk?oc=5" target="_blank">‘2년 표류’ KDDX 경쟁입찰로 결정…내년 말 계약 목표라지만…</a>&nbsp;&nbsp;<font color="#6f6f6f">KBS 뉴스</font></li></ol>

@@ -1,0 +1,12 @@
+---
+link: https://news.google.com/rss/articles/CBMidkFVX3lxTE1BTUk1bWRUb3dRN3NtMzBoTFZGVGNqS0JpOTcxVVZ6Ymd6STBZN285WWNnYWJkQTFUQV8zNE5RcGFGTVNsdjZRUWhOX0xUWGkyRlFKeW5Ka2ZOWlI4Y25Hbk05UTM3by1LeG05X2RiUjRJMXNJOFE?oc=5
+author: 
+published: Mon, 22 Dec 2025 15:46:00 GMT
+tags: [News, Google, 스포츠]
+---
+# "월드컵 우승하겠다" 日 초대형 비보, '대체불가 핵심' 십자인대 파열 유력... '최악의 시나리오' 열도 좌절 - 스타뉴스
+
+[원문 링크](https://news.google.com/rss/articles/CBMidkFVX3lxTE1BTUk1bWRUb3dRN3NtMzBoTFZGVGNqS0JpOTcxVVZ6Ymd6STBZN285WWNnYWJkQTFUQV8zNE5RcGFGTVNsdjZRUWhOX0xUWGkyRlFKeW5Ka2ZOWlI4Y25Hbk05UTM3by1LeG05X2RiUjRJMXNJOFE?oc=5)
+
+## 요약/본문
+<ol><li><a href="https://news.google.com/rss/articles/CBMidkFVX3lxTE1BTUk1bWRUb3dRN3NtMzBoTFZGVGNqS0JpOTcxVVZ6Ymd6STBZN285WWNnYWJkQTFUQV8zNE5RcGFGTVNsdjZRUWhOX0xUWGkyRlFKeW5Ka2ZOWlI4Y25Hbk05UTM3by1LeG05X2RiUjRJMXNJOFE?oc=5" target="_blank">"월드컵 우승하겠다" 日 초대형 비보, '대체불가 핵심' 십자인대 파열 유력... '최악의 시나리오' 열도 좌절</a>&nbsp;&nbsp;<font color="#6f6f6f">스타뉴스</font></li><li><a href="https://news.google.com/rss/articles/CBMiUkFVX3lxTFBHSlZ5S0xnUEJQX0N2SGt3ZTRodDUzYkNhc0w2T1NlUGN4UnljUmo2Wmh0NnBDcTRpTDcySERBTnlEYlA1WS0xbkhPS0RUZ0pIblE?oc=5" target="_blank">미나미노가 쓰러졌다…전방십자인대 파열 가능성에 日 축구 비상</a>&nbsp;&nbsp;<font color="#6f6f6f">노컷뉴스</font></li><li><a href="https://news.google.com/rss/articles/CBMib0FVX3lxTE43RFJDOFNtSHpYN0tXMWpibHphbGxCSUZERUJkbUhGcW5ubzNBRHdDdU1WcGhtek1RRmI2d0dsY2tONG5yNTNtakE1S0wtQlVMMU1TRkJBZWZDWXQ1LVMzRXEwVUF5cnliZF9GcVFFZ9IBc0FVX3lxTE80YjJtdTN3LW02TXJla2ZQSFc1WkxUT3hGTlZPcjZsSFB5U09Sa29OWTVRbjlHR3ZIbDRwQ19zelNiVmZFQ1hYWFNoYUxQMVlheUx6enVwTmdSVHlSMGtSZjMtRWlxa3RsVDNhcmNPamxKMWs?oc=5" target="_blank">“황희찬은 아파서 못 뛰나요” 취재진에 묻던 日 국가대표, 북중미월드컵 불발 날벼락 ‘전방 십자인대 파열’ 공식발표</a>&nbsp;&nbsp;<font color="#6f6f6f">SPOTV NEWS</font></li><li><a href="https://news.google.com/rss/articles/CBMiU0FVX3lxTFA0REFiUlM1c1Jxd2wzZzNTVUt4R2pTTXpaRGV3MVFHYjZXamZ2STNya1A5cmN1Z0ZqMklTTEkwRkh2OTNvN2hCbnREdzN6ZWxHWXJz?oc=5" target="_blank">'리버풀 실패' 日 핵심 미나미노, 부상으로 WC 출전 불투명... '월드컵 우승도전' 일본의 계산이 흔들린다</a>&nbsp;&nbsp;<font color="#6f6f6f">OSEN</font></li><li><a href="https://news.google.com/rss/articles/CBMiXkFVX3lxTE1WWGRGQzg2OGplWWV6WVpDVkxpc0MxM1VuYW94YmkxbHRmb09jcFhDeHFwMUlEdFVJakRTOUlldm9BVGdUR0IzaERXY2tLQmV5WVVlMzlFQ2JNYUlwYUHSAWNBVV95cUxPVzBncDFzeTdsd2pzaHloRDVRbGo4ZzMwcmVDNVJjX3RKSllveWljMWZ3ZGVsbE9MME5WN3dIZk9jUGxfdHRtZXZKN3doX2ZJdXlxc3hZMjVSZHdRT3RGXzlLWTg?oc=5" target="_blank">‘충격’ 일본, 미나미노 부상에 “월드컵 때까지 돌아와줘”…십자인대 파열 예상 ‘대표팀 비상’</a>&nbsp;&nbsp;<font color="#6f6f6f">스포츠경향</font></li></ol>
