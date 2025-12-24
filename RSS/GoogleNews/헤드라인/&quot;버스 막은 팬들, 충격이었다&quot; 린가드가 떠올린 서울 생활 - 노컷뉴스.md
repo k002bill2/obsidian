@@ -1,0 +1,12 @@
+---
+link: https://news.google.com/rss/articles/CBMiUkFVX3lxTE5IVm9nR0YtTDNZX1JuclR2UzVQS0RKWlE4Qk9aaU9pc2hpbEk2TExma1Zfd3NnSHBkY3A5VkpaLXJEcTFBOUdXLXdoNGFERi1GZWc?oc=5
+author: 
+published: Mon, 22 Dec 2025 08:01:00 GMT
+tags: [News, Google, 헤드라인]
+---
+# "버스 막은 팬들, 충격이었다" 린가드가 떠올린 서울 생활 - 노컷뉴스
+
+[원문 링크](https://news.google.com/rss/articles/CBMiUkFVX3lxTE5IVm9nR0YtTDNZX1JuclR2UzVQS0RKWlE4Qk9aaU9pc2hpbEk2TExma1Zfd3NnSHBkY3A5VkpaLXJEcTFBOUdXLXdoNGFERi1GZWc?oc=5)
+
+## 요약/본문
+<ol><li><a href="https://news.google.com/rss/articles/CBMiUkFVX3lxTE5IVm9nR0YtTDNZX1JuclR2UzVQS0RKWlE4Qk9aaU9pc2hpbEk2TExma1Zfd3NnSHBkY3A5VkpaLXJEcTFBOUdXLXdoNGFERi1GZWc?oc=5" target="_blank">"버스 막은 팬들, 충격이었다" 린가드가 떠올린 서울 생활</a>&nbsp;&nbsp;<font color="#6f6f6f">노컷뉴스</font></li><li><a href="https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Sck1SNV9aaEUzZklmRlVHSlMxaHVSMk1sclRybFl0eWlXRF84Z0lzT19RTV8xeFFsWkhCUXlFUEZPLUhLTWhyOGQ1MFJueTVtTHVQSWpR?oc=5" target="_blank">린가드, 서울 떠나며 눈물…"정말 충격적" 밥먹다 깜짝 놀란 장면</a>&nbsp;&nbsp;<font color="#6f6f6f">중앙일보</font></li><li><a href="https://news.google.com/rss/articles/CBMiT0FVX3lxTFBpWUhocFd0MFQyWXhPSzJ0UHhaM2lkeDhHVktNd29RTllWcnNqR1hxaTdOSTdkTnh0UEVGd013d0Vqd0x0ZjNibUdJWHpOeW8?oc=5" target="_blank">'한국 문화 존중, 깊은 유대감 쌓았다'…영국 복귀한 린가드 진심</a>&nbsp;&nbsp;<font color="#6f6f6f">v.daum.net</font></li><li><a href="https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZFJLXzN6WmZDcVR1S0t0Sl9TSkd6Z1hsU3FHaUxGbjlwT0RRRDJXcUV3MXpvU0J0OUp2a2t6bUdhVnNtWjlYaGlzQVpOOXZxUXQ1M1h2c0ZXSHFkTFdsd2J4TVBoR19tQVZBbVlPWUFMNEllQmNrZ3dYSndIY3BmT21TLUxjZ2NqUzNj0gGfAUFVX3lxTE5LS2NkaEFMbVZhc01aaGZhanVHNmROU015cjRYN182cWdkanNvYkdiRGlQdWVhbkJ0SzIwUEZ1LVNWWnJ5U1ZETmRTaVRaU184UFlLTXhURzhXMUZFSFk5S3VhSndoUWgzTlF0RGRrMTNmWmZrSm9rbmlOdXlGZ3FEUGVrYXUyY3JaanZ4T1dFY2kzTGprdlp2WTVncUxXaw?oc=5" target="_blank">"'한국어 선생님'함선우X 충격의 '버막'X'장유유서'식사" 린가드가 英매체에 털어놓은 FC서울의 추억</a>&nbsp;&nbsp;<font color="#6f6f6f">조선일보</font></li><li><a href="https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1RZU1Fam55c0dzbm9kaHBvU08xcFVhazZrOUZ5ZlNjLXRHZHhXMTcyN3d1MElpQlctcVdEci1adGJFVHlKa1lJclBqRVY2eEQ4dUhtZ1FWRDNZZURETm9sbklPV3h2UjjSAWdBVV95cUxPRUZHSjJBMzNxUDFTU0FnYkM4NHFIOWwwZzdnZ3l2OGozRnRpZERYV3NzcWhjTnR5NlhGeFVZSHlESk40QUtvYV94WkhsUFFrdUtXal9XcXNwa0xCLXBVRVVjMWRHeWxR?oc=5" target="_blank">[엠빅뉴스] "정말 충격적이었어요" 린가드가 입을 열었다</a>&nbsp;&nbsp;<font color="#6f6f6f">MBC 뉴스</font></li></ol>

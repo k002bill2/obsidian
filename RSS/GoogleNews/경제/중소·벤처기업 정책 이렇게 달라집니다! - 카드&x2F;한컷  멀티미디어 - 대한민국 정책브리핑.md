@@ -1,0 +1,12 @@
+---
+link: https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMlA2Z0JobEJUcHVxSFJicEwzTHFTU0ZZYV9wLU9DdnEzT2hoajdtX2lVUnpUQkc4eXBxWjY5bFZCZEU3bHpnMGdFM2pNN1BUR0s4ODhWT003bXZyb3V1Y2VEZTVURFNuNFJLclhvQlc0UEZaLWtDRV9UWGdiOUNmSV9Rd2lrNnZHV0xF?oc=5
+author: 
+published: Wed, 24 Dec 2025 05:16:54 GMT
+tags: [News, Google, 경제]
+---
+# 중소·벤처기업 정책 이렇게 달라집니다! - 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑
+
+[원문 링크](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMlA2Z0JobEJUcHVxSFJicEwzTHFTU0ZZYV9wLU9DdnEzT2hoajdtX2lVUnpUQkc4eXBxWjY5bFZCZEU3bHpnMGdFM2pNN1BUR0s4ODhWT003bXZyb3V1Y2VEZTVURFNuNFJLclhvQlc0UEZaLWtDRV9UWGdiOUNmSV9Rd2lrNnZHV0xF?oc=5)
+
+## 요약/본문
+<ol><li><a href="https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMlA2Z0JobEJUcHVxSFJicEwzTHFTU0ZZYV9wLU9DdnEzT2hoajdtX2lVUnpUQkc4eXBxWjY5bFZCZEU3bHpnMGdFM2pNN1BUR0s4ODhWT003bXZyb3V1Y2VEZTVURFNuNFJLclhvQlc0UEZaLWtDRV9UWGdiOUNmSV9Rd2lrNnZHV0xF?oc=5" target="_blank">중소·벤처기업 정책 이렇게 달라집니다! - 카드/한컷 | 멀티미디어</a>&nbsp;&nbsp;<font color="#6f6f6f">대한민국 정책브리핑</font></li><li><a href="https://news.google.com/rss/articles/CBMiVkFVX3lxTE1xVVFJSWdNU012TzVOd1hmZU00ZmtKX2tUM3RhcGhwYV85WlFIOWt0cDl5NDVWci1zc0RNODVMcXhOV0xZVjl5bmtoNXdMSnZYcGc2NTd3?oc=5" target="_blank">중기부, 내년 중소기업 정책자금 4조4천313억원 투입</a>&nbsp;&nbsp;<font color="#6f6f6f">지디넷코리아</font></li><li><a href="https://news.google.com/rss/articles/CBMiZEFVX3lxTE0zZnhMXzdhaGRNTEcySW5OUW0wMS1QRVBacEZXS1czYUx5QklCY25UenBiQVl4RUxsZFVYNzR3MW1tZFlIQ2o5cUNBR2tfdU5mTXROLTFYNWxBUjhWYTlCcDlLMk_SAXhBVV95cUxQbEY5RmI1UE1wb3d4Z2tnUTNmNVZ5T2MzbkFqc05lUWFFa1ViMnRkZW9keVh3Y25sZXhXOGFlTjdmeVNHUWhleVNKM3lVd1BJZVlZbjVZT1gzZVdQOVlVYy1BVkpKR3I1WXFHU3Rqbi1xdERJcFhaRks?oc=5" target="_blank">"연기금·공적기금, 투자가능"…'벤처 4대강국' 시동 건다</a>&nbsp;&nbsp;<font color="#6f6f6f">뉴시스</font></li><li><a href="https://news.google.com/rss/articles/CBMiT0FVX3lxTE84ZDhTckRaU2lDQjRXb1hoN05ySXBHOFlreF8wejNVTnhFRUtpLXBTX2cyaU5BQnVxRTMzdkVlQUMwXzE0YkhYMlhsSHNoSlU?oc=5" target="_blank">모태펀드 존속기간 연장···정부, ‘벤처 4대 강국 도약’ 법·제도 정비</a>&nbsp;&nbsp;<font color="#6f6f6f">v.daum.net</font></li><li><a href="https://news.google.com/rss/articles/CBMiW0FVX3lxTE4zOXZnNFk4N09PeG1KdVpCQUd4aExkX0IwbWZHLVhWblgxMmw0enVvdVFkS2V5dmdoNmx4STY4QW5JOFh1Z3pfSjNFWl9iT001ZzRyajBVNDk1czTSAWBBVV95cUxQSjFLUHV0TThBaGJJZmdvNWU3Q1ZteWh3aWZLd2o2dUJrLXJocW5senE3Z0hMTTlmdjBocE5kWU1vem5CSnlHbkU1cmQ4VVB4c01NV2lzUnJ1VVVSR1o3UWw?oc=5" target="_blank">벤처 스톡옵션 시가미만 발행한도 5억→20억원 확대</a>&nbsp;&nbsp;<font color="#6f6f6f">연합뉴스</font></li></ol>

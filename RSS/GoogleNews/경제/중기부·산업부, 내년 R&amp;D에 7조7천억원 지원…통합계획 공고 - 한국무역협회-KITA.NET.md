@@ -1,0 +1,12 @@
+---
+link: https://news.google.com/rss/articles/CBMi1AFBVV95cUxQM2EzcVAxMXdIeWRZd3RmM1BiZEdJc3ZYWGl1S0VOeHFEQ2twTnpXWGw3S2JkTFhXMUpsTER3dFo3dzlwMk10X2FCS2tZajNnYml2a0JtS29ZRHVmeHNDcmZQRWktLWJaT2pkeFM5T1dJUW5VZklhYVh2ODRJVjFZcU5fTG1fZVdGdlpNbGpiZnJlUW5kaG1oNThPRVIycl9rWl90SW5XQzB3dXdVS3h4T0Mzakx5OFhjdHhpRXp6NU1lTkdpbE16UklNR2hJUWdUbWNnSw?oc=5
+author: 
+published: Mon, 22 Dec 2025 03:07:36 GMT
+tags: [News, Google, 경제]
+---
+# 중기부·산업부, 내년 R&D에 7조7천억원 지원…통합계획 공고 - 한국무역협회-KITA.NET
+
+[원문 링크](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQM2EzcVAxMXdIeWRZd3RmM1BiZEdJc3ZYWGl1S0VOeHFEQ2twTnpXWGw3S2JkTFhXMUpsTER3dFo3dzlwMk10X2FCS2tZajNnYml2a0JtS29ZRHVmeHNDcmZQRWktLWJaT2pkeFM5T1dJUW5VZklhYVh2ODRJVjFZcU5fTG1fZVdGdlpNbGpiZnJlUW5kaG1oNThPRVIycl9rWl90SW5XQzB3dXdVS3h4T0Mzakx5OFhjdHhpRXp6NU1lTkdpbE16UklNR2hJUWdUbWNnSw?oc=5)
+
+## 요약/본문
+<ol><li><a href="https://news.google.com/rss/articles/CBMi1AFBVV95cUxQM2EzcVAxMXdIeWRZd3RmM1BiZEdJc3ZYWGl1S0VOeHFEQ2twTnpXWGw3S2JkTFhXMUpsTER3dFo3dzlwMk10X2FCS2tZajNnYml2a0JtS29ZRHVmeHNDcmZQRWktLWJaT2pkeFM5T1dJUW5VZklhYVh2ODRJVjFZcU5fTG1fZVdGdlpNbGpiZnJlUW5kaG1oNThPRVIycl9rWl90SW5XQzB3dXdVS3h4T0Mzakx5OFhjdHhpRXp6NU1lTkdpbE16UklNR2hJUWdUbWNnSw?oc=5" target="_blank">중기부·산업부, 내년 R&D에 7조7천억원 지원…통합계획 공고</a>&nbsp;&nbsp;<font color="#6f6f6f">한국무역협회-KITA.NET</font></li><li><a href="https://news.google.com/rss/articles/CBMibEFVX3lxTFBuc1pyUkE3enFRNVloUDl3MnVPaVpFM2xKWGEwaS0zRmxaM1JPOTY2YW95SmZUTG8wc1BtMzJwR2EwUUYxNlhIS3JOWWxxT1JxWFBDRFVEM29KWEZhNDdqb1R1VW5DZnBLSWdrZg?oc=5" target="_blank">중기·산업, 내년 R&D사업에 7조 7000억 원 투자…역대 최대</a>&nbsp;&nbsp;<font color="#6f6f6f">대한민국 정책브리핑</font></li><li><a href="https://news.google.com/rss/articles/CBMiX0FVX3lxTE0tSjRxaExqMDkxTm9UUDVkb0RIX21IR2NYQmZhNzhpY2tEWWswaVlkMzB4SjlobERGMzJvT3FFR3JBMHRIYnpWQ3YtZnBIVVNkODAtemw1Zi1mRUM5c1gw?oc=5" target="_blank">기업지원 R&D, 한 곳에서 모두 살펴볼 수 있어</a>&nbsp;&nbsp;<font color="#6f6f6f">새전북신문</font></li><li><a href="https://news.google.com/rss/articles/CBMiW0FVX3lxTFA2QV9laWJKUElkMlE2MV9XNU5vcWs4a09ySFhmeFNwRzhfNk01WmxPQjlTbU5KZGlyUzlUdmpTS2ZFLXlkZG1uRThyOTBxYjBjZ0lVRUdvNVlqODg?oc=5" target="_blank">스타트업-‘팁스’ 운영사 교류…전북도 확대 전망</a>&nbsp;&nbsp;<font color="#6f6f6f">KBS 뉴스</font></li><li><a href="https://news.google.com/rss/articles/CBMiVkFVX3lxTFBPamhQRVBTakUxbjh6MkhsMmFBczdGT1JOLXQ3d2lILUJPd0dpVDZETnRlWUtxb0RicFFPbHcyNm9mbnpBc2pycmlxTTl6aEdNMlJ3dTV3?oc=5" target="_blank">캐노피, 중기벤처부 '팁스' R&D 과제 최종 선정</a>&nbsp;&nbsp;<font color="#6f6f6f">지디넷코리아</font></li></ol>

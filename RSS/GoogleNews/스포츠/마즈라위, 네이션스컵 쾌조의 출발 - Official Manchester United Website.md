@@ -1,0 +1,12 @@
+---
+link: https://news.google.com/rss/articles/CBMitAFBVV95cUxNUnhOckhacEZTYTRWbmhLMFlUb1h6VEU2SVhmT0ZKclRnYlJxcE5zZ2pYZFExbmpNYmtMMmlRaW83UTdkTURBTktKbkVnU2t3WXctTVFYUEUwaW9YNGxOYms1Y3ZpU0s0VjJ0U3hBcWxFU2dtRWlBRVF6TXV5TVlQZUF5MHJSakFYZzZocnlkNlBrcWwzU01jUkZjUUgzUEs3S3J0Qy1OZnhLX2pmZFZfSTl3Y00?oc=5
+author: 
+published: Mon, 22 Dec 2025 17:28:53 GMT
+tags: [News, Google, 스포츠]
+---
+# 마즈라위, 네이션스컵 쾌조의 출발 - Official Manchester United Website
+
+[원문 링크](https://news.google.com/rss/articles/CBMitAFBVV95cUxNUnhOckhacEZTYTRWbmhLMFlUb1h6VEU2SVhmT0ZKclRnYlJxcE5zZ2pYZFExbmpNYmtMMmlRaW83UTdkTURBTktKbkVnU2t3WXctTVFYUEUwaW9YNGxOYms1Y3ZpU0s0VjJ0U3hBcWxFU2dtRWlBRVF6TXV5TVlQZUF5MHJSakFYZzZocnlkNlBrcWwzU01jUkZjUUgzUEs3S3J0Qy1OZnhLX2pmZFZfSTl3Y00?oc=5)
+
+## 요약/본문
+<ol><li><a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxNUnhOckhacEZTYTRWbmhLMFlUb1h6VEU2SVhmT0ZKclRnYlJxcE5zZ2pYZFExbmpNYmtMMmlRaW83UTdkTURBTktKbkVnU2t3WXctTVFYUEUwaW9YNGxOYms1Y3ZpU0s0VjJ0U3hBcWxFU2dtRWlBRVF6TXV5TVlQZUF5MHJSakFYZzZocnlkNlBrcWwzU01jUkZjUUgzUEs3S3J0Qy1OZnhLX2pmZFZfSTl3Y00?oc=5" target="_blank">마즈라위, 네이션스컵 쾌조의 출발</a>&nbsp;&nbsp;<font color="#6f6f6f">Official Manchester United Website</font></li><li><a href="https://news.google.com/rss/articles/CBMiW0FVX3lxTE1yeUpaTDBFQ01CMFhkZk1kaENkTTZJeC1RSDdRTXNtTW5DaDFKUUdTcUdrVFdESE1CVWZTVlF1WUhhMF9VS2JzUFIzQ19LWjNuTHFwUHNVNnA0cnPSAWBBVV95cUxQV3B0cktrMzUtY2RGaHlHb25ic0UzSzZuSGZxaTZtaXFUbXNGQW5BVHRQTWxjNHAzcGNDZnppQkdBR2dRZ2VMMlFOUHZSdTRQY1kySmRTUGYtc1VMaFNYck8?oc=5" target="_blank">'개최국' 모로코, 네이션스컵 개막전서 코모로에 2-0 승리</a>&nbsp;&nbsp;<font color="#6f6f6f">연합뉴스</font></li><li><a href="https://news.google.com/rss/articles/CBMiUEFVX3lxTE1vQTFZd0FveUdiRjFKUW5ZemE2bGJIOUVPRnJWRGQ4SmJrMkpXTE1NclVGWlFBOHRicXZTX3ZkWHhZUllvMlROZWhCOTZlSUlC?oc=5" target="_blank">모로코, 아프리카 네이션스컵 개막전 가뿐한 승리</a>&nbsp;&nbsp;<font color="#6f6f6f">문화일보</font></li><li><a href="https://news.google.com/rss/articles/CBMiZkFVX3lxTE82THd0ZldZSUZOcDI1d0ZlSlYtWjBmajVTd3h3aFNpUll2TERtLVd4Vl9USUQwMVRzOTJ5UG9DcmgwOFd3QnV4SXpmYjFVbVR1UzlKd3FCQ1NIYnhDMXV2NVdtT0wxdw?oc=5" target="_blank">네이션스컵 첫 골 세리머니하는 디아스</a>&nbsp;&nbsp;<font color="#6f6f6f">뉴시스</font></li><li><a href="https://news.google.com/rss/articles/CBMiVEFVX3lxTE1ucWR3T2NUSkktZ1pva2lvWFQ3NThxMnBZV0Utd2lpMFJhREp5bmtqTVd5VW1JVTBCYzZxVzQ2a3ZYOVp5N2Y5eGtXRkR1SmpIWnZ3aQ?oc=5" target="_blank">'A조 최강팀은 한국'…북중미월드컵 대결 남아공, 아프리카 네이션스컵 출격</a>&nbsp;&nbsp;<font color="#6f6f6f">v.daum.net</font></li></ol>

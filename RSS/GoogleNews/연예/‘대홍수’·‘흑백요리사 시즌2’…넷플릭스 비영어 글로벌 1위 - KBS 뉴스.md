@@ -1,0 +1,12 @@
+---
+link: https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ZOTdxaVNfd0UtMS1HLUtfWElIUlR1cVRSWnFDbGxOOENfZDFpOHlXQzJBTFBfaFhlcEFVYlRQOFhKY2RaZWtHcEJBQ1ZmbmtRUERnV2ktY0dEZjA?oc=5
+author: 
+published: Wed, 24 Dec 2025 02:18:00 GMT
+tags: [News, Google, 연예]
+---
+# ‘대홍수’·‘흑백요리사 시즌2’…넷플릭스 비영어 글로벌 1위 - KBS 뉴스
+
+[원문 링크](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ZOTdxaVNfd0UtMS1HLUtfWElIUlR1cVRSWnFDbGxOOENfZDFpOHlXQzJBTFBfaFhlcEFVYlRQOFhKY2RaZWtHcEJBQ1ZmbmtRUERnV2ktY0dEZjA?oc=5)
+
+## 요약/본문
+<ol><li><a href="https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ZOTdxaVNfd0UtMS1HLUtfWElIUlR1cVRSWnFDbGxOOENfZDFpOHlXQzJBTFBfaFhlcEFVYlRQOFhKY2RaZWtHcEJBQ1ZmbmtRUERnV2ktY0dEZjA?oc=5" target="_blank">‘대홍수’·‘흑백요리사 시즌2’…넷플릭스 비영어 글로벌 1위</a>&nbsp;&nbsp;<font color="#6f6f6f">KBS 뉴스</font></li><li><a href="https://news.google.com/rss/articles/CBMiT0FVX3lxTE5UMk9mZUpwMXhHNzVLTGJ6Z3JfRGVON040N1VBUGhNY2VUM1R5SVZNQUpuc1pMTmxleVpXbTFKWTRjLXZ1VW1xWHVLbVhkemM?oc=5" target="_blank">'54개국 싹쓸이' 김다미가 해냈다…K콘텐츠, 넷플릭스 '선두'</a>&nbsp;&nbsp;<font color="#6f6f6f">v.daum.net</font></li><li><a href="https://news.google.com/rss/articles/CBMiW0FVX3lxTFBBdmhTdklub2hzdk8xbjkyYTB3V1hmbC1MWWJ5YnpmS3UyVjIzYlFjbFpYNVdtSGwxNFBBY013cy1jWmNLcmkyQTY5U2NnYmdiVGRpNWpEaVAycHPSAWBBVV95cUxNbFBYQ21UWFBHWWlVR1JocEIwTWthNU10dGtGOVdKdVRsNkt6YjlEaHdmWElsSTdKbThxanpPV0wtdWtDc0R3TGkzSjQzR082NU1mdWxVcXFOaTJZMTNfWTQ?oc=5" target="_blank">박해수 "'대홍수', 일반적이지 않은 대본…도전해보고 싶었죠"</a>&nbsp;&nbsp;<font color="#6f6f6f">연합뉴스</font></li><li><a href="https://news.google.com/rss/articles/CBMiZEFVX3lxTE1aQ2lscXB0SElEMXh4QnlENkM1RWJnXzJJQWxGN0o5N3Bua1ZWTy1Pd3pYZlpwZTRhOUtlUDFmZ29VZU0wUXBmOHFWQUV5cmw1MG9fR0hHWlFyNUNtejRKdHROMkTSAXhBVV95cUxPZDV6QzMzUEVKeXR5UTBUSHVwUl9aUlFQRURoemRCNlRqUXk3akJHMGF4ekRXb1hsZXRtQTZvVWZaMmk5cko4ZUFQaFNueFZDQ1BVeklUSjFFa1VXMkpfbUp1R2w5b3NFS2pqcmFOYkkyM0R5cG5keG4?oc=5" target="_blank">[인터뷰]김다미 "'대홍수' 가장 힘들었던 작품…호불호 예상 못해"</a>&nbsp;&nbsp;<font color="#6f6f6f">뉴시스</font></li><li><a href="https://news.google.com/rss/articles/CBMijAFBVV95cUxQdnpZV08wUlF1QTFsOXZyUG1LM2ZPV1htRHhObFk0U3ZVNjl4TEV5NzdDUTBaWWRTYkRBUW1DNnUwWU5JSDZ6UGcwbGR2aHN1bnhMUEZVaXl3VHZYSnFyampVSVhFQzUxN0Z3ZWdDN2FfeE5LRndSOElSeDB3b3BzRkJvc3RmQTBqYlVLZdIBoAFBVV95cUxQZTJSNXhkVmNZYTVUUmYxZXpmamVfdEUzQ3RVVTlIcDl2YldJNXBQVVhIdUVNaTd6ZHVkeDlSM0NKaGRfdmlSWGZhdUw5d3ZVU0NjR2NnenRoc01WUVQ2UVhldEt1MFFHVE4teVZBMHhhWGxHNGx4eElmQ0tRa3lmR2loNnFzaE1NaW9ndXh3a3FoT182RmJUak80WTBNUlRp?oc=5" target="_blank">넷플릭스 장악한 K-콘텐츠…‘대홍수’·‘흑백요리사2’ 글로벌 1위</a>&nbsp;&nbsp;<font color="#6f6f6f">조선일보</font></li></ol>

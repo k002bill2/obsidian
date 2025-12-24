@@ -1,0 +1,12 @@
+---
+link: https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTkkzaVR6NEtXQVhLVU04dnFTR2s0RDlDSEtIVGlRdHA2UVRDYUpCbDVGLXhTYVlLdEw0VHhkd1gxb2dIZnV3VXY0X24yanh0T1QzX2lUbDViU19La3EzR2U3UnRCWXZHbzRtRUpkUmNMbVl4VFR1ZU55QkFfeHdOdFFpaXhXbWFMcnItaWRGSDNYUHlHRFo5MzhENzNodnk5SzJHSTM1bUp2ZnhVMzNPYUlpNEtfTzNvNnhpekNFbk1hQ1I2OS1icmxnck9UZkpnbmkzLQ?oc=5
+author: 
+published: Mon, 22 Dec 2025 23:40:04 GMT
+tags: [News, Google, 경제]
+---
+# "엔비디아, 내년 2월 H200 中수출…美의원, 허가 공개 요구" - 한국무역협회-KITA.NET
+
+[원문 링크](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTkkzaVR6NEtXQVhLVU04dnFTR2s0RDlDSEtIVGlRdHA2UVRDYUpCbDVGLXhTYVlLdEw0VHhkd1gxb2dIZnV3VXY0X24yanh0T1QzX2lUbDViU19La3EzR2U3UnRCWXZHbzRtRUpkUmNMbVl4VFR1ZU55QkFfeHdOdFFpaXhXbWFMcnItaWRGSDNYUHlHRFo5MzhENzNodnk5SzJHSTM1bUp2ZnhVMzNPYUlpNEtfTzNvNnhpekNFbk1hQ1I2OS1icmxnck9UZkpnbmkzLQ?oc=5)
+
+## 요약/본문
+<ol><li><a href="https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTkkzaVR6NEtXQVhLVU04dnFTR2s0RDlDSEtIVGlRdHA2UVRDYUpCbDVGLXhTYVlLdEw0VHhkd1gxb2dIZnV3VXY0X24yanh0T1QzX2lUbDViU19La3EzR2U3UnRCWXZHbzRtRUpkUmNMbVl4VFR1ZU55QkFfeHdOdFFpaXhXbWFMcnItaWRGSDNYUHlHRFo5MzhENzNodnk5SzJHSTM1bUp2ZnhVMzNPYUlpNEtfTzNvNnhpekNFbk1hQ1I2OS1icmxnck9UZkpnbmkzLQ?oc=5" target="_blank">"엔비디아, 내년 2월 H200 中수출…美의원, 허가 공개 요구"</a>&nbsp;&nbsp;<font color="#6f6f6f">한국무역협회-KITA.NET</font></li><li><a href="https://news.google.com/rss/articles/CBMiVkFVX3lxTE1yd2ljdFZtMG44WUc3U3BHandVYWU1bGpBdXV4b1JCb0xLUUFzTGpTNGd3X1g5Mjh1aXBqV04yV2tPYXVZQ0JLcDA2emlyR01lOGxlcVBB?oc=5" target="_blank">美 정부, 엔비디아 AI 칩 중국 판매 재검토 착수</a>&nbsp;&nbsp;<font color="#6f6f6f">지디넷코리아</font></li><li><a href="https://news.google.com/rss/articles/CBMiTkFVX3lxTE5OZGp0R0lzQzJvLVh5cDFzdFEyT2JDaGtIZjAwNkkyejUtLWI3bFM3UTdqbnVWRkdTdmpMRXBpckNWVXdJZ3FsSlQxak1OZw?oc=5" target="_blank">로이터 “엔비디아, 내년 2월 'H200' 中 수출”</a>&nbsp;&nbsp;<font color="#6f6f6f">전자신문</font></li><li><a href="https://news.google.com/rss/articles/CBMic0FVX3lxTE1xYWVjekpJaG1hQzFZS3NWVEI5TEFHQnF4Z3FWc2t0Tm92Sldjb0RGNmVwQUJmYV9QcFFFeFpjNXItUkd1YVItT0p2ZGM0Z1VmM0hSMURHQWNNRmNjc0pwSmtqaTJ3UmRPSXBDRnVoVlZaa00?oc=5" target="_blank">트럼프 추진 'AI 반도체 수출세' 법으로 막기 어려워, "당사자 엔비디아 동의"</a>&nbsp;&nbsp;<font color="#6f6f6f">비즈니스포스트</font></li><li><a href="https://news.google.com/rss/articles/CBMiU0FVX3lxTE96QUxiNDREcGlteklkRVBkc2FON3JWLW9yQWJtZzhoWWpxQkV6cGdSWmNoVW1rbng5S2dIM2k3MWNlcjdWenA0TWlhZjRzclZlR3g0?oc=5" target="_blank">"中 텐센트, 일본 데이터센터 통해 엔비디아 최신칩 우회 사용"</a>&nbsp;&nbsp;<font color="#6f6f6f">네이트</font></li></ol>

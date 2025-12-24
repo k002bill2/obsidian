@@ -1,0 +1,12 @@
+---
+link: https://news.google.com/rss/articles/CBMid0FVX3lxTE1nNm1FTDJHU2dEbXA2bkRoZWxDc3hwMTJEUWpIOTJ3bjBHeC1ERGUyalJ5QjdJdUs4N0Eyc0RDdllhTEJ3NDRDaTFPcGI0MUhsd21DaWItRnNNeHlZTEpJTWdHNkt0UmNoa0NTZ1ZxNzJOTDhiTjlz0gF3QVVfeXFMUG1KMVY2R1IxMmE2Y3hzWmQ2YUwzSUx6Tnk3elNnQ2lBLUZBb0ZIUlh4bEIxeFZscWZ4VHpnN1FrOHRtaHAyQnREVG04dzI2dS1JTFk3NUN5NnppdHRvZ0tnVUxqWVBVRm1IMUh6THZsU3Rfb2xFN2c?oc=5
+author: 
+published: Tue, 23 Dec 2025 01:52:21 GMT
+tags: [News, Google, 헤드라인]
+---
+# 정진석이 전한 尹 '생생 육성'‥"결심 섰으니 말리지 마" [현장영상] - MBC 뉴스
+
+[원문 링크](https://news.google.com/rss/articles/CBMid0FVX3lxTE1nNm1FTDJHU2dEbXA2bkRoZWxDc3hwMTJEUWpIOTJ3bjBHeC1ERGUyalJ5QjdJdUs4N0Eyc0RDdllhTEJ3NDRDaTFPcGI0MUhsd21DaWItRnNNeHlZTEpJTWdHNkt0UmNoa0NTZ1ZxNzJOTDhiTjlz0gF3QVVfeXFMUG1KMVY2R1IxMmE2Y3hzWmQ2YUwzSUx6Tnk3elNnQ2lBLUZBb0ZIUlh4bEIxeFZscWZ4VHpnN1FrOHRtaHAyQnREVG04dzI2dS1JTFk3NUN5NnppdHRvZ0tnVUxqWVBVRm1IMUh6THZsU3Rfb2xFN2c?oc=5)
+
+## 요약/본문
+<ol><li><a href="https://news.google.com/rss/articles/CBMid0FVX3lxTE1nNm1FTDJHU2dEbXA2bkRoZWxDc3hwMTJEUWpIOTJ3bjBHeC1ERGUyalJ5QjdJdUs4N0Eyc0RDdllhTEJ3NDRDaTFPcGI0MUhsd21DaWItRnNNeHlZTEpJTWdHNkt0UmNoa0NTZ1ZxNzJOTDhiTjlz0gF3QVVfeXFMUG1KMVY2R1IxMmE2Y3hzWmQ2YUwzSUx6Tnk3elNnQ2lBLUZBb0ZIUlh4bEIxeFZscWZ4VHpnN1FrOHRtaHAyQnREVG04dzI2dS1JTFk3NUN5NnppdHRvZ0tnVUxqWVBVRm1IMUh6THZsU3Rfb2xFN2c?oc=5" target="_blank">정진석이 전한 尹 '생생 육성'‥"결심 섰으니 말리지 마" [현장영상]</a>&nbsp;&nbsp;<font color="#6f6f6f">MBC 뉴스</font></li><li><a href="https://news.google.com/rss/articles/CBMiT0FVX3lxTFB5V3h5ZGlyNjNpdThMOEdQTlpReVRMWURyY01nbEpKcEFFWHpsZHVWU3VxNEQ3VUd2TjhkSUtvRVJQSHlSM09CT3dzQlJUaU0?oc=5" target="_blank">윤석열 향해 "대실망했다"‥법정서 직격한 신원식 [현장영상]</a>&nbsp;&nbsp;<font color="#6f6f6f">v.daum.net</font></li><li><a href="https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Pb2JWaUhzWVJkREZFbzZrRk55WHBnZnFfSHI1ZHN0dkpoLVpVTGN6V3kzZzdsYWx6MUJxcUZhQXpCelVrUU51U2VEcUFFZVcwemh4MjBOT1Y4Wnc?oc=5" target="_blank">정진석 “계엄하면 시민들 쏟아져나온다 만류에 尹 ‘나서지 말라’” [이런뉴스]</a>&nbsp;&nbsp;<font color="#6f6f6f">KBS 뉴스</font></li><li><a href="https://news.google.com/rss/articles/CBMiZEFVX3lxTE0yT1l2ZWk3RE80RlN4ZjJxcWRHT0VwaHIxSDA1MG9zSUhTUngwSXV5Q0ZWM09ZTm9FcFJVVFllNS05S3RjbENiNHlGSjE1d1VhZnREd2pYanYtQU5aRUhMMnJ3YnI?oc=5" target="_blank">정진석 ″계엄하면 시민들 거리 나온다 만류″…尹 ″설득말라″</a>&nbsp;&nbsp;<font color="#6f6f6f">연합뉴스TV</font></li><li><a href="https://news.google.com/rss/articles/CBMiVEFVX3lxTE1NNG1VOHlWVGk5V0w2ZERQRU1yNmU1MS1kbmIzdjRrTjFMb3NZNE9xS2NQUVBwTTZhX3NwczNYSWhEWVd0SVJPbTdwYzhfV2tYZzJXRA?oc=5" target="_blank">"시민들 거리 나온다" 만류에도…윤, 계엄 강행 뜻 굳혀</a>&nbsp;&nbsp;<font color="#6f6f6f">JTBC</font></li></ol>

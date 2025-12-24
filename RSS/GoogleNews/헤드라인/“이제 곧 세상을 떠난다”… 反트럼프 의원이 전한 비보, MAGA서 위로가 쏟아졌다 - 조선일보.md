@@ -1,0 +1,12 @@
+---
+link: https://news.google.com/rss/articles/CBMihAFBVV95cUxNTm1CSm53NXkzRklMTEVsNFRuMkNjMjBVZEZaV2ZXa1lsd0JMNXBzYmo4UWJrOU5nY096dnZwYkhiOHVBQ2FOVGR0dGhydlN1dEpYa1Q1bWFIZlNqcnpiR0dtS1p3OEgtamZUcW9YeTBtdTRxMUJZVlJFa19uMkh3aDA2YXfSAZgBQVVfeXFMTkFmbWtUWjNfclptVXZNSTRWd0lzU0IwLXQ0NWdnOWlBb0lmd2dKWkt2TEx1SlM2YmxsTWdWeDdOREN5dmRzblhsek8yQk56Q3VVMnYxd0FYOW0zblRvdVNUdGlRM2dSc1dBOXJSSWZvWWFPeXdUd2FrNzBYdjVuc2dYSUQwREN2dFlLNmxIMnliSEZwYm9lQ1M?oc=5
+author: 
+published: Tue, 23 Dec 2025 20:03:00 GMT
+tags: [News, Google, 헤드라인]
+---
+# “이제 곧 세상을 떠난다”… 反트럼프 의원이 전한 비보, MAGA서 위로가 쏟아졌다 - 조선일보
+
+[원문 링크](https://news.google.com/rss/articles/CBMihAFBVV95cUxNTm1CSm53NXkzRklMTEVsNFRuMkNjMjBVZEZaV2ZXa1lsd0JMNXBzYmo4UWJrOU5nY096dnZwYkhiOHVBQ2FOVGR0dGhydlN1dEpYa1Q1bWFIZlNqcnpiR0dtS1p3OEgtamZUcW9YeTBtdTRxMUJZVlJFa19uMkh3aDA2YXfSAZgBQVVfeXFMTkFmbWtUWjNfclptVXZNSTRWd0lzU0IwLXQ0NWdnOWlBb0lmd2dKWkt2TEx1SlM2YmxsTWdWeDdOREN5dmRzblhsek8yQk56Q3VVMnYxd0FYOW0zblRvdVNUdGlRM2dSc1dBOXJSSWZvWWFPeXdUd2FrNzBYdjVuc2dYSUQwREN2dFlLNmxIMnliSEZwYm9lQ1M?oc=5)
+
+## 요약/본문
+<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNTm1CSm53NXkzRklMTEVsNFRuMkNjMjBVZEZaV2ZXa1lsd0JMNXBzYmo4UWJrOU5nY096dnZwYkhiOHVBQ2FOVGR0dGhydlN1dEpYa1Q1bWFIZlNqcnpiR0dtS1p3OEgtamZUcW9YeTBtdTRxMUJZVlJFa19uMkh3aDA2YXfSAZgBQVVfeXFMTkFmbWtUWjNfclptVXZNSTRWd0lzU0IwLXQ0NWdnOWlBb0lmd2dKWkt2TEx1SlM2YmxsTWdWeDdOREN5dmRzblhsek8yQk56Q3VVMnYxd0FYOW0zblRvdVNUdGlRM2dSc1dBOXJSSWZvWWFPeXdUd2FrNzBYdjVuc2dYSUQwREN2dFlLNmxIMnliSEZwYm9lQ1M?oc=5" target="_blank">“이제 곧 세상을 떠난다”… 反트럼프 의원이 전한 비보, MAGA서 위로가 쏟아졌다</a>&nbsp;&nbsp;<font color="#6f6f6f">조선일보</font>

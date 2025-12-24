@@ -1,0 +1,12 @@
+---
+link: https://news.google.com/rss/articles/CBMicEFVX3lxTE10TFpWYUhuV3k5S2d4LUNRZzh6bHU3Tnl0OExleE9OaFNyV0k2a0hHWVI2aWJydWUxUVJZV0JWRnVqeUQyNUl3aWFWQlRYRXNUNkl0b1ZZTWpYNUctR214MlUxRFVSTm0xb0JrRVd6WG4?oc=5
+author: 
+published: Mon, 22 Dec 2025 21:03:25 GMT
+tags: [News, Google, 경제]
+---
+# PF 건전성 개선방안 1년 후 적용…"연체율 안정화 수순" - 연합인포맥스
+
+[원문 링크](https://news.google.com/rss/articles/CBMicEFVX3lxTE10TFpWYUhuV3k5S2d4LUNRZzh6bHU3Tnl0OExleE9OaFNyV0k2a0hHWVI2aWJydWUxUVJZV0JWRnVqeUQyNUl3aWFWQlRYRXNUNkl0b1ZZTWpYNUctR214MlUxRFVSTm0xb0JrRVd6WG4?oc=5)
+
+## 요약/본문
+<ol><li><a href="https://news.google.com/rss/articles/CBMicEFVX3lxTE10TFpWYUhuV3k5S2d4LUNRZzh6bHU3Tnl0OExleE9OaFNyV0k2a0hHWVI2aWJydWUxUVJZV0JWRnVqeUQyNUl3aWFWQlRYRXNUNkl0b1ZZTWpYNUctR214MlUxRFVSTm0xb0JrRVd6WG4?oc=5" target="_blank">PF 건전성 개선방안 1년 후 적용…"연체율 안정화 수순"</a>&nbsp;&nbsp;<font color="#6f6f6f">연합인포맥스</font></li><li><a href="https://news.google.com/rss/articles/CBMiVEFVX3lxTFBFejNJRnFncXcxTjFhOUhQQ2hqLWFlX0pnVFU5ekhBLVNBMzhYN1NQMXlNRnp1bzVnQnVvenVOZldobEVKWFNZZV9mS1ItSkVPdl9Scg?oc=5" target="_blank">30억 들고 1000억 사업? 앞으론 못한다 … 부동산PF 자기자본 비중 20%로 높아져</a>&nbsp;&nbsp;<font color="#6f6f6f">매일경제</font></li><li><a href="https://news.google.com/rss/articles/CBMiZEFVX3lxTFA1YnIzdGRSaFlhZXA3VVpIOWYxSGg2WHFPNWhtTDFfYWtpUkZhWjlWbVhSVnJJY1BjWjc1MFB2OVJlczdLZ1ZtUHE5Wl9RVE9iancwSUdJVWM0cGl4U0ttSGhqbFTSAXhBVV95cUxPTXBSaGVvU3VLeEtwVXpwQUhoZG9oTjA2ZE9GdUQ3aVY2X0ZiX2ZhejV3NHA2a3VOTXE1MjFlai00SXkwS0o3TjMtTHBvc2tJbDZmMm5ZYnZKMkdvdFZLWXJXNFdZRHhMUnBhTlJBNGZJOGJTZUloN0o?oc=5" target="_blank">상호금융권 '대표 장기 집권' 방지 장치 마련… 제재 실효성 높인다</a>&nbsp;&nbsp;<font color="#6f6f6f">뉴시스</font></li><li><a href="https://news.google.com/rss/articles/CBMicEFVX3lxTE5yY3Z2Z1padjZoZXRCWlhORmo3ZGZJNmF2LWJQX1UzYnRkdDAxT1NaUjlfLW1zdkVNWU5qVlE4RXdURWZWXzdoQzY4UFRxZkpYb0h1VVRsTVZsVmNVXzFscC1lM25wdmlxVERzSU50cjY?oc=5" target="_blank">상호금융중앙회 PF대출 한도 20%로 제한한다…자본비율 7%까지 상향</a>&nbsp;&nbsp;<font color="#6f6f6f">연합인포맥스</font></li><li><a href="https://news.google.com/rss/articles/CBMidEFVX3lxTFB6S2lrUkVvZW9NdmdBYnV3bkdMLVBZSW9YZWdTenU1a1pzQzNmVEJXVnB0S2s5cDhZUUNuN0haUS05QzhjWkQ1dXNqM050aUV4c2Q5QjdJTTdXNGkxU1ZRcmtxb0U4WV95eHd2Q0dxMmQ1Y21x0gF0QVVfeXFMTVRXd1J0cER2bFV5OWVOQkFZVk9obDJPMHdKc0RwUGV1cnBoelJTVDFuWGFDWDk5X0FRUFFsb19ONmNWaEZ6VmVXTUpCOFdGQnFpdjlzZHEyUVNKTU1XMTBoZmtDUFpGZW1EQmFiSXdtajVOcno?oc=5" target="_blank">PF위험금액 8조 원 줄어‥금융위 "PF 부실 정리 차질 없이 추진 중"</a>&nbsp;&nbsp;<font color="#6f6f6f">MBC 뉴스</font></li></ol>

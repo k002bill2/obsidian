@@ -1,0 +1,12 @@
+---
+link: https://news.google.com/rss/articles/CBMinAFBVV95cUxOc1pkUHJ5TzJvYVpuc3FhZWd6NHRxQ0wyclNCcVpaTHZMMFpmSWhIOEp6ajlpcktJUFVIc3NDZXNqVmhNell3eGhSMW5JN2lPXzVnc3RYUUlrVkxkdERleUY0Q3ZzUk1zR0lwOXdSRmZBOHowMjRmUkVCLV8zbnFHbFYzc0NyS0F1el9vQ1Npc2tZTnc3Wmp0V01KZkU?oc=5
+author: 
+published: Tue, 23 Dec 2025 06:48:02 GMT
+tags: [News, Google, 연예]
+---
+# DAY6, '예뻤어' 뮤직비디오 유튜브 조회 수 1억 뷰 돌파! 그룹 첫 억대 뷰 뮤직비디오 기록 - KBS WORLD Radio
+
+[원문 링크](https://news.google.com/rss/articles/CBMinAFBVV95cUxOc1pkUHJ5TzJvYVpuc3FhZWd6NHRxQ0wyclNCcVpaTHZMMFpmSWhIOEp6ajlpcktJUFVIc3NDZXNqVmhNell3eGhSMW5JN2lPXzVnc3RYUUlrVkxkdERleUY0Q3ZzUk1zR0lwOXdSRmZBOHowMjRmUkVCLV8zbnFHbFYzc0NyS0F1el9vQ1Npc2tZTnc3Wmp0V01KZkU?oc=5)
+
+## 요약/본문
+<ol><li><a href="https://news.google.com/rss/articles/CBMinAFBVV95cUxOc1pkUHJ5TzJvYVpuc3FhZWd6NHRxQ0wyclNCcVpaTHZMMFpmSWhIOEp6ajlpcktJUFVIc3NDZXNqVmhNell3eGhSMW5JN2lPXzVnc3RYUUlrVkxkdERleUY0Q3ZzUk1zR0lwOXdSRmZBOHowMjRmUkVCLV8zbnFHbFYzc0NyS0F1el9vQ1Npc2tZTnc3Wmp0V01KZkU?oc=5" target="_blank">DAY6, '예뻤어' 뮤직비디오 유튜브 조회 수 1억 뷰 돌파! 그룹 첫 억대 뷰 뮤직비디오 기록</a>&nbsp;&nbsp;<font color="#6f6f6f">KBS WORLD Radio</font></li><li><a href="https://news.google.com/rss/articles/CBMiT0FVX3lxTE9aUUtyMEJ1Nnc3WXR2WWF6VkhZa1VyVUU3ZFg3QlNNUjdVVllMLUNBQk14UDl0Tk9SUXZMel9kaDlkZnJydXRRYmhJZHd1SFU?oc=5" target="_blank">데이식스 '예뻤어' MV, 1억 뷰 돌파…그룹 첫 억대 뷰</a>&nbsp;&nbsp;<font color="#6f6f6f">v.daum.net</font></li><li><a href="https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3akdfS2luUThQVzNZZ0JIRDBzUVhxRDc3cDBBVFFkR3lRX2lZZFNvSU1WbFplcFB0T0k3U21CdUViTExUMGNZUVZvYWpOU3V2VVE?oc=5" target="_blank">데이식스 역주행곡 '예뻤어', MV 1억 뷰 돌파</a>&nbsp;&nbsp;<font color="#6f6f6f">노컷뉴스</font></li><li><a href="https://news.google.com/rss/articles/CBMiZEFVX3lxTE5iWjdGN2V4dWpDUTlOSWtWOEZWZk5RQU9FY0NlRlEzUEhBZXdwMThIbDFsRjFzUU9td09NNVVIMkdobEFOUXpOU0RvMjdJbUhXTENzb3MyZU1VZUNIcHJwU1NyNTfSAXhBVV95cUxONm5kM0NPQW1CVktTNExJVmFhRVZQbW5RdzJrdVBoMVg4YjZKTzBnVDFobTV6Z0dBNkthZld5VjFXanQxY3dwMFg0OWZ6UzRCWkQ4Nm9HZ1dZX2FGT2o2aWpZNEpFV1h3WDhLUThYVWdPUGM4VEd1Tlc?oc=5" target="_blank">데이식스 '예뻤어' 뮤비 1억뷰…"자체 처음"</a>&nbsp;&nbsp;<font color="#6f6f6f">뉴시스</font></li><li><a href="https://news.google.com/rss/articles/CBMiU0FVX3lxTE1SWXhJRmR1N0l4OFhCT1FQYzJlazJGNVRNVHdsV2Y3dHIwMy14d3pjSEhDVFR0VTRDdTg1Q211WVZKek5ka1psUlBzeENma3daeXRv?oc=5" target="_blank">10주년 데이식스 "2025년 우리의 계절 너무나도 아름다웠다"</a>&nbsp;&nbsp;<font color="#6f6f6f">네이트</font></li></ol>

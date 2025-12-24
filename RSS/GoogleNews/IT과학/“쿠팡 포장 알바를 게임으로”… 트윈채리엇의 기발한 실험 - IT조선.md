@@ -1,0 +1,12 @@
+---
+link: https://news.google.com/rss/articles/CBMicEFVX3lxTE5Qa0JQLW5YX3RNcjhtQjI4MGNMWkM3RmwzUC1JZWZuU1BrQlc1M2x5U2Vwei1iRWZDOFZ4cHIwYjFrcjA1RURyV2hZazlURVFYUjVkSzZ2ZzhNMjFseWlrNzZUbF82YmlzVWdkaHNBeXLSAXRBVV95cUxQenE3R2RPMTh1NXRpQjU3N1VZR2ZOMElaaWtmQ2tLQWszMm5rTTFrS0tpc3FjbkdjT2FOZXlHMGxYaDJiT1VpUnMzczBnT3RMdmQyVTJLVWxDRTZqSXF4clNKdnFOeklHWEFyWHFVbGlYOUVETw?oc=5
+author: 
+published: Sun, 21 Dec 2025 21:00:00 GMT
+tags: [News, Google, IT과학]
+---
+# “쿠팡 포장 알바를 게임으로”… 트윈채리엇의 기발한 실험 - IT조선
+
+[원문 링크](https://news.google.com/rss/articles/CBMicEFVX3lxTE5Qa0JQLW5YX3RNcjhtQjI4MGNMWkM3RmwzUC1JZWZuU1BrQlc1M2x5U2Vwei1iRWZDOFZ4cHIwYjFrcjA1RURyV2hZazlURVFYUjVkSzZ2ZzhNMjFseWlrNzZUbF82YmlzVWdkaHNBeXLSAXRBVV95cUxQenE3R2RPMTh1NXRpQjU3N1VZR2ZOMElaaWtmQ2tLQWszMm5rTTFrS0tpc3FjbkdjT2FOZXlHMGxYaDJiT1VpUnMzczBnT3RMdmQyVTJLVWxDRTZqSXF4clNKdnFOeklHWEFyWHFVbGlYOUVETw?oc=5)
+
+## 요약/본문
+<a href="https://news.google.com/rss/articles/CBMicEFVX3lxTE5Qa0JQLW5YX3RNcjhtQjI4MGNMWkM3RmwzUC1JZWZuU1BrQlc1M2x5U2Vwei1iRWZDOFZ4cHIwYjFrcjA1RURyV2hZazlURVFYUjVkSzZ2ZzhNMjFseWlrNzZUbF82YmlzVWdkaHNBeXLSAXRBVV95cUxQenE3R2RPMTh1NXRpQjU3N1VZR2ZOMElaaWtmQ2tLQWszMm5rTTFrS0tpc3FjbkdjT2FOZXlHMGxYaDJiT1VpUnMzczBnT3RMdmQyVTJLVWxDRTZqSXF4clNKdnFOeklHWEFyWHFVbGlYOUVETw?oc=5" target="_blank">“쿠팡 포장 알바를 게임으로”… 트윈채리엇의 기발한 실험</a>&nbsp;&nbsp;<font color="#6f6f6f">IT조선</font>

@@ -1,0 +1,12 @@
+---
+link: https://news.google.com/rss/articles/CBMiW0FVX3lxTE0xQlQ1TlRIUUVQTjFlNXd2LWpmUkpsWWVER2NzZlB1UDl1VnBwWFFIcExaWS1MczlJdVZHeUZ5dFQzSUp1WGNLVGZUaTdfLWEwRmEwWjBqX1JURTg?oc=5
+author: 
+published: Mon, 22 Dec 2025 21:01:00 GMT
+tags: [News, Google, 헤드라인]
+---
+# 다카이치에 ‘이 악문’ 중국…일본행 항공편 2천여 건 취소 [이런뉴스] - KBS 뉴스
+
+[원문 링크](https://news.google.com/rss/articles/CBMiW0FVX3lxTE0xQlQ1TlRIUUVQTjFlNXd2LWpmUkpsWWVER2NzZlB1UDl1VnBwWFFIcExaWS1MczlJdVZHeUZ5dFQzSUp1WGNLVGZUaTdfLWEwRmEwWjBqX1JURTg?oc=5)
+
+## 요약/본문
+<ol><li><a href="https://news.google.com/rss/articles/CBMiW0FVX3lxTE0xQlQ1TlRIUUVQTjFlNXd2LWpmUkpsWWVER2NzZlB1UDl1VnBwWFFIcExaWS1MczlJdVZHeUZ5dFQzSUp1WGNLVGZUaTdfLWEwRmEwWjBqX1JURTg?oc=5" target="_blank">다카이치에 ‘이 악문’ 중국…일본행 항공편 2천여 건 취소 [이런뉴스]</a>&nbsp;&nbsp;<font color="#6f6f6f">KBS 뉴스</font></li><li><a href="https://news.google.com/rss/articles/CBMiT0FVX3lxTFA1VHVGakt1VTdlekpMY3QySzlaNXpRSGhUd1VzbW9DLVh0amVkVTktcnNwSkpNaXpLa0NTekpGYngtRTJCeG5nMzV3bEtvOVU?oc=5" target="_blank">日식당도 日의류매장도 장사진… 반일 격화에도 ‘노 재팬’ 없는 中대륙</a>&nbsp;&nbsp;<font color="#6f6f6f">v.daum.net</font></li><li><a href="https://news.google.com/rss/articles/CBMiiwFBVV95cUxNekVmYUwxVFhJUnpwQllidHNxTE1xMk1uR3cyYy1Zb0hJUlBzV01KeU5fU2JNMFUwdzVjSXNINmRCeGdfclNMN1plOHYyeHl4TnRKdW0zeVhUcmxvYTUxOGRSVFhTRUZyRG1YMVlFNlR6dURPbzlOX1ZRTWlMR3NkQ21ZRGlVbnRqN0RN0gGfAUFVX3lxTE9KNXU4d0xRQnRqbUIyWHpiSkk5UFFzNkpxaUNJTUhVeVdHb1p2Tmxab2dyLS1qWmpxVnFZdUFoQkhaR3NUdXg3T2JicXhIQWZVMUJGcExVOWVYY1RnelhVZHVkZk9obVFxYk1LUjJnb1ZrdU1VSWREN2xWSzZwZDVIYVlEUWR5LUZWcC1kYVJrNWRDTHh6TkZuYlpMQWZLUQ?oc=5" target="_blank">[朝鮮칼럼] 일본·중국 관계의 위기, ‘강 건너 불’ 아니다</a>&nbsp;&nbsp;<font color="#6f6f6f">조선일보</font></li><li><a href="https://news.google.com/rss/articles/CBMidEFVX3lxTFBKZGY1YlBsTjFvbFFVY19wYXZsQUd5MFlLaUdQMlJnVVJMenFGWnEwV1RsRlNDMXAxeGpPOVhXRTNLeHFuOTgyZ19oTU1QcHp0b1RFZ3VxbWFNU2wxd3ozbjk3enExR29RdFFCMjZfMFFMR0kx0gF0QVVfeXFMUFZ6TVJ1N1hSZjVNU3BqdnowWjR1UkpHdkVrWWhNZG1pUVVvSDRVUFBWRXpRLXhMTnNYTmMzOVZZa1IxanowcVJ1Ri0xaVlDdDJiaVhMZXMzNl90Ry1lclRDdllXY2JFdkgzcGVMSmR3ck11RjQ?oc=5" target="_blank">다카이치 '대만발언' 후폭풍‥中, 일본행 항공편 2천여 건 취소</a>&nbsp;&nbsp;<font color="#6f6f6f">MBC 뉴스</font></li><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE5aVXdFdlRVUzk4ZTJiNTMwMjdTeTg4MEs5UTVQcTFYa1huY1hvU0ZVb1B2dVMyZEtvV0pURlVPbWZNOXZmcHlnZjZiVmUyaDRYczhYX0hDbndTd9IBVEFVX3lxTFBuUExlZlVtemkzNHVnREprV19nU1BXa01QaFZEWmE4RDJMZnUwcTlySkQ0M0QxWV9PbnNSWUFpcnRrdFF0T21iUkxQY2VDc29BbEJlNQ?oc=5" target="_blank">호텔 1박 3만원 됐다…중국인 관광객 사라지자 벌어진 일</a>&nbsp;&nbsp;<font color="#6f6f6f">한국경제</font></li></ol>

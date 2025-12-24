@@ -1,0 +1,12 @@
+---
+link: https://news.google.com/rss/articles/CBMi1AFBVV95cUxOYUNkTkYtMHVpYk5IWW12cHBBNGZnOHBudmp4TVpXX1VLOEFudUtRTlBtRFhFcFdsYTR1M0lUbEtpTlU1YlRSUlJyUmJDNEx4elhsZjRXZml0SW5hSkw1cy1RbkR2WTFuS0F6b041LTNBd0hjbDFucy1WQndRUGhTTm55Q250d0QzdVRjZ0J0OWVEbFRLR1FGTTZaQnZiWnE3VHJjNmkwRG1RdU1GQy1NSjAwczdSdmtZOVA1RDdnWmlxZTd2WXd5SklZSFQ0Qy1LUHNWNA?oc=5
+author: 
+published: Tue, 23 Dec 2025 02:45:57 GMT
+tags: [News, Google, 경제]
+---
+# 한은 "美 관세에 수출업종 타격…금융기관 건전성 악화 우려" - 한국무역협회-KITA.NET
+
+[원문 링크](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOYUNkTkYtMHVpYk5IWW12cHBBNGZnOHBudmp4TVpXX1VLOEFudUtRTlBtRFhFcFdsYTR1M0lUbEtpTlU1YlRSUlJyUmJDNEx4elhsZjRXZml0SW5hSkw1cy1RbkR2WTFuS0F6b041LTNBd0hjbDFucy1WQndRUGhTTm55Q250d0QzdVRjZ0J0OWVEbFRLR1FGTTZaQnZiWnE3VHJjNmkwRG1RdU1GQy1NSjAwczdSdmtZOVA1RDdnWmlxZTd2WXd5SklZSFQ0Qy1LUHNWNA?oc=5)
+
+## 요약/본문
+<ol><li><a href="https://news.google.com/rss/articles/CBMi1AFBVV95cUxOYUNkTkYtMHVpYk5IWW12cHBBNGZnOHBudmp4TVpXX1VLOEFudUtRTlBtRFhFcFdsYTR1M0lUbEtpTlU1YlRSUlJyUmJDNEx4elhsZjRXZml0SW5hSkw1cy1RbkR2WTFuS0F6b041LTNBd0hjbDFucy1WQndRUGhTTm55Q250d0QzdVRjZ0J0OWVEbFRLR1FGTTZaQnZiWnE3VHJjNmkwRG1RdU1GQy1NSjAwczdSdmtZOVA1RDdnWmlxZTd2WXd5SklZSFQ0Qy1LUHNWNA?oc=5" target="_blank">한은 "美 관세에 수출업종 타격…금융기관 건전성 악화 우려"</a>&nbsp;&nbsp;<font color="#6f6f6f">한국무역협회-KITA.NET</font></li><li><a href="https://news.google.com/rss/articles/CBMiT0FVX3lxTE4tVnZDZkNCUHN1VHQyLVQ3N0ZKd2h2dVhHZHRvZm9TQWxILW82bnptYlI3V0wyN2lvX1hoTzhkWW9LcFhMUklfYVdTRW5rVUE?oc=5" target="_blank">美 관세 효과 본격화되면···석유화학은 이자보상배율 ‘마이너스 전환’ [한은 하반기 금융안정보고서]</a>&nbsp;&nbsp;<font color="#6f6f6f">v.daum.net</font></li><li><a href="https://news.google.com/rss/articles/CBMiX0FVX3lxTFA1TkVHVy1fQ2NwWXRHOFlVRTlMdmU0eHJYa0JmWlVBV0hIOVBjUGJkRDhaUm1ZY1hNSkh1em1MaUR5V1VSMGVndGI2bWxlQ3c3d3Z2MWxhdlNlMDhvLTZr?oc=5" target="_blank">[금안보고서]美 관세여파…車·석화 이자지급능력 낮춘다</a>&nbsp;&nbsp;<font color="#6f6f6f">아시아경제</font></li><li><a href="https://news.google.com/rss/articles/CBMiW0FVX3lxTE9neUx5OUNkYjliNU9DZFEzV1BxbEoyS3RCSUsxYjVKWVhpWU52VlNrVzNYX0loUWNzRUgtNVJHdThHOGdGNGlGcnJpai14cHNjOGVueloyeEE3bGM?oc=5" target="_blank">한은 “미국 관세, 소비재 수출에 더 악재”</a>&nbsp;&nbsp;<font color="#6f6f6f">KBS 뉴스</font></li><li><a href="https://news.google.com/rss/articles/CBMic0FVX3lxTE5UVDdRSHhiN0tMM3lKbHU0cE9ZMkVsSnVlandlcTRhWU12LUNXa0VGR1FRbmdLVVFuOEZHSWZOU1dtX2dMNVRJaGs0MlZmQmFYMUJNSnAwTkZzN1RQeURwR0o0MXM2MnpVN0ttRUJaLUpBNG8?oc=5" target="_blank">"벌어서 이자 내기도 빠듯"…미 관세에 車·기계 수출기업 수익성 흔들</a>&nbsp;&nbsp;<font color="#6f6f6f">마켓인</font></li></ol>

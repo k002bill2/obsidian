@@ -1,0 +1,12 @@
+---
+link: https://news.google.com/rss/articles/CBMibEFVX3lxTE5iMUE4LTQwaHBKN1dzTXlZVVlVb29NRVhkb3VkTHpvaHlqbjNyckxZZGRtU3V5Y0NrcU9SMU85NXJlWVN1NnBPYnFRVlpHSGVPM2h3TDJDWk9rT1g0RFJFd1VZbm9ZTzZ1TkRkZQ?oc=5
+author: 
+published: Tue, 23 Dec 2025 08:11:04 GMT
+tags: [News, Google, 헤드라인]
+---
+# 해수부 부산 시대 개막…"해양 수도 조성 본격화" - 대한민국 정책브리핑
+
+[원문 링크](https://news.google.com/rss/articles/CBMibEFVX3lxTE5iMUE4LTQwaHBKN1dzTXlZVVlVb29NRVhkb3VkTHpvaHlqbjNyckxZZGRtU3V5Y0NrcU9SMU85NXJlWVN1NnBPYnFRVlpHSGVPM2h3TDJDWk9rT1g0RFJFd1VZbm9ZTzZ1TkRkZQ?oc=5)
+
+## 요약/본문
+<ol><li><a href="https://news.google.com/rss/articles/CBMibEFVX3lxTE5iMUE4LTQwaHBKN1dzTXlZVVlVb29NRVhkb3VkTHpvaHlqbjNyckxZZGRtU3V5Y0NrcU9SMU85NXJlWVN1NnBPYnFRVlpHSGVPM2h3TDJDWk9rT1g0RFJFd1VZbm9ZTzZ1TkRkZQ?oc=5" target="_blank">해수부 부산 시대 개막…"해양 수도 조성 본격화"</a>&nbsp;&nbsp;<font color="#6f6f6f">대한민국 정책브리핑</font></li><li><a href="https://news.google.com/rss/articles/CBMiT0FVX3lxTFB2T0E5Um53YlhYZUV0c1pSd0M5c05YeFEtYkNuYnNCdTJUbkdjeFR6d0NWUXNUUDIwdlozb0RENUFHb1Y2dFdCNkl1Qmk3aU0?oc=5" target="_blank">[사설] 부산 찾은 이 대통령 "동북아 해양도시 발돋움 총력 지원"</a>&nbsp;&nbsp;<font color="#6f6f6f">v.daum.net</font></li><li><a href="https://news.google.com/rss/articles/CBMieEFVX3lxTE1WUXhSUmR5b3M4aGJDZDllQjVXOElVVS1paFN4N3ZrQkdzeGw5RVRwUTlSY082T3RiYWxGS2kzbTRXY3IwV1BiOTAzNjlGd2hsSGF5TDNra21iSE1VNDFqUnZrSHNOcUU3b1N5Wk9VVGQwSWN4UDQyWtIBeEFVX3lxTFBPYmpYbTNZRGpSYVVCNzVKUlh5bW9YZ3dtSjFKWmQ5bnlsUkVZaXJWOUZLd1RUX1lJd2NaRGg1VVpuVGczT2lvbnlWZVk5QmZSMm01YkM2dmp2OWxFd1RZTFo0dFBIM3VQT0xIZ3dmU2hzRm5uTkllRg?oc=5" target="_blank">막오른 '해수부 부산시대'‥"부산에서 근무할래요" 지원자도 증가</a>&nbsp;&nbsp;<font color="#6f6f6f">MBC 뉴스</font></li><li><a href="https://news.google.com/rss/articles/CBMiZEFVX3lxTE85VGhfQ3ZxY0tkQkNYNUNzTmVmRC1fWndKVzdEdkV6YVNWZExnSmFEaFk3NS1HM1Bhdlg3NG1TTml1M2FlVVRKZ0lpYnMya2xaNnJYVmljUlZxSDZ1Z1pQNkZQUzTSAXhBVV95cUxQZHd6R2M4ZXl6V2ZEdmhBSmJzamJ0NWNRTDBpeXk3YzVmMVN2WHpFYkxFUTBrU19UR0dtdnU0Y3I4VG1aOFdRQWh5NDdUT1VFNlVpZjI2bkE2bVNpRDA1Y0t4ekxCUTgzN1hDQzhkMjJGNG9BdE9SYm4?oc=5" target="_blank">이재명 대통령, 부산 부전시장 방문 '온누리상품권 등으로 생선·반찬 등 직접 구매'…상인들에 덕담 [뉴시스Pic]</a>&nbsp;&nbsp;<font color="#6f6f6f">뉴시스</font></li><li><a href="https://news.google.com/rss/articles/CBMiVEFVX3lxTE1mdHZnQ29oZWUxMmE3UnUzQ29LMXhXUi14X0t2d1pXd1FMdVcxWklOV0RmbnZCVFlRZWc3bXdCc0hIQ21qd2pIMUhHVWJRR00wLU1vMQ?oc=5" target="_blank">이 대통령 "아쉽게도 해수부 장관 공석…후임 부산 인재로"</a>&nbsp;&nbsp;<font color="#6f6f6f">JTBC</font></li></ol>

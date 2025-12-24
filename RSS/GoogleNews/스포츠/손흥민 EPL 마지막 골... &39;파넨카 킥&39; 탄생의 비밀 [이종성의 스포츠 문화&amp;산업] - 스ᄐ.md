@@ -1,0 +1,12 @@
+---
+link: https://news.google.com/rss/articles/CBMidkFVX3lxTE9xY0IxUFpKREdQT3YtTi1PMzlKTWdBTmdMUlBHMHJOaXpfNUdZZjQ0enNjODZHemRmMllVeGdFUndvOWdrRFUxc25MUmZ2QlRQMTB2SUhtZVhBZC1vM3pQTTEtZGd1LWlUdzdnWnZYYUlCaDFzM1E?oc=5
+author: 
+published: Wed, 24 Dec 2025 01:38:23 GMT
+tags: [News, Google, 스포츠]
+---
+# 손흥민 EPL 마지막 골... '파넨카 킥' 탄생의 비밀 [이종성의 스포츠 문화&산업] - 스타뉴스
+
+[원문 링크](https://news.google.com/rss/articles/CBMidkFVX3lxTE9xY0IxUFpKREdQT3YtTi1PMzlKTWdBTmdMUlBHMHJOaXpfNUdZZjQ0enNjODZHemRmMllVeGdFUndvOWdrRFUxc25MUmZ2QlRQMTB2SUhtZVhBZC1vM3pQTTEtZGd1LWlUdzdnWnZYYUlCaDFzM1E?oc=5)
+
+## 요약/본문
+<ol><li><a href="https://news.google.com/rss/articles/CBMidkFVX3lxTE9xY0IxUFpKREdQT3YtTi1PMzlKTWdBTmdMUlBHMHJOaXpfNUdZZjQ0enNjODZHemRmMllVeGdFUndvOWdrRFUxc25MUmZ2QlRQMTB2SUhtZVhBZC1vM3pQTTEtZGd1LWlUdzdnWnZYYUlCaDFzM1E?oc=5" target="_blank">손흥민 EPL 마지막 골... '파넨카 킥' 탄생의 비밀 [이종성의 스포츠 문화&산업]</a>&nbsp;&nbsp;<font color="#6f6f6f">스타뉴스</font></li><li><a href="https://news.google.com/rss/articles/CBMidEFVX3lxTFA4VlZrRGpRVmtXQVVubjFDcl9lMzZiUlM1UkRwSE1YYXRMX3V6eGNyczZDbEVXYWpSMXByMlRKQ0h5a2otbTkxcDZmcnBncFZwaUlHclNTTkV3YTYtX3pMLU54bVhFRk1yVDVuN1pKc1JMV29z0gFmQVVfeXFMTmxTVUVfUWY5ZnZxSFMyYWpndkdJUGdDTURYXy11cHdHcm1XbkxJTVlRbEhkeVhwa201SEE3OXVTOG1TWm5xT0FZamxXbDZNTFdtNUc3UEJuNVYtRVlWS09HbS1zN3ZB?oc=5" target="_blank">볼리비아전 환상 ‘프리킥 골’… 손흥민 ‘KFA 올해의 골’ 선정</a>&nbsp;&nbsp;<font color="#6f6f6f">동아일보</font></li><li><a href="https://news.google.com/rss/articles/CBMiT0FVX3lxTE9qSThzblYyVTJWMlZHbUFQSFNGckd0UHlBRW1Iekt3X24tcGJwSnluTEI0WEhhNVI2WkNFLURhZXpOUUdFa253RHJoV1kzTkE?oc=5" target="_blank">‘올해의 골’ 손흥민, 북중미월드컵도 ‘환상 프리킥’ 조준</a>&nbsp;&nbsp;<font color="#6f6f6f">v.daum.net</font></li><li><a href="https://news.google.com/rss/articles/CBMieEFVX3lxTFBMM296eE1qWklLMkk5U0xuV3Z5QkE3d2hmYU42am1STTAyU0FrN1NqQnJnR2l1WUxVV1ZSQWloOVZCbm1IdjZOVE90VlR1TXRoMFI1UTV5aDQ1aGxHUHVDRUJNSWhtejFnNXhzcFZWSnFkOGhMQU9XUdIBeEFVX3lxTE9wUFZucFRPS3RVY1ZDc185d3VoQ3pncExXVmtkQ3lJN1lyY0t2SDNyYXIwMWRyY1lmWUtQLVFXWUNXSGJ3VURnWTZSMm9FTGQ1UUlFLTI3c1JLXzg0VzM1QWl6a2hFdThEWUpDY3B1TFRfRV9peHdMQg?oc=5" target="_blank">[스포츠 영상] 손흥민, 볼리비아전 프리킥 골, 축구협회 올해의 골</a>&nbsp;&nbsp;<font color="#6f6f6f">MBC 뉴스</font></li><li><a href="https://news.google.com/rss/articles/CBMiXEFVX3lxTFBTUEt1T3IyVm5KeHNydzRJRU85bThFZ0VXNV90M1MxUUdxQ01saVVCVzVFQXJ1ekJwcV9qWDdacUJMczlaNThnd0dqSXVxYl9vbGFKT1FsdkNtakhF?oc=5" target="_blank">손흥민 EPL 마지막 골…'파넨카 킥' 탄생의 비밀 [이종성의 스포츠 문화&산업]</a>&nbsp;&nbsp;<font color="#6f6f6f">네이트 스포츠</font></li></ol>

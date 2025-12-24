@@ -1,0 +1,12 @@
+---
+link: https://news.google.com/rss/articles/CBMid0FVX3lxTFBBWF9nT2JyMFRpR1phandSV2IxbXMzbU9yQ2IwVEpIWnFTN1g3ZXlwOXo5aXFkd2syZDRDRmVWbHF0UENTRUI3LVdSYTVFSExmSkRvRmFaUHRnemVPMWpSOWNJbzJKdHJ1WXg4MVo3UGFwNHh3V1RV0gFmQVVfeXFMUHRGYm03bjRWY1luSlUxTkJGVExTRFJ3dHdpckNWaDlZZ3d0cU1kc3V6WkpEZDI4UUttcG91VzROVV9BLXZwVFVoMzR2TmtGYnRrX0c2b0NLZUUtMm5pLUpmZmR6dzln?oc=5
+author: 
+published: Wed, 24 Dec 2025 01:14:00 GMT
+tags: [News, Google, 스포츠]
+---
+# 600마력 엔진 단 ‘강철비’…주한미군, 신형 MLRS 실사격 - 동아일보
+
+[원문 링크](https://news.google.com/rss/articles/CBMid0FVX3lxTFBBWF9nT2JyMFRpR1phandSV2IxbXMzbU9yQ2IwVEpIWnFTN1g3ZXlwOXo5aXFkd2syZDRDRmVWbHF0UENTRUI3LVdSYTVFSExmSkRvRmFaUHRnemVPMWpSOWNJbzJKdHJ1WXg4MVo3UGFwNHh3V1RV0gFmQVVfeXFMUHRGYm03bjRWY1luSlUxTkJGVExTRFJ3dHdpckNWaDlZZ3d0cU1kc3V6WkpEZDI4UUttcG91VzROVV9BLXZwVFVoMzR2TmtGYnRrX0c2b0NLZUUtMm5pLUpmZmR6dzln?oc=5)
+
+## 요약/본문
+<a href="https://news.google.com/rss/articles/CBMid0FVX3lxTFBBWF9nT2JyMFRpR1phandSV2IxbXMzbU9yQ2IwVEpIWnFTN1g3ZXlwOXo5aXFkd2syZDRDRmVWbHF0UENTRUI3LVdSYTVFSExmSkRvRmFaUHRnemVPMWpSOWNJbzJKdHJ1WXg4MVo3UGFwNHh3V1RV0gFmQVVfeXFMUHRGYm03bjRWY1luSlUxTkJGVExTRFJ3dHdpckNWaDlZZ3d0cU1kc3V6WkpEZDI4UUttcG91VzROVV9BLXZwVFVoMzR2TmtGYnRrX0c2b0NLZUUtMm5pLUpmZmR6dzln?oc=5" target="_blank">600마력 엔진 단 ‘강철비’…주한미군, 신형 MLRS 실사격</a>&nbsp;&nbsp;<font color="#6f6f6f">동아일보</font>

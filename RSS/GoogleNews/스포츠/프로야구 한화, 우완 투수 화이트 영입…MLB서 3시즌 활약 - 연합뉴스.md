@@ -1,0 +1,12 @@
+---
+link: https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKcFB1S0ZZU1hwZzd2ZmNEYlBpWkhGb1RfSkxmOWJZR01rR3hBQUxmcnlYNDJLLUtXLWRYQlBqb29KNTRPNDA0Q1dNNFllQzJaOEtVd0pnV0FWYjjSAWBBVV95cUxNUVQ5a19sR3RRbzk2TTFVZVZWeUlocmdLaldORE5idFZERjRFRlR2ZFhwdVRwV2lJeng3c1JiV2FfSXR4anJMaWFwT3lQYm1xNGdTYWt4aHZzUEFyR3hVTFU?oc=5
+author: 
+published: Wed, 24 Dec 2025 06:56:30 GMT
+tags: [News, Google, 스포츠]
+---
+# 프로야구 한화, 우완 투수 화이트 영입…MLB서 3시즌 활약 - 연합뉴스
+
+[원문 링크](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKcFB1S0ZZU1hwZzd2ZmNEYlBpWkhGb1RfSkxmOWJZR01rR3hBQUxmcnlYNDJLLUtXLWRYQlBqb29KNTRPNDA0Q1dNNFllQzJaOEtVd0pnV0FWYjjSAWBBVV95cUxNUVQ5a19sR3RRbzk2TTFVZVZWeUlocmdLaldORE5idFZERjRFRlR2ZFhwdVRwV2lJeng3c1JiV2FfSXR4anJMaWFwT3lQYm1xNGdTYWt4aHZzUEFyR3hVTFU?oc=5)
+
+## 요약/본문
+<ol><li><a href="https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKcFB1S0ZZU1hwZzd2ZmNEYlBpWkhGb1RfSkxmOWJZR01rR3hBQUxmcnlYNDJLLUtXLWRYQlBqb29KNTRPNDA0Q1dNNFllQzJaOEtVd0pnV0FWYjjSAWBBVV95cUxNUVQ5a19sR3RRbzk2TTFVZVZWeUlocmdLaldORE5idFZERjRFRlR2ZFhwdVRwV2lJeng3c1JiV2FfSXR4anJMaWFwT3lQYm1xNGdTYWt4aHZzUEFyR3hVTFU?oc=5" target="_blank">프로야구 한화, 우완 투수 화이트 영입…MLB서 3시즌 활약</a>&nbsp;&nbsp;<font color="#6f6f6f">연합뉴스</font></li><li><a href="https://news.google.com/rss/articles/CBMiT0FVX3lxTE5OMFE4NjJJX292MTI3djFrYW1kVUc5ejY3ZkpZMUQ2ckhoMjlGLXFPMlI3SnFrRjAxN2tWNXNZOHFMNV9wbW8xVW44dXhqRzA?oc=5" target="_blank">한화, '폰세-와이스' 이을 원투펀치 드디어 완성!…투수 오웬 화이트 영입→윌켈 에르난데스와 힘 합친다</a>&nbsp;&nbsp;<font color="#6f6f6f">v.daum.net</font></li><li><a href="https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Ga2gwUVNVMkx1dnpoc0hNeVc0ZUdIMFdla0NmWjVRZWZFeV9lMGhjVGhtekZlc2g2Sl9kUWJlX3dQMi1rZC1DWGlrR0ZQSVdOOFZBUVVXLUQ1QjVKZHfSAWNBVV95cUxPTU1BcWpncWhHNDNrQzl6R3F0c0tNWER3QkFUTm5ScGFhNFo2QlltLVAybEt4QVlyTWZVb21kb0FpTDFJZF96aXN2SHN5VHlkbjZkOWJfODJJbV83UU1LdklqdUU?oc=5" target="_blank">‘고우석 닮았네’ 한화 화이트 ‘기대감’…“에르난데스와 강력한 원투펀치 이룰 것”</a>&nbsp;&nbsp;<font color="#6f6f6f">스포츠경향</font></li><li><a href="https://news.google.com/rss/articles/CBMiYEFVX3lxTFBBOVpJVUJFbEFFOGhvUnM2SzhBTWRIc3JwM1B4V0U3Z2JqN1RJbjd2eVBMMDJ5c3FJd3kyc2xQa3NaWHhrOHdMeGwwd0FtSFVpRUJqSEJIblRtMHhhWmtTQg?oc=5" target="_blank">[공식발표] 한화 드디어 新 '폰세-와이즈' 듀오 찾았다! '155km 강속구·ML 특급 유망주' 화이트 영입 "멋진 시즌 만들겠다"</a>&nbsp;&nbsp;<font color="#6f6f6f">네이트</font></li><li><a href="https://news.google.com/rss/articles/CBMiUkFVX3lxTE96WFY4dXM4d2xSdzNPdmFsRzBLX09RdUVmRklBNVNIVTl0WWJhZ19SVm5nRHNBZVN3alJaczh3ZUZxUFczZkZtV0xjRmJ6ZXNHRUE?oc=5" target="_blank">'드디어 폰세 대체자 확정' 한화, 최고 155km 26살 우완과 100만 달러 계약</a>&nbsp;&nbsp;<font color="#6f6f6f">노컷뉴스</font></li></ol>

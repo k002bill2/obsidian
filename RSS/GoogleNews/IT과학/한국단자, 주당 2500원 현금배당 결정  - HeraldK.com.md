@@ -1,0 +1,12 @@
+---
+link: https://news.google.com/rss/articles/CBMi7gFBVV95cUxQbGhHblhoQWtPYXlkT19NOVh6UFFpNEZJaWc5TjlWcThwbWJrWkRsYTlfT1hnS2pUdDltbzFuNHRueFloeWZjVkY3b1RkOERFN2NzUEU3RjhCcUVvTmNneGxoNzcwMFE1b3BfYjRMXzZRTEZvdUJCbWJYU3RSZlphbHExSWV0ZnNTMGpITUpJQUxabllQaHVsVnBITGwtZGhqc2FFR3drRXR0UW9GTTlUUUtCWWJZdFU0c2VpdEg4SEtYZ2VDVlVCdVVCWXczWjd4VDJ4Ujd4YlFUdkhGVDMyVllKU3hnWDVGSmhWUDN3?oc=5
+author: 
+published: Tue, 23 Dec 2025 02:25:54 GMT
+tags: [News, Google, IT과학]
+---
+# 한국단자, 주당 2500원 현금배당 결정 | - HeraldK.com
+
+[원문 링크](https://news.google.com/rss/articles/CBMi7gFBVV95cUxQbGhHblhoQWtPYXlkT19NOVh6UFFpNEZJaWc5TjlWcThwbWJrWkRsYTlfT1hnS2pUdDltbzFuNHRueFloeWZjVkY3b1RkOERFN2NzUEU3RjhCcUVvTmNneGxoNzcwMFE1b3BfYjRMXzZRTEZvdUJCbWJYU3RSZlphbHExSWV0ZnNTMGpITUpJQUxabllQaHVsVnBITGwtZGhqc2FFR3drRXR0UW9GTTlUUUtCWWJZdFU0c2VpdEg4SEtYZ2VDVlVCdVVCWXczWjd4VDJ4Ujd4YlFUdkhGVDMyVllKU3hnWDVGSmhWUDN3?oc=5)
+
+## 요약/본문
+<a href="https://news.google.com/rss/articles/CBMi7gFBVV95cUxQbGhHblhoQWtPYXlkT19NOVh6UFFpNEZJaWc5TjlWcThwbWJrWkRsYTlfT1hnS2pUdDltbzFuNHRueFloeWZjVkY3b1RkOERFN2NzUEU3RjhCcUVvTmNneGxoNzcwMFE1b3BfYjRMXzZRTEZvdUJCbWJYU3RSZlphbHExSWV0ZnNTMGpITUpJQUxabllQaHVsVnBITGwtZGhqc2FFR3drRXR0UW9GTTlUUUtCWWJZdFU0c2VpdEg4SEtYZ2VDVlVCdVVCWXczWjd4VDJ4Ujd4YlFUdkhGVDMyVllKU3hnWDVGSmhWUDN3?oc=5" target="_blank">한국단자, 주당 2500원 현금배당 결정 |</a>&nbsp;&nbsp;<font color="#6f6f6f">HeraldK.com</font>

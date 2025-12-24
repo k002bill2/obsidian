@@ -1,0 +1,12 @@
+---
+link: https://news.google.com/rss/articles/CBMiZkFVX3lxTE1QTndId2dySklWc0xNVVB3UnBwZG5QZjdyYmYteWFvVnJBaEZoTmZlZ25JcjVMcEZWTnk5bmZxMU9mbkJTLXE1UlcxaHZWVTYyeGtVbW41dVdTbnFULVRBNnU3THpqdw?oc=5
+author: 
+published: Mon, 22 Dec 2025 12:43:00 GMT
+tags: [News, Google, 헤드라인]
+---
+# 트럼프 지웠던 ‘엡스타인 파일’…“법 무시” 비판에 복원 - KBS 뉴스
+
+[원문 링크](https://news.google.com/rss/articles/CBMiZkFVX3lxTE1QTndId2dySklWc0xNVVB3UnBwZG5QZjdyYmYteWFvVnJBaEZoTmZlZ25JcjVMcEZWTnk5bmZxMU9mbkJTLXE1UlcxaHZWVTYyeGtVbW41dVdTbnFULVRBNnU3THpqdw?oc=5)
+
+## 요약/본문
+<ol><li><a href="https://news.google.com/rss/articles/CBMiZkFVX3lxTE1QTndId2dySklWc0xNVVB3UnBwZG5QZjdyYmYteWFvVnJBaEZoTmZlZ25JcjVMcEZWTnk5bmZxMU9mbkJTLXE1UlcxaHZWVTYyeGtVbW41dVdTbnFULVRBNnU3THpqdw?oc=5" target="_blank">트럼프 지웠던 ‘엡스타인 파일’…“법 무시” 비판에 복원</a>&nbsp;&nbsp;<font color="#6f6f6f">KBS 뉴스</font></li><li><a href="https://news.google.com/rss/articles/CBMiT0FVX3lxTFB6U2dOZ3dKU19MNVFna0xVVUJ0d0gtUWcwT3psclR5RUZUVmlTSXNXOEdqNEtOYnpaSkJUOVRQV2VoQjJDRFVLR0dsSnY1VjQ?oc=5" target="_blank">엡스타인 파일 공개 지연에 미 의회 일각 추가 대응 추진</a>&nbsp;&nbsp;<font color="#6f6f6f">v.daum.net</font></li><li><a href="https://news.google.com/rss/articles/CBMiW0FVX3lxTE83WUQyRVJYUGo3YV81WDBnczMtbFg1SFhQLUR2aU85LUdNdE9lQjEyakNvU3pWV3NkZ2NCVEpNNjlaLW1JTVVrelo4WnJ3YnE3TU9WNHZOM2kxR3PSAWBBVV95cUxOanZvOUJnc0xEUUxuNTk4ZUl3RFZlY1NzYkg5b0xlT1pWa0lBUWpXT1VyeC11akU2azZQZE5McVlmdzdudFhha3NUbFdwR1RpRUI0UUVhUzdtYTZHdzBfaF8?oc=5" target="_blank">엡스타인 파일 파문 확산…美정부 지연공개에 의회·피해자 공분</a>&nbsp;&nbsp;<font color="#6f6f6f">연합뉴스</font></li><li><a href="https://news.google.com/rss/articles/CBMic0FVX3lxTFBFdnBXS0RyYW9zTnU3clBDZDlNclNNTHdLSlpSZmFMalJGbzYtNUFrUUZwNC1oNi1FclJndW1Mb3REMzZOSWNheU93a05aZTdqMVNOVTlJX2I1dV9weWtYeHBVem5HRGVHa3h2QXR3cjZ5cjDSAWZBVV95cUxNTkFES1ZaSlB6YXRoSlM5STZGQkdQdHZjS29BY24wWG5KemVuS00wUk5OSDZ6cHFBYzN4RXhBYVc0MGN6dGRDYVBJOExUdF9uLVlrSkg0V1VwRHpYM2VVUzBsUW9vZFE?oc=5" target="_blank">엡스타인 사진 일부 삭제한 美법무부, 트럼프 은폐 논란에 재공개</a>&nbsp;&nbsp;<font color="#6f6f6f">동아일보</font></li><li><a href="https://news.google.com/rss/articles/CBMiekFVX3lxTE44eUg3Qi1VdTJXRVlzSy1aaG00cU9zVlNmRHF3YVFESXZpUF9YZWlNVi0zaFhLSXdZdDJ3T3VzRmdBcnplQXJFV1ktd1prNGNVR1pnTUVDenY4WjYzWnJLWF9UYk5TMW1MVXhJZDV0blFxUVhCSEFrd0Jn0gF6QVVfeXFMT0VDQ2JDRE9FcENMMkYybk9qNWpYTndFSEVRamNRZ1ZrekF4OTRDZGRyR2lSNThOMzFjbC14RDdxTkJuU1NPODh6LW1QVl8wUjNXejlNbGk0VEZWdmM0WGphdWFmYXh4LUxaZ3JLa0w3M2VYaFVRQnlkWkE?oc=5" target="_blank">'트럼프' 사라지고 '클린턴' 남아‥선별 공개?</a>&nbsp;&nbsp;<font color="#6f6f6f">MBC 뉴스</font></li></ol>

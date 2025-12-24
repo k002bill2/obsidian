@@ -1,0 +1,12 @@
+---
+link: https://news.google.com/rss/articles/CBMilgFBVV95cUxQM2k0UzduLUR5NmF3OXZzSHI4cEdOZm41a0V1dGdwMkFiQU43aXZKVVdTeDVQWThsczZqMjhnenliZS1WSnJsV0VqRmNYTlVxNW42dkRtWGRrNm1yQ2JjTUd4czcxRUhxaG9QTlBUX19YU28ybGJ6bklIajlGRWpDMWE3NlRBNGtfX2NGX2d5eno0dm42SkE?oc=5
+author: 
+published: Mon, 22 Dec 2025 09:30:28 GMT
+tags: [News, Google, 스포츠]
+---
+# 맨유, 애스턴 빌라에 1-2 패배 - Official Manchester United Website
+
+[원문 링크](https://news.google.com/rss/articles/CBMilgFBVV95cUxQM2k0UzduLUR5NmF3OXZzSHI4cEdOZm41a0V1dGdwMkFiQU43aXZKVVdTeDVQWThsczZqMjhnenliZS1WSnJsV0VqRmNYTlVxNW42dkRtWGRrNm1yQ2JjTUd4czcxRUhxaG9QTlBUX19YU28ybGJ6bklIajlGRWpDMWE3NlRBNGtfX2NGX2d5eno0dm42SkE?oc=5)
+
+## 요약/본문
+<ol><li><a href="https://news.google.com/rss/articles/CBMilgFBVV95cUxQM2k0UzduLUR5NmF3OXZzSHI4cEdOZm41a0V1dGdwMkFiQU43aXZKVVdTeDVQWThsczZqMjhnenliZS1WSnJsV0VqRmNYTlVxNW42dkRtWGRrNm1yQ2JjTUd4czcxRUhxaG9QTlBUX19YU28ybGJ6bklIajlGRWpDMWE3NlRBNGtfX2NGX2d5eno0dm42SkE?oc=5" target="_blank">맨유, 애스턴 빌라에 1-2 패배</a>&nbsp;&nbsp;<font color="#6f6f6f">Official Manchester United Website</font></li><li><a href="https://news.google.com/rss/articles/CBMiT0FVX3lxTFA2Z2FBemw2MmdGVU41VGFxWm5XaXhsQXpuTnZxR0ZfUW9VVHdzQWhWejF6ZGM1UzVISlQ4TEZfbTAtQVZ0aXg2UGRjUXZiTTg?oc=5" target="_blank">'선발 7경기 전패' 구단 역사상 최악의 기록...맨체스터 유나이티드, 우가르테 기용으로 반복되는 중원 붕괴</a>&nbsp;&nbsp;<font color="#6f6f6f">v.daum.net</font></li><li><a href="https://news.google.com/rss/articles/CBMiYkFVX3lxTFBMMUJ1dmR2V1l2TEsyNTBZUVQwVEtnS2dLd2M3dTV3c2V5Sk5FU21Ld2lCaFk2VU00YnVIX2dfTUtfSGhqZXE0Mmg1VjFiUkl5bG8xSzMxZTFGdEFFUlZXOUJB?oc=5" target="_blank">'맨유 에이스' 브루노 페르난데스, 부상으로 전력 이탈...'마이누-마운트' 누가 자리 대체할까</a>&nbsp;&nbsp;<font color="#6f6f6f">미주중앙일보</font></li><li><a href="https://news.google.com/rss/articles/CBMiXkFVX3lxTE1DY1YxcVplSmVTT2FGb3BVODdDYjZvaWVoa1ZjY2Z5bF9ZdjRpeFVQRHJuZEw2QVJBRlRIOE13bTVQYlZHU0kwdy1lYy04eFFuMDh2VlBtN3kzd2U3ZVHSAWNBVV95cUxNbmh5V1Z0LTlNQXNmYUdndVZPLWgwZUo1c3cyNzJESFc0SVByQVkyX0ZKbHRXa3NuZHVFRG44dWtKZG1hZk9qVF9Xd1FtZE9ZYlpoZ0IyckdPX1ZiX2c1Vm4yZTA?oc=5" target="_blank">‘맨유 어쩌나’ 주장 페르난데스, 햄스트링 부상 한 달 결장 유력…겨울 이적시장 새 MF 영입 가능성</a>&nbsp;&nbsp;<font color="#6f6f6f">스포츠경향</font></li><li><a href="https://news.google.com/rss/articles/CBMieEFVX3lxTE0zN1piSmlyWkQxblRHSmNienRTWVEtSzRQekQ3SkNpS2NhTldyTFhkcjBWNzU1LUNXTXV2Q0h1SWc2RlJrNWp3bXlLVFhqVE8zMk5IdmozS1NwazdJNWgxYlVCVzNXVmJnV2ZGN3hZeVlUa2V4QlNGVg?oc=5" target="_blank">"투지가 없어!" 맨유 레전드, '3주장'에 직격탄→"충분한 기회 받았는데 성장 더뎌, 매각해야"</a>&nbsp;&nbsp;<font color="#6f6f6f">네이트</font></li></ol>

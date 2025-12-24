@@ -1,0 +1,12 @@
+---
+link: https://news.google.com/rss/articles/CBMiW0FVX3lxTFBldFBuOU9sQTVlazUxYWVleFJPRWtaM3c2cnZMLThDdkZRNzVYQUxVWkZRZmU3VVJhempYRWlscnJUb1ZFcjlaRjFjVjFBaTZQUjFmcEQ3cHpjeVU?oc=5
+author: 
+published: Tue, 23 Dec 2025 03:07:02 GMT
+tags: [News, Google, IT과학]
+---
+# KAIST, ‘접히는 바퀴’로 달 탐사의 한계를 넘다 - MIT 테크놀로지 리뷰
+
+[원문 링크](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBldFBuOU9sQTVlazUxYWVleFJPRWtaM3c2cnZMLThDdkZRNzVYQUxVWkZRZmU3VVJhempYRWlscnJUb1ZFcjlaRjFjVjFBaTZQUjFmcEQ3cHpjeVU?oc=5)
+
+## 요약/본문
+<ol><li><a href="https://news.google.com/rss/articles/CBMiW0FVX3lxTFBldFBuOU9sQTVlazUxYWVleFJPRWtaM3c2cnZMLThDdkZRNzVYQUxVWkZRZmU3VVJhempYRWlscnJUb1ZFcjlaRjFjVjFBaTZQUjFmcEQ3cHpjeVU?oc=5" target="_blank">KAIST, ‘접히는 바퀴’로 달 탐사의 한계를 넘다</a>&nbsp;&nbsp;<font color="#6f6f6f">MIT 테크놀로지 리뷰</font></li><li><a href="https://news.google.com/rss/articles/CBMijAFBVV95cUxOYzk4b3prTDJqWEl2ZHJKa25KdWVmYngtQjN5WmZEdHVwT0xLUm1hdGlldU9NcjJmZTZPVlBXdy1VNFVnZDZlSVhWVDJ0S2NiTWZNMzl6cldkdWlNaVZreEhZUmktTmxtQmlCVlBvZGF0VWZ0RHo1dTJaVGpzZWdWT2VMNkJYTDJ3a05kQQ?oc=5" target="_blank">극한 환경 견디는 로봇 개발…'달 탐사 시대' 기대</a>&nbsp;&nbsp;<font color="#6f6f6f">YTN 사이언스</font></li><li><a href="https://news.google.com/rss/articles/CBMiRkFVX3lxTE9Nd2MyVUtseVVfYXk4QlVRNG9NVEJDUGpPRTRPbkNYS253TzJaN3o5X1ZneGZ0UGgxMGh3V2JLRm5tbWdKNWc?oc=5" target="_blank">[한입 과학] 韓 연구팀, 울퉁불퉁한 달도 마음껏 다니는 바퀴 만들었다</a>&nbsp;&nbsp;<font color="#6f6f6f">v.daum.net</font></li><li><a href="https://news.google.com/rss/articles/CBMiaEFVX3lxTE42dXZjMVM3cFZEdlJVakJPR0ZwTlZwNk81Ry12ZHRwSGF0WFF4RzhWLWFYY25vRWZaVGlfeHFsUDRmTEpkT0JXQndjaUdNRmJ6UDJCZ0d4R1Y2ZFJ5RWtvc2JoNHZUZHBN?oc=5" target="_blank">울퉁불퉁한 달 표면에서 도르르∼ 굴러가는 바퀴!</a>&nbsp;&nbsp;<font color="#6f6f6f">어린이동아</font></li><li><a href="https://news.google.com/rss/articles/CBMiugNBVV95cUxNaHFQQ05tM25WSDdqeUYxME1maFlET1lLZktFZVk0RjVRREZfcW9LVW5DVktzR0xZbFpDNUhuRm55YzlBOG1EY2lNRzc4ZTBOMExfaExHWnhtbHQ0SlpJOFowbExUUWoybW5OOFR0ZUJaQ2twX0htNU9jcWVsSHQzWmxVMlA1XzR4bnI4SWFSVTI0empBTzdtdjV6eWZyeTllUWtyakhGeHNXQWJCeTBhYnRVWGctZ2p4djNtWW1oSTR4YXZ0MW5WZVcxZ29sU1dSb3FqeUVKaDlqOTl1dEYyVi0tTU9TVnIzcVNfYWV4QWNxcXNyOTBQUXluNl9PMUt4MFktLUFzS0J0ZkFrcnZyaWkzWEpFbW1haVUwOUV3ZWt3MmtLTmhBTkUyVkVGZ3dDeUhmMXlFak9yZXVaeUhabEJMRXpfLS1GN1ZvcXJ5ZDFzeE1CUjkwRzk5aS0xbXpHUXJsamtNVnNQVkczeVRPdnhtQXRvSU12QS1kaXU2OGNxaTZXWURVRl8wWmt6Z3Bxa1JVb0hiZ2hFMW1oMnFieHVPQ2R4S3NHVmx4alp5dWluVElOT1lZT1NB?oc=5" target="_blank">불 뚫고 '달 동굴' 들어간다…한국서 탄생한 '괴물 로봇' / SBS 8뉴스</a>&nbsp;&nbsp;<font color="#6f6f6f">MSN</font></li></ol>

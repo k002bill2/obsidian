@@ -1,0 +1,12 @@
+---
+link: https://news.google.com/rss/articles/CBMiW0FVX3lxTE9zOHdISlI2VWQxaG16U1NJODJmbFg1OFk2WmVSc0NfdEpGc3piMU9Pc3pDaTRMbl9zTDU5Q2lRMlYzaFNyckk5ZTNtYW42ajhoNURIRWE1WnZSQ2c?oc=5
+author: 
+published: Mon, 22 Dec 2025 15:33:00 GMT
+tags: [News, Google, 헤드라인]
+---
+# 철도노조 오늘 총파업 유보…코레일 “열차 정상 운행” - KBS 뉴스
+
+[원문 링크](https://news.google.com/rss/articles/CBMiW0FVX3lxTE9zOHdISlI2VWQxaG16U1NJODJmbFg1OFk2WmVSc0NfdEpGc3piMU9Pc3pDaTRMbl9zTDU5Q2lRMlYzaFNyckk5ZTNtYW42ajhoNURIRWE1WnZSQ2c?oc=5)
+
+## 요약/본문
+<ol><li><a href="https://news.google.com/rss/articles/CBMiW0FVX3lxTE9zOHdISlI2VWQxaG16U1NJODJmbFg1OFk2WmVSc0NfdEpGc3piMU9Pc3pDaTRMbl9zTDU5Q2lRMlYzaFNyckk5ZTNtYW42ajhoNURIRWE1WnZSQ2c?oc=5" target="_blank">철도노조 오늘 총파업 유보…코레일 “열차 정상 운행”</a>&nbsp;&nbsp;<font color="#6f6f6f">KBS 뉴스</font></li><li><a href="https://news.google.com/rss/articles/CBMid0FVX3lxTE53WjNSbnhhWGRvdGNuelBOeUw4SHhpYldYS2IxcjhnellpWlVMNGM3YnNKSDVMczBRTVJJcEEwUGlSdWxGZ3BaanZBRUlaOFBOOVg3Z0hNT2Q2Ti1RNWZSUjM0dzY5NGc1QkQxNUpkc1JDb3NhWHRz0gF3QVVfeXFMTUc0M0otWndfSjh3OFVPeG1GVmNxaHRUQlgyNk55a285bzNaN2lmMG9TdG1lUzBHUmxoVGdWS2pmRTN5TXJnRzJiWDk1X2JYMnlEdWw1TWIyTXNGaEdQZVYzOGNDUFF6RElOMTRwb3RQNG9IM2pmZWc?oc=5" target="_blank">코레일 "철도 파업 유보‥오늘 모든 열차 정상 운행"</a>&nbsp;&nbsp;<font color="#6f6f6f">MBC 뉴스</font></li><li><a href="https://news.google.com/rss/articles/CBMic0FVX3lxTFBSeWhpX1pxd2xTeE1sbGRpODFMOEdFTFZJbVhRWUtRUGZVbE5UYk9waXdQcHFyQ0RrNlQzeTNIQ24xeUk0RS1rdHFPdWxVdHVNbHpDMHJtZHBWZWNNb2hGOGwtNGNud3A0ekpOdnRmTjJnVU0?oc=5" target="_blank">철도노조 무기한 총파업 유보, 코레일 모든 열차 정상 운행</a>&nbsp;&nbsp;<font color="#6f6f6f">비즈니스포스트</font></li><li><a href="https://news.google.com/rss/articles/CBMiW0FVX3lxTE12WGh2dS1sVmp3XzFHeXYwR1RCV0Z6TWJtQklVRGljRXJXamYxMEZwMFNueTRlTWFqdVZreVFjcHp6bGZRc01sTW9sZ1RsMy1nWnZnb21yZGZSSjTSAWBBVV95cUxOemZfdTRwNmdJSFlPc3VLYTBXUU5vSUNxOFBkSHpJY1UtY2Yzdkl4RGcwUURKd29GQ3Q3UjB1N0c2bHZkWDRzZTV3WnlQS1FzWjJvM0tOTHZJOVYyaHVNX1A?oc=5" target="_blank">[연합뉴스 이 시각 헤드라인] - 07:30</a>&nbsp;&nbsp;<font color="#6f6f6f">연합뉴스</font></li><li><a href="https://news.google.com/rss/articles/CBMiZEFVX3lxTE91c296czF1U0tyb2dDMHBvTGVxUmFQMlhzUFJGX2JYdUJLRWpNeWRSSDNfOWJ5c0ZqV01HU3c0b0tLMENUc1hPaWp2WlUwd0R3SVRrU2ItSVFJV1BKS1RWZGJ4am_SAXhBVV95cUxPd0E1NFRxU2piU2ZFQklBR3JXdDdCUy1sY3UwUHViZEhXRGZ2eTQ4cThHOTA0bERWb3BWY1czejFDMDJxN1JQc2pKU2ZST1g2M180ci1kYWlveXVTMlBJanFOYkFjNXJxbnlhZUJ1VzM5SnExT2QyN08?oc=5" target="_blank">김도읍 "철도노조는 귀족노조…성과금 문제로 국민 발 멈추려해"</a>&nbsp;&nbsp;<font color="#6f6f6f">뉴시스</font></li></ol>

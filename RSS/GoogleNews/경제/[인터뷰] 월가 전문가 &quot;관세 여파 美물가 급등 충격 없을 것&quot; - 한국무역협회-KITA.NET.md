@@ -1,0 +1,12 @@
+---
+link: https://news.google.com/rss/articles/CBMi1AFBVV95cUxQckEtNEVyZXdrRXJDclZ1M3F1TlJxVDcxam1ueW52UUVCa1lFNVp6bWFEUi1IcW1LcjRJTHR6MndLOXdhVTIxX3BCaHRuTFlBeDJTTEVRNHVlN0VTTVUxYll3cDZxaU1KdVRkRWp6Qkd0aFlvNnB0WnVnZGR6T2ppLVdUUFVjaG01czNFVnFPY1MtYWJBUzlyRC1ZdUwyeDVFWFJhUVU1WS0wcnlfSnM2TElHTFdrSEZqQmlzZXhPUExoVlhFTE44Y1VtOXQ3ZmNLSGwxQQ?oc=5
+author: 
+published: Mon, 22 Dec 2025 02:00:33 GMT
+tags: [News, Google, 경제]
+---
+# [인터뷰] 월가 전문가 "관세 여파 美물가 급등 충격 없을 것" - 한국무역협회-KITA.NET
+
+[원문 링크](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQckEtNEVyZXdrRXJDclZ1M3F1TlJxVDcxam1ueW52UUVCa1lFNVp6bWFEUi1IcW1LcjRJTHR6MndLOXdhVTIxX3BCaHRuTFlBeDJTTEVRNHVlN0VTTVUxYll3cDZxaU1KdVRkRWp6Qkd0aFlvNnB0WnVnZGR6T2ppLVdUUFVjaG01czNFVnFPY1MtYWJBUzlyRC1ZdUwyeDVFWFJhUVU1WS0wcnlfSnM2TElHTFdrSEZqQmlzZXhPUExoVlhFTE44Y1VtOXQ3ZmNLSGwxQQ?oc=5)
+
+## 요약/본문
+<ol><li><a href="https://news.google.com/rss/articles/CBMi1AFBVV95cUxQckEtNEVyZXdrRXJDclZ1M3F1TlJxVDcxam1ueW52UUVCa1lFNVp6bWFEUi1IcW1LcjRJTHR6MndLOXdhVTIxX3BCaHRuTFlBeDJTTEVRNHVlN0VTTVUxYll3cDZxaU1KdVRkRWp6Qkd0aFlvNnB0WnVnZGR6T2ppLVdUUFVjaG01czNFVnFPY1MtYWJBUzlyRC1ZdUwyeDVFWFJhUVU1WS0wcnlfSnM2TElHTFdrSEZqQmlzZXhPUExoVlhFTE44Y1VtOXQ3ZmNLSGwxQQ?oc=5" target="_blank">[인터뷰] 월가 전문가 "관세 여파 美물가 급등 충격 없을 것"</a>&nbsp;&nbsp;<font color="#6f6f6f">한국무역협회-KITA.NET</font></li><li><a href="https://news.google.com/rss/articles/CBMiT0FVX3lxTE9wWEozSDVaRzVBOXRzc1hMX3phaWNONjI4elZuaTg0TUc3ei1EVkVHZHFVZEZWTnVHa1pRLVZfaV8yZTRJQlNfWFh1Sm5GWG8?oc=5" target="_blank">미국 경제의 두 얼굴…"지표는 좋은데 실제 삶은 팍팍"</a>&nbsp;&nbsp;<font color="#6f6f6f">v.daum.net</font></li><li><a href="https://news.google.com/rss/articles/CBMiVkFVX3lxTE9JTVE4akgxVy03MjVqT0dtQ056TlpjeWpSR2IzUGxhWWdyWVRrN2pNakhCcmFpZEFvaE93VkNoaEpLQXZFdEFublp6aGRmS05PTEFkcS13?oc=5" target="_blank">[트럼프 스톡커] 내년 美성장률도 韓 압도, 금리인하 2번 '베팅'</a>&nbsp;&nbsp;<font color="#6f6f6f">sedaily.com</font></li><li><a href="https://news.google.com/rss/articles/CBMic0FVX3lxTFBGd0RaWUM5LU1EckRCbVZJa3NEMHBzVVJXTDFCdFp0UFlrTkFralBVZ0UzY0FCR1RpbUhWNmdULUJaOFpVZ1VVa3hNWklkYXVJcDlUUTlCTm1iNlNnR0s2ejN4aUZheF9LSE1EU1oydFlmNUU?oc=5" target="_blank">월가 “연준, 내년 금리 1~2회 인하 후 장기간 동결”</a>&nbsp;&nbsp;<font color="#6f6f6f">마켓인</font></li><li><a href="https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZDR3TG1pTk95OXg1c1RJVzN3UjNWMkl3eE03X1V1aXp1dEJQZEM3R3JwT2l5dHdkX0k0S08wQzRqU3FXNzBoakN0QUFET0hWTkphM1c1TThSQVZYQ0dJMXB1OWxsMS14X0NPSTdIYVBUcndaeFBZdW1xV1BuZnFwSlV5eGVlVTdS?oc=5" target="_blank">연준 FOMC 금리인하 곧 중단.. JP모건 뉴욕증시 비트코인 "산타랠리 폭발"</a>&nbsp;&nbsp;<font color="#6f6f6f">글로벌이코노믹</font></li></ol>

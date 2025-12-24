@@ -1,7 +1,6 @@
 [
   "calendar",
   "editing-toolbar",
-  "obsidian-excalidraw-plugin",
   "file-explorer-note-count",
   "obsidian-markmind",
   "periodic-notes",
@@ -24,7 +23,6 @@
   "css-editor",
   "homepage",
   "llm-shortcut",
-  "mini-rag",
   "terminal",
   "obsidian42-brat",
   "mindmap",

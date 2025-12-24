@@ -1,0 +1,12 @@
+---
+link: https://news.google.com/rss/articles/CBMiW0FVX3lxTFBVZVVrRUI3Yko2ZTBTZzVWVjRnRkg3bFgyRWQ3Q3BaUm1XOVA3cUZpai1LU3lpaFFWazMxRmp3SDREcEd5b2FxSHczWXRQWDNTampIVmpKX0luZEU?oc=5
+author: 
+published: Mon, 22 Dec 2025 09:09:00 GMT
+tags: [News, Google, 헤드라인]
+---
+# 내년 고용허가제 쿼터 8만 명…외국인 가사관리사 본사업 접기로 - KBS 뉴스
+
+[원문 링크](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBVZVVrRUI3Yko2ZTBTZzVWVjRnRkg3bFgyRWQ3Q3BaUm1XOVA3cUZpai1LU3lpaFFWazMxRmp3SDREcEd5b2FxSHczWXRQWDNTampIVmpKX0luZEU?oc=5)
+
+## 요약/본문
+<ol><li><a href="https://news.google.com/rss/articles/CBMiW0FVX3lxTFBVZVVrRUI3Yko2ZTBTZzVWVjRnRkg3bFgyRWQ3Q3BaUm1XOVA3cUZpai1LU3lpaFFWazMxRmp3SDREcEd5b2FxSHczWXRQWDNTampIVmpKX0luZEU?oc=5" target="_blank">내년 고용허가제 쿼터 8만 명…외국인 가사관리사 본사업 접기로</a>&nbsp;&nbsp;<font color="#6f6f6f">KBS 뉴스</font></li><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE5iOS1wVkNSX19EN0RSN2ZhNGxCQmVUTGZKYnlsbEJfMHZfNUR4RFdiVlBJTjRmZ21PSXZpaWxDdmF3QlY0MWJWcF9wNzgyc2hobExsTHFZQ1hXZ9IBVEFVX3lxTFBoOVJkdEhCWmwwWkQwUlhZcDNSTDBRY2tTcVNRMTFEN3pzQU12QzhKNlpxUFVCSkxpZk55UFRXZU5DMHd1S3F2Z1Q3OTRESGtIMzAycw?oc=5" target="_blank">필리핀 가사도우미 사업, 1년만에 폐지</a>&nbsp;&nbsp;<font color="#6f6f6f">한국경제</font></li><li><a href="https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZblEtY0lXOFQwUDY2Z0FJdmJMeFR3NUNtd2Z6MnVqMG93QURhZHR2Z2VPX2xoOFllbVplUU91U3g2Ulk0M29BOERlRDNUMEI2YXlNZFVTSnVKTU94bE1nbWlmRnfSAXhBVV95cUxOa1dfNVZWbHNXNV9Fck5UNTVDTXFrY21LWlU1ZlR6S0V3WDlWNF9tTjJTdGVWelA1MGtCdzN3YzVUS1pSd3VsMkY4cmY5Q0JVYVVFeDRuUjVLd0dTc1ZzR3NLVG44VHdKNkpFU085Y25SLS1UZ0UzS3g?oc=5" target="_blank">고용허가제 외국인력 내년 8만명으로 줄어…조선업 쿼터 일몰</a>&nbsp;&nbsp;<font color="#6f6f6f">뉴시스</font></li><li><a href="https://news.google.com/rss/articles/CBMidkFVX3lxTE9EYjFMdXFSc2haaUJZWjdKc1QwWUlqMF9la1FQWll6YzBweFVIYlRtQkRmd2FGcTRqcVVSaEMzX0w3NzAtOHdJUzZlTGN0eFRmM2hweHkwd1NyczIzT1FCcktXS2l4aGFKTjR0SnNmdncyTVRSNnfSAWZBVV95cUxOb1pfRzNtanhlS1hmV0didmZEMnVHNWhIRE5fdkVuRGZYOU1xMHFkQW1kcVlZSjVZX3dIQk1TWFVkRlFwck9BTzZ2NHNPNldUbEZSWkdqem1qSko5Nmg2aWw1S3JNTGc?oc=5" target="_blank">외국인 가사관리사 1년 시범사업만 하고 종료</a>&nbsp;&nbsp;<font color="#6f6f6f">동아일보</font></li><li><a href="https://news.google.com/rss/articles/CBMiXkFVX3lxTE9YcS1GbGpiVEV4SU5GWm1ad0E4QzRzTzN4dWFRSWIwVkExZ0tUS3k1WmdBdnE5SzlIZlNDU0pjZzl3b0lJTGFjQ0MtUTEyWkt5Z3M2ZnVERGtIQ2xzTXfSAYMBQVVfeXFMUG1UdlZUSG0xUlN4SlNnREVyRWkzcGZsM0tReUU2U3R6YS1HQmNjQzNUWjlVemsyc2h0RHY3eFhhQ1U5V1RGX3VOOU95WFBldWF2LW9mRDF3cXlPcUJWV0xsQ3ZFUHFQbmp3QTFyaDhyaUZlSVpDQU96MExTZThlaC0zbUU?oc=5" target="_blank">정부, 내년 비전문 외국인력 19만여 명 도입 추진</a>&nbsp;&nbsp;<font color="#6f6f6f">YTN</font></li></ol>

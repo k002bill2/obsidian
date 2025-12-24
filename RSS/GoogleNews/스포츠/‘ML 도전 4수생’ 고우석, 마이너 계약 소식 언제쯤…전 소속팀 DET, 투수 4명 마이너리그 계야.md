@@ -1,0 +1,12 @@
+---
+link: https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaFJvUkt4eTNQWnJGUXhSdVVzUG5jUFR1RjV5VG8tLVJYVUhxVERqOE15TFBxanF1MzloU0t3VjhYb2dKS0ZZVWtxX1lZbURYZjRtMVdYNVJFVS02MGx4OTBvWmVmNFd6YjNwS0FRVUFhNW5hc0RBWWJObFF3QnJDU3dtOVNGaEdLLTZv0gGfAUFVX3lxTE9zb2lpUmpFQzdFNnIzVlh6bno1TEQxaS1ZUjVyVDFxZVdreWc0NFlrZHVhVnE2RHJnWG1td3F1WlBaRXRyaXVESkxfMkxJOC1nODNLMkhiNnl3Qno2cjVpd0hFTGZWSHBaYjQ2RWhGZjZXYlZDbGhGd3hxNUQ4dWczU2FROC1XM1IyNnBZOWRsNldUbFhyd1AzNFBvVFQwTQ?oc=5
+author: 
+published: Sun, 21 Dec 2025 15:16:53 GMT
+tags: [News, Google, 스포츠]
+---
+# ‘ML 도전 4수생’ 고우석, 마이너 계약 소식 언제쯤…전 소속팀 DET, 투수 4명 마이너리그 계약 - 조선일보
+
+[원문 링크](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaFJvUkt4eTNQWnJGUXhSdVVzUG5jUFR1RjV5VG8tLVJYVUhxVERqOE15TFBxanF1MzloU0t3VjhYb2dKS0ZZVWtxX1lZbURYZjRtMVdYNVJFVS02MGx4OTBvWmVmNFd6YjNwS0FRVUFhNW5hc0RBWWJObFF3QnJDU3dtOVNGaEdLLTZv0gGfAUFVX3lxTE9zb2lpUmpFQzdFNnIzVlh6bno1TEQxaS1ZUjVyVDFxZVdreWc0NFlrZHVhVnE2RHJnWG1td3F1WlBaRXRyaXVESkxfMkxJOC1nODNLMkhiNnl3Qno2cjVpd0hFTGZWSHBaYjQ2RWhGZjZXYlZDbGhGd3hxNUQ4dWczU2FROC1XM1IyNnBZOWRsNldUbFhyd1AzNFBvVFQwTQ?oc=5)
+
+## 요약/본문
+<a href="https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaFJvUkt4eTNQWnJGUXhSdVVzUG5jUFR1RjV5VG8tLVJYVUhxVERqOE15TFBxanF1MzloU0t3VjhYb2dKS0ZZVWtxX1lZbURYZjRtMVdYNVJFVS02MGx4OTBvWmVmNFd6YjNwS0FRVUFhNW5hc0RBWWJObFF3QnJDU3dtOVNGaEdLLTZv0gGfAUFVX3lxTE9zb2lpUmpFQzdFNnIzVlh6bno1TEQxaS1ZUjVyVDFxZVdreWc0NFlrZHVhVnE2RHJnWG1td3F1WlBaRXRyaXVESkxfMkxJOC1nODNLMkhiNnl3Qno2cjVpd0hFTGZWSHBaYjQ2RWhGZjZXYlZDbGhGd3hxNUQ4dWczU2FROC1XM1IyNnBZOWRsNldUbFhyd1AzNFBvVFQwTQ?oc=5" target="_blank">‘ML 도전 4수생’ 고우석, 마이너 계약 소식 언제쯤…전 소속팀 DET, 투수 4명 마이너리그 계약</a>&nbsp;&nbsp;<font color="#6f6f6f">조선일보</font><strong><a href="https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pmN3EtZUVCR25BSVhxbnRVazd5Z0FQAQ?hl=ko&gl=KR&ceid=KR:ko&oc=5" target="_blank">Google 뉴스에서 전체 콘텐츠 보기</a></strong>

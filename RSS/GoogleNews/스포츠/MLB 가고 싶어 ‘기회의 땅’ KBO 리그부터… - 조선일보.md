@@ -1,0 +1,12 @@
+---
+link: https://news.google.com/rss/articles/CBMigwFBVV95cUxQamtJeHdQODNOMkg1bVZmd054TV9XcmRPdjJ1eGVRalU2OEJNWUJlTmhDS2pOampYY09KZFFSYXE2bTJMVERia283bDNyMkxjN1lZZUNCdC1raE5uSE95WldIWnRuNmNIQi1RRlZ4dFBrazUxeUxYTlhMZEFEcWtRYzBJONIBlwFBVV95cUxNSTNpdzFIUlgwa3FBZW9xcmxuTHl2ZkJaVUVKZU5wemdGYk80eWZzSHdTaHJKX2l2ckdRaEtEektIMlBBLTFTaGxNVVZCbnNhcm5ycE02NzBvZk5tbTJ4VUVrd195am5ucWNrQnM4TlhyZko4dGpxXzBJSkZyR2lyd0RIVkNWbnNmWXpBWnVqZll6QWVFcTFJ?oc=5
+author: 
+published: Sun, 21 Dec 2025 15:46:17 GMT
+tags: [News, Google, 스포츠]
+---
+# MLB 가고 싶어? ‘기회의 땅’ KBO 리그부터… - 조선일보
+
+[원문 링크](https://news.google.com/rss/articles/CBMigwFBVV95cUxQamtJeHdQODNOMkg1bVZmd054TV9XcmRPdjJ1eGVRalU2OEJNWUJlTmhDS2pOampYY09KZFFSYXE2bTJMVERia283bDNyMkxjN1lZZUNCdC1raE5uSE95WldIWnRuNmNIQi1RRlZ4dFBrazUxeUxYTlhMZEFEcWtRYzBJONIBlwFBVV95cUxNSTNpdzFIUlgwa3FBZW9xcmxuTHl2ZkJaVUVKZU5wemdGYk80eWZzSHdTaHJKX2l2ckdRaEtEektIMlBBLTFTaGxNVVZCbnNhcm5ycE02NzBvZk5tbTJ4VUVrd195am5ucWNrQnM4TlhyZko4dGpxXzBJSkZyR2lyd0RIVkNWbnNmWXpBWnVqZll6QWVFcTFJ?oc=5)
+
+## 요약/본문
+<a href="https://news.google.com/rss/articles/CBMigwFBVV95cUxQamtJeHdQODNOMkg1bVZmd054TV9XcmRPdjJ1eGVRalU2OEJNWUJlTmhDS2pOampYY09KZFFSYXE2bTJMVERia283bDNyMkxjN1lZZUNCdC1raE5uSE95WldIWnRuNmNIQi1RRlZ4dFBrazUxeUxYTlhMZEFEcWtRYzBJONIBlwFBVV95cUxNSTNpdzFIUlgwa3FBZW9xcmxuTHl2ZkJaVUVKZU5wemdGYk80eWZzSHdTaHJKX2l2ckdRaEtEektIMlBBLTFTaGxNVVZCbnNhcm5ycE02NzBvZk5tbTJ4VUVrd195am5ucWNrQnM4TlhyZko4dGpxXzBJSkZyR2lyd0RIVkNWbnNmWXpBWnVqZll6QWVFcTFJ?oc=5" target="_blank">MLB 가고 싶어? ‘기회의 땅’ KBO 리그부터…</a>&nbsp;&nbsp;<font color="#6f6f6f">조선일보</font><strong><a href="https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lHOWFhZUVCSFZoejhBaHhDbkFDZ0FQAQ?hl=ko&gl=KR&ceid=KR:ko&oc=5" target="_blank">Google 뉴스에서 전체 콘텐츠 보기</a></strong>

@@ -1,0 +1,12 @@
+---
+link: https://news.google.com/rss/articles/CBMiW0FVX3lxTFBSNlRwYm5EOVBpdzgtNHgtYkRWUEp5OUJidWpwZlZGOHpJNDYydGcwT1FxNEJKNTl0emhwbUs3aE1RUzZjdFJjaGJ6LWcyZm9rR1FwV19HVVlLWGc?oc=5
+author: 
+published: Wed, 24 Dec 2025 07:29:00 GMT
+tags: [News, Google, 스포츠]
+---
+# 이정효 감독 떠나보낸 프로축구 광주, 새 사령탑에 이정규 감독 선임 - KBS 뉴스
+
+[원문 링크](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBSNlRwYm5EOVBpdzgtNHgtYkRWUEp5OUJidWpwZlZGOHpJNDYydGcwT1FxNEJKNTl0emhwbUs3aE1RUzZjdFJjaGJ6LWcyZm9rR1FwV19HVVlLWGc?oc=5)
+
+## 요약/본문
+<ol><li><a href="https://news.google.com/rss/articles/CBMiW0FVX3lxTFBSNlRwYm5EOVBpdzgtNHgtYkRWUEp5OUJidWpwZlZGOHpJNDYydGcwT1FxNEJKNTl0emhwbUs3aE1RUzZjdFJjaGJ6LWcyZm9rR1FwV19HVVlLWGc?oc=5" target="_blank">이정효 감독 떠나보낸 프로축구 광주, 새 사령탑에 이정규 감독 선임</a>&nbsp;&nbsp;<font color="#6f6f6f">KBS 뉴스</font></li><li><a href="https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ZaVhZY052RDdjY1lWYkVUbE1kbm5QcWhNTy1MeElEU3pkaURDT2xNLS15ZS1ubEpVU3NialZTVjhvdkp4Z0htdXF1R1lDSXc?oc=5" target="_blank">이천수 소신발언 “이정효, 빅클럽 경험하고 국가대표 감독 맡아야”</a>&nbsp;&nbsp;<font color="#6f6f6f">v.daum.net</font></li><li><a href="https://news.google.com/rss/articles/CBMiZEFVX3lxTE9feFRCMUk4OFJvdTlBRnFRbTJGaGxvdWRIUkowUzI5a2QwOENtRkwxU29abzYtcjBEOGNVOFpZZndQTEFsU2cxb1EzMnhjR3lpTDRvUW05dUFoUEJMMG1KNk9iaU3SAXhBVV95cUxOelBoUlJBbTZJeWUxWkw3SzB1c2szLTRwQnZTMUctWW9rU2ZZLW82MmtoUml1a1oya3NnMGRscFIxUGlhMGVKWjhlSDRySGIzUnFZWWgyQVktbWUyVF9hajBQOV9TUnNaX28tUHNZaGROcjVnRE9lLTQ?oc=5" target="_blank">K리그2 수원, 제11대 감독으로 '명장' 이정효 선임</a>&nbsp;&nbsp;<font color="#6f6f6f">뉴시스</font></li><li><a href="https://news.google.com/rss/articles/CBMiXkFVX3lxTE9fNWhwSFZUb2FQaFNZRUdaMHlWSmJWenRMUVVfMGdzZ1daRHJxR1psV21sNFJZYWVKcFRKRVFHXzZsTzdIaFFKMXJjUENkSzhoSVR6LU5QV01ick9CeGfSAYMBQVVfeXFMUEdnNkI1RkkwMmx3clVfN256SjdzY2dmSHgzQVRxSU1HbmhMc1hkSEdHUjI5Y0lrY0EyTWRxX3pMWWNOTzMydVkyTGZKMDdDMnZtNk85VDJwRmdiWWpJci01cG1mRUlLeGRXdU12V05peEg4UENhd21zcC05aXdUTHdlcHM?oc=5" target="_blank">수원 삼성, 이정효 감독 영입</a>&nbsp;&nbsp;<font color="#6f6f6f">YTN</font></li><li><a href="https://news.google.com/rss/articles/CBMigwFBVV95cUxPczh4VzlnWXpEMDhmaS1qWjhtcTF1RGYxT2hxak9EWHZOYmJRMjBaamUtd0dlc3Q5OWdPSmpURnFJYk1LSkxMMER4aXFtb3pJZUljUWlubjlEUHphaVlCMDRpaVF2STRBdGk3eUN5dks5YnJTdDl2MDZ3N21uZTdwcmljY9IBlwFBVV95cUxPNlpmMzlzVGVfVVBSV2xhV2ZoYjlPQWxQNXZ1ZXZGZHVOWmVPTUU4aUtMcXhFcjNXMnk3LVREcDhnSldnTGtTOUVRRG9YazRDQWFSRkpLU0tVYjVmcGZveERSRWJFU28tb3RvSFFlZlhuQnlTTkROQ3MtUzQzZlBkamZudXREOE9vTjhGak1hSFJBNkhoZGFB?oc=5" target="_blank">1부 복귀 노리는 ‘名家’ 수원삼성, 이정효 前 광주 감독 공식 선임</a>&nbsp;&nbsp;<font color="#6f6f6f">조선일보</font></li></ol>

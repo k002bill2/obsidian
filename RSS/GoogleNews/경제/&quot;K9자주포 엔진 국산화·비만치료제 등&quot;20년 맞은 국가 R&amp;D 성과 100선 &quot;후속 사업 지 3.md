@@ -1,0 +1,12 @@
+---
+link: https://news.google.com/rss/articles/CBMiakFVX3lxTFB5OTJSM1lmWDhxT0xrY28waHhHR1hIVHgzeEtObzE1LV81dUlTcjlLSTV1cEVSNmZMUkpvdWQ5MWtRd2YwUklFU0UteVNuTHlDU2ZUOER6ZXlYZkpERk95dDVaSzB1MmpOelE?oc=5
+author: 
+published: Mon, 22 Dec 2025 08:50:00 GMT
+tags: [News, Google, 경제]
+---
+# "K9자주포 엔진 국산화·비만치료제 등"20년 맞은 국가 R&D 성과 100선 "후속 사업 지원" - 헬로디디
+
+[원문 링크](https://news.google.com/rss/articles/CBMiakFVX3lxTFB5OTJSM1lmWDhxT0xrY28waHhHR1hIVHgzeEtObzE1LV81dUlTcjlLSTV1cEVSNmZMUkpvdWQ5MWtRd2YwUklFU0UteVNuTHlDU2ZUOER6ZXlYZkpERk95dDVaSzB1MmpOelE?oc=5)
+
+## 요약/본문
+<ol><li><a href="https://news.google.com/rss/articles/CBMiakFVX3lxTFB5OTJSM1lmWDhxT0xrY28waHhHR1hIVHgzeEtObzE1LV81dUlTcjlLSTV1cEVSNmZMUkpvdWQ5MWtRd2YwUklFU0UteVNuTHlDU2ZUOER6ZXlYZkpERk95dDVaSzB1MmpOelE?oc=5" target="_blank">"K9자주포 엔진 국산화·비만치료제 등"20년 맞은 국가 R&D 성과 100선 "후속 사업 지원"</a>&nbsp;&nbsp;<font color="#6f6f6f">헬로디디</font></li><li><a href="https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ELUFNM0pjLUVZVHpuZFdqX085b1ctV0VwN3FpV2VIdWI2N1NNYU4zREpTUjdSZE0wQUNVQnVrdGZ1QVl5d3VsMkJKdjc3QVk?oc=5" target="_blank">ETRI, 7년 연속 우수성과 최다 배출…최우수 성과 12건 중 2건</a>&nbsp;&nbsp;<font color="#6f6f6f">v.daum.net</font></li><li><a href="https://news.google.com/rss/articles/CBMiZEFVX3lxTE5EMnprUFV4YkxVRGFHRVR0ekNDanNNVHhKTFJWSmxTd1Nfd2dDQTdCeEw2UHZjbFhOZl9PcERIWjRWbTctQ21SOWQtbHYyUXRQYkd0OTVmbVZSLVF4Wk80eEIycULSAXhBVV95cUxNTkNCQ0dkTldmREUwWDFNeXlKeHpYaE41UmlYWTJrN0ZUczY3R2J5WGx3N2VMQlBOOTBzQjNUNjBKR0pqWGhmQTBpdUVBRzJWS3JYcUhJNV9JOGRtRlFLS0JkVEhQY0hfYnAzUTVpcVZkVVlrX0ExV1E?oc=5" target="_blank">서울시립대 김승일 교수, '국가연구개발 100선' 선정</a>&nbsp;&nbsp;<font color="#6f6f6f">뉴시스</font></li><li><a href="https://news.google.com/rss/articles/CBMiW0FVX3lxTE9wQllBNF9RODltVFRJTjR1LU1hbE1ZQ1VpQnNLLUFUejRxVDktTDNkTVFLX2RwS3ZzaXV0dWlxMXZPQVNGTWxJWUF4YURkVEpfcHBEWVJqemJSUlnSAWBBVV95cUxPbVM1czF4T0FWVzZqR1lZaUJPX1dsQlVUbW5WWmtMZW9SQzNpOEVTeGd6MDkwdTNWOVBXZ1ltdUNRWkgyejR0WFZCdXA4djdNLU1QUjhaR3diUUdDRkd0Uk0?oc=5" target="_blank">비만약 원리부터 6G까지…국가 연구성과 100선 발표</a>&nbsp;&nbsp;<font color="#6f6f6f">연합뉴스</font></li><li><a href="https://news.google.com/rss/articles/CBMiVkFVX3lxTFBJUGpoa3QxZUFVdXhtNkFSZTJXaHlITzhqc0tpT1MyVlF4WXVZQjh5SEJWM0hVUUt3eVpia3RpV1FMcDh2OUk1QXl4M2d1V3BaNEpZN2xn0gFXQVVfeXFMTndMcl9IX1JWUmVKMFJPdG85alZzbTE1enZSMF9IWTNsOURuZVJfYjhzYURQVEl4MlRiQWs0RUJYVFNDUUlyaHpaZGUxNU5PZ0N5TkQzb29J?oc=5" target="_blank">우리 기술로 비만치료 실마리…국가R&D 최우수 성과</a>&nbsp;&nbsp;<font color="#6f6f6f">sedaily.com</font></li></ol>

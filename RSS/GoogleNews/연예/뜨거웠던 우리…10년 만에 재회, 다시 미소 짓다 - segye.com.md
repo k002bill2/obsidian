@@ -1,0 +1,12 @@
+---
+link: https://news.google.com/rss/articles/CBMiWEFVX3lxTE1VQzUwa1VLRnludDZDcm5pU1JIeGJoTmVVRm1yN204djJrLTZ3MnFOMldnbUtpdm9jX1R6MXBSb3d1SVprZVdoZkxqSVNmN2VVSTFOQmplbkTSAVRBVV95cUxNVF9kNkU0NUhvSTFnRWtnX1FROTJSNDkwVmJkRmQxdzFZN042YjdFZU16cklJN092aTMwVy1fUDJSOFd6NnAxZmtqZC1qeGxSbFZxQWU?oc=5
+author: 
+published: Mon, 22 Dec 2025 11:33:09 GMT
+tags: [News, Google, 연예]
+---
+# 뜨거웠던 우리…10년 만에 재회, 다시 미소 짓다 - segye.com
+
+[원문 링크](https://news.google.com/rss/articles/CBMiWEFVX3lxTE1VQzUwa1VLRnludDZDcm5pU1JIeGJoTmVVRm1yN204djJrLTZ3MnFOMldnbUtpdm9jX1R6MXBSb3d1SVprZVdoZkxqSVNmN2VVSTFOQmplbkTSAVRBVV95cUxNVF9kNkU0NUhvSTFnRWtnX1FROTJSNDkwVmJkRmQxdzFZN042YjdFZU16cklJN092aTMwVy1fUDJSOFd6NnAxZmtqZC1qeGxSbFZxQWU?oc=5)
+
+## 요약/본문
+<ol><li><a href="https://news.google.com/rss/articles/CBMiWEFVX3lxTE1VQzUwa1VLRnludDZDcm5pU1JIeGJoTmVVRm1yN204djJrLTZ3MnFOMldnbUtpdm9jX1R6MXBSb3d1SVprZVdoZkxqSVNmN2VVSTFOQmplbkTSAVRBVV95cUxNVF9kNkU0NUhvSTFnRWtnX1FROTJSNDkwVmJkRmQxdzFZN042YjdFZU16cklJN092aTMwVy1fUDJSOFd6NnAxZmtqZC1qeGxSbFZxQWU?oc=5" target="_blank">뜨거웠던 우리…10년 만에 재회, 다시 미소 짓다</a>&nbsp;&nbsp;<font color="#6f6f6f">segye.com</font></li><li><a href="https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Ha0thOURLWWdJaDRkcTZJX3JOSDRCTFExWFB6YTZZZWV2OFAtYlRHclZNcmJ3ZlhZZ1doV2lwZWgxSHFqb0l4T211QW9OMEE?oc=5" target="_blank">구교환, 문가영 두 얼굴에서 내 첫사랑을 만났다</a>&nbsp;&nbsp;<font color="#6f6f6f">v.daum.net</font></li><li><a href="https://news.google.com/rss/articles/CBMidEFVX3lxTFAxSmJwbXd5Q3lCZWhuVlpqaXBmT1V0YXRHdzhoSVV4NTRWR3FCWGN4NXlHU0ctbzFYWi1qRzJraDB6eDBaaUdVdDRzX1dLdC1UUERjLXlRTkhYNlVueVNXTUxSd0RqbGg4NG9zWS12UnNtZU5C0gF0QVVfeXFMT0tpQWxpOFdIQi1PTFpoT0dvNjh4dWJOZC13bFBoZGJMQ2syZ0pJam1hUWktN05obnZpUHU4VGRMaDBQaGlOTWJaOGdSUkhiRnVCekJack1NZGNVbEthLWZFRjNEZzJFa1lVWlItQTh5dEU2dVk?oc=5" target="_blank">'만약에 우리' 구교환 "언젠가는 내가 출연하고 연출한 수작을 만들고 싶다" [영화人]</a>&nbsp;&nbsp;<font color="#6f6f6f">MBC 뉴스</font></li><li><a href="https://news.google.com/rss/articles/CBMic0FVX3lxTE1LMHZmNnhMTEJfQ2lXWW03eDhGbzlLb1JEdi04QjhYdnZMQ2hYR01LWlF0TW1CV0tjOUN0RUozZ09lcV9GeEoyRFdCWTNJOWx2eExmNGNyU1h0aFJGZ0FjbzdFVDEzbUxfTDZQc1JhVWhTNm8?oc=5" target="_blank">'만약에 우리' 문가영 "성인 첫 영화 주연작으로 멜로하게 돼 행운" [인터뷰]</a>&nbsp;&nbsp;<font color="#6f6f6f">머니투데이</font></li><li><a href="https://news.google.com/rss/articles/CBMiU0FVX3lxTE52VjRZazh2bGRBTktna0JGUnE2UThVVEV5dk5IQkVjVk44WHVxczJHLTR0eHNsUWlfT0pWZl9CYjQyRHVQZWQ0b1ZLSG5mS1U5OFA4?oc=5" target="_blank">문가영 "란제리 룩 입는 이유? 브랜드 모델로서의 역할…도전 즐긴다"[인터뷰]</a>&nbsp;&nbsp;<font color="#6f6f6f">네이트</font></li></ol>

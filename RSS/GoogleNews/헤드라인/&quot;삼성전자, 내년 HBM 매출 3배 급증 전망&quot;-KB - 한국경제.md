@@ -1,0 +1,12 @@
+---
+link: https://news.google.com/rss/articles/CBMiWkFVX3lxTE5WSWhUWkx2VG9YbzFGd2U2SUFOUWpRZktsRjlQUjhlbXoyMjk0WjBvMEJqS3U5RnhweldycWJBMDYyRmk2LTl0YXNWZWNMeFNTd3p1bUJueHZTZ9IBVEFVX3lxTE5DeThWZzJSZHFaSTd3SVZ3dGdmdzREUmdmNUlFYmdSQW5wdHV5YmY1ejdNUkE4TlkxdDFhbzd6eUN4NlpVQWxETjF6a1FaT09vakZWSg?oc=5
+author: 
+published: Mon, 22 Dec 2025 23:57:35 GMT
+tags: [News, Google, 헤드라인]
+---
+# "삼성전자, 내년 HBM 매출 3배 급증 전망"-KB - 한국경제
+
+[원문 링크](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5WSWhUWkx2VG9YbzFGd2U2SUFOUWpRZktsRjlQUjhlbXoyMjk0WjBvMEJqS3U5RnhweldycWJBMDYyRmk2LTl0YXNWZWNMeFNTd3p1bUJueHZTZ9IBVEFVX3lxTE5DeThWZzJSZHFaSTd3SVZ3dGdmdzREUmdmNUlFYmdSQW5wdHV5YmY1ejdNUkE4TlkxdDFhbzd6eUN4NlpVQWxETjF6a1FaT09vakZWSg?oc=5)
+
+## 요약/본문
+<ol><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE5WSWhUWkx2VG9YbzFGd2U2SUFOUWpRZktsRjlQUjhlbXoyMjk0WjBvMEJqS3U5RnhweldycWJBMDYyRmk2LTl0YXNWZWNMeFNTd3p1bUJueHZTZ9IBVEFVX3lxTE5DeThWZzJSZHFaSTd3SVZ3dGdmdzREUmdmNUlFYmdSQW5wdHV5YmY1ejdNUkE4TlkxdDFhbzd6eUN4NlpVQWxETjF6a1FaT09vakZWSg?oc=5" target="_blank">"삼성전자, 내년 HBM 매출 3배 급증 전망"-KB</a>&nbsp;&nbsp;<font color="#6f6f6f">한국경제</font></li><li><a href="https://news.google.com/rss/articles/CBMiVkFVX3lxTE1mVmY0RExjdWl1WWVfTzdkaFhwZEZlZjljclpmTlQzVGYxODROdXRwaW52TnE0ZDM2TTlZd1k3dVl1eWRKOUtYd2hVWnVlNnRNWFpaV0hn?oc=5" target="_blank">새해 AI 반도체 지도 바뀐다…메모리·시스템 신성장 국면 도래</a>&nbsp;&nbsp;<font color="#6f6f6f">지디넷코리아</font></li><li><a href="https://news.google.com/rss/articles/CBMiggFBVV95cUxOUjhFeVpiU2habk1oRkMzMFlIQmxtYVItU18walJYWTM1Y2ZTQy14ajJOZWJtT1BJZDM0OTBLU0xMSFNFMndRX1VRVkU0QU0za0lfN1VOc09DME1KZlA0OEdKQjk2eVQtTnZGRmhGTk5naG9wUW9OclJ5RDJLaE5UMnZn0gGWAUFVX3lxTFBvYkVRYXpTMXQ4XzFNWUg5WjZ4bkxTSnBsa1hFMEc5ZklsWjdMRTJ3SVRkeHU2dUlWREYxZmE3U0pPNndva1NiRHZoc1FUTmdWOV83QWFjclN0OVR1Y1p1WEdoUTJ0M2lCajZXUnpua1hzVTFsZ2pWa1A2V0JOMmVCa2lQajczTXF6UURFM0NqZmZ4UTNQZw?oc=5" target="_blank">“내년 HBM3E 시장 더 커진다”… 삼성전자·SK하이닉스 가격 줄인상 - 조선비즈</a>&nbsp;&nbsp;<font color="#6f6f6f">Chosunbiz</font></li><li><a href="https://news.google.com/rss/articles/CBMiVkFVX3lxTE1lV3gxWUp3a1kzSHZteEtaYWdDd0FoTFAwOHNMRUxGUGJKM2ZOYzZJaEY5Y3NaaGM0WVRBenBId254QXNUS2tySlNtODRYVDlNM2pQUTFn?oc=5" target="_blank">'재설계'에 울었던 삼성의 절치부심…HBM4로 ‘판 뒤집기’ 시동</a>&nbsp;&nbsp;<font color="#6f6f6f">중앙일보</font></li><li><a href="https://news.google.com/rss/articles/CBMiTEFVX3lxTE9DM1otM2Z6Q2gtTEp4V0htRi1jQXNUcVJTdmxFV2pIdEtxTk4tbGVVV09ZOEViR2t3Mmh4T1lhVnhMTDFiRWg4TzJsdDM?oc=5" target="_blank">[ICT 시사용어] 소캠</a>&nbsp;&nbsp;<font color="#6f6f6f">전자신문</font></li></ol>

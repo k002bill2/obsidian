@@ -1,0 +1,12 @@
+---
+link: https://news.google.com/rss/articles/CBMiakFVX3lxTFB5OTJSM1lmWDhxT0xrY28waHhHR1hIVHgzeEtObzE1LV81dUlTcjlLSTV1cEVSNmZMUkpvdWQ5MWtRd2YwUklFU0UteVNuTHlDU2ZUOER6ZXlYZkpERk95dDVaSzB1MmpOelE?oc=5
+author: 
+published: Mon, 22 Dec 2025 08:50:00 GMT
+tags: [News, Google, 경제]
+---
+# "K9자주포 엔진 국산화·비만치료제 등"20년 맞은 국가 R&D 성과 100선 "후속 사업 지원" - 헬로디디
+
+[원문 링크](https://news.google.com/rss/articles/CBMiakFVX3lxTFB5OTJSM1lmWDhxT0xrY28waHhHR1hIVHgzeEtObzE1LV81dUlTcjlLSTV1cEVSNmZMUkpvdWQ5MWtRd2YwUklFU0UteVNuTHlDU2ZUOER6ZXlYZkpERk95dDVaSzB1MmpOelE?oc=5)
+
+## 요약/본문
+<ol><li><a href="https://news.google.com/rss/articles/CBMiakFVX3lxTFB5OTJSM1lmWDhxT0xrY28waHhHR1hIVHgzeEtObzE1LV81dUlTcjlLSTV1cEVSNmZMUkpvdWQ5MWtRd2YwUklFU0UteVNuTHlDU2ZUOER6ZXlYZkpERk95dDVaSzB1MmpOelE?oc=5" target="_blank">"K9자주포 엔진 국산화·비만치료제 등"20년 맞은 국가 R&D 성과 100선 "후속 사업 지원"</a>&nbsp;&nbsp;<font color="#6f6f6f">헬로디디</font></li><li><a href="https://news.google.com/rss/articles/CBMiwgNBVV95cUxQbW1qUTh2MWcyM004ZGQ2TzQwelFvVVlhTDR6QTNsdTgyMWNIN3dnb2hhZjNhMlVHWHpEeEI2ZndVRElObk50a2hhdHdqVjlWdjUxdHVYalVYbUFYNjZmMDFfQzdQRmZPMXBrMXhEZml4X1pGWW1hdERPVFd3akdKUl9aN0Y4ajFnRHhxaWJvZlRyN25EVHBtQVdfbXVHazVrNFZHSzhzd0Rpa01meVAyRU82Rkg3anhZeGFmbTNJQUlCVjRESXcxWnprZ2tKUmJrMWo2ZDRjWUZkcW1hdnpzSFYyVXZUdzR1aFlJZVpjLUpIOXJiRkpobTcxU05Kb0FFUVhKNThwM3M3dUtyUDhRYWl0NWNrS0c2LU1iYVZrVFFxWGpHak9TN040OW80b3hJOVdMZFZVbVlwM0h6aEhFWHhjd2hjdHNabEtETUF1N3FzTlNVZGVHc1dUS0tsWnJXbmpwdTB5UGxGT1RJaG1PZ0ZabnJIMHBMOWFsNHBPVzk1XzdkeDEtWXBNRzNINW43RWZ3ekpYREpFMzBnaHQ4T1dHaHZWa09fQzJlQUFBcWU5WFZXR0JiYVRUWGxBYlRMVUE?oc=5" target="_blank">비만치료제 기전 발견 등 국가대표 연구개발 우수성과 100개 선정</a>&nbsp;&nbsp;<font color="#6f6f6f">BRIC</font></li><li><a href="https://news.google.com/rss/articles/CBMiT0FVX3lxTE80c3RBb29HNHh6WXRlSzhXMTN0TUJyd1l1OHI0M21kRUpTNWdMRHJBSUc1LVAwOC1kbW1VYXp5NnBmZ0hyaVZQc2Q4aDFNTjA?oc=5" target="_blank">화학연 페로브스카이트 태양전지 기술 국가R&D 100선 '최우수'</a>&nbsp;&nbsp;<font color="#6f6f6f">v.daum.net</font></li><li><a href="https://news.google.com/rss/articles/CBMiWEFVX3lxTE1XZDRMdm9INmI0R3YxYV8wSnNSWE5fd1FMdkNCNm91S0dpZ1lvS1A1QkhjTktmM0xvWlEzWGxKa2FFTjdKSTJ3RjB2VXA3RU5tX1J1enp5cXA?oc=5" target="_blank">ETRI, 7년 연속 우수성과 최다 배출…최우수 성과 12건 중 2건</a>&nbsp;&nbsp;<font color="#6f6f6f">동아사이언스</font></li><li><a href="https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UdW1ERlowbmx5TE51TDE4WDFBSkdhTkNEVDZrR3dGekh2b3ppS0RrbEdwOGxUSnB3b04xbThZRlJCZFZKWEtOTXlxMGp3UFdQQmRRSGE4ekNKVzA2Y2JWdXJPdTNZNTg?oc=5" target="_blank">서울시립대 김승일 교수, 세계 최대 식물 유전체 정밀 해독 성과로 ‘국가연구개발 우수성과 100선’ 선정</a>&nbsp;&nbsp;<font color="#6f6f6f">한겨레</font></li></ol>
