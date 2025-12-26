@@ -14,9 +14,14 @@
     // ========================================
     // 설정
     // ========================================
+    
+    // 🔑 API Key (환경 변수: $OBSIDIAN_API_KEY)
+    // Secret/Token.md 또는 ~/.zshrc에서 관리
+    const OBSIDIAN_API_KEY = '171c9f4842fe5b6476229473af33bfe4392514641d6fd98fa55283bb04e36db2';
+    
     const CONFIG = {
         obsidianApiUrl: 'http://127.0.0.1:27123',
-        obsidianApiKey: '171c9f4842fe5b6476229473af33bfe4392514641d6fd98fa55283bb04e36db2',
+        obsidianApiKey: OBSIDIAN_API_KEY,
         targetFolder: 'NotebookLM',
         autoTags: ['notebooklm', 'imported'],
         showNotification: true

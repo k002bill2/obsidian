@@ -52,14 +52,20 @@ NotebookLM을 Obsidian Custom Frames에서 열 때 자동으로 "📓 Obsidian�
 스크립트 파일 (`.scripts/notebooklm-customframes.js`)의 `CONFIG` 섹션을 수정하세요:
 
 ```javascript
+// 🔑 API Key (환경 변수: $OBSIDIAN_API_KEY)
+// Secret/Token.md 또는 ~/.zshrc에서 관리
+const OBSIDIAN_API_KEY = 'YOUR_API_KEY_HERE';  // ← Secret/Token.md 참조
+
 const CONFIG = {
     obsidianApiUrl: 'http://127.0.0.1:27123',  // API URL
-    obsidianApiKey: '171c9f4842fe5b6476229473af33bfe4392514641d6fd98fa55283bb04e36db2',  // API 키
-    targetFolder: 'NotebookLM',  // 저장 폴더
-    autoTags: ['notebooklm', 'imported'],  // 자동 태그
-    showNotification: true  // 알림 표시
+    obsidianApiKey: OBSIDIAN_API_KEY,          // API 키 변수 참조
+    targetFolder: 'NotebookLM',                // 저장 폴더
+    autoTags: ['notebooklm', 'imported'],      // 자동 태그
+    showNotification: true                      // 알림 표시
 };
 ```
+
+> 💡 **API 키 확인 위치**: `Secret/Token.md` 또는 `~/.zshrc` (`echo $OBSIDIAN_API_KEY`)
 
 ### 변경 후 적용 방법
 
@@ -127,7 +133,7 @@ Cmd+Q
 #### **1. Local REST API 확인**
 ```bash
 # Obsidian 설정 → Community Plugins → Local REST API
-# - API Key: 171c9f4842fe5b6476229473af33bfe4392514641d6fd98fa55283bb04e36db2
+# - API Key: (Secret/Token.md 또는 ~/.zshrc의 $OBSIDIAN_API_KEY 참조)
 # - Enable Insecure Server: ON
 # - Insecure Port: 27123
 ```

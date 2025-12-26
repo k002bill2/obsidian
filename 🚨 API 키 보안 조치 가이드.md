@@ -65,9 +65,10 @@ secret/
 - 상태: ✅ 활성
 
 ## Obsidian Local REST API
-- API Key: 171c9f4842fe5b6476229473af33bfe4392514641d6fd98fa55283bb04e36db2
+- API Key: (Secret/Token.md 참조 또는 $OBSIDIAN_API_KEY)
 - HTTP Port: 27123
 - 상태: ✅ 활성
+- 환경 변수: ~/.zshrc에 OBSIDIAN_API_KEY로 정의됨
 ```
 
 ### 2단계: 플러그인 설정 백업
@@ -185,12 +186,21 @@ git push origin --force --all
 - API 키를 복사-붙여넣기 방식으로 사용
 - 자동 입력 기능 활용
 
-### 2. 환경 변수 사용 (고급)
+### 2. 환경 변수 사용 ✅ (권장)
+
+현재 `~/.zshrc`에 정의된 환경 변수들:
+
 ```bash
-# .env 파일 생성 (Git 제외됨)
-OPENAI_API_KEY=sk-proj-xxxxx
-ANTHROPIC_API_KEY=sk-ant-api03-xxxxx
-OBSIDIAN_API_KEY=171c9f48...
+# ~/.zshrc에 정의됨
+export OBSIDIAN_API_KEY="..."  # Obsidian Local REST API
+export OPENAI_API_KEY="..."    # OpenAI
+export ANTHROPIC_API_KEY="..." # Anthropic
+# ... 기타 API 키들
+```
+
+**확인 방법:**
+```bash
+echo $OBSIDIAN_API_KEY
 ```
 
 ### 3. 정기 감사
@@ -223,16 +233,16 @@ git log -p | grep -i "sk-proj\|sk-ant\|AIzaSy"
 ---
 
 ## ⏰ 마지막 업데이트
-- **작성일**: 2025-12-21
+- **작성일**: 2025-12-25
 - **작성자**: Claude Code
-- **버전**: 2.1
+- **버전**: 2.2
 - **변경 사항**:
+  - ✅ `~/.zshrc`에 환경 변수로 API 키 관리
+  - ✅ `Secret/Token.md`에 API 키 변수 정의
+  - ✅ 스크립트에서 하드코딩 대신 변수 참조
   - ✅ `secret/` 폴더 생성 및 안내 추가
   - ✅ API 키 중앙 관리 시스템 구축
   - ✅ 플러그인 설정 백업 가이드 추가
-  - ✅ `개인자료/` 폴더 전체 Git 보호 추가
-  - ✅ 업무 관련 접속 정보 보호 설정
-  - ✅ API 테스트 스크립트 보호 설정
 
 ---
 

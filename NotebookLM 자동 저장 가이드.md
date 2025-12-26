@@ -78,19 +78,31 @@ NotebookLM의 노트와 Artifact(표 포함)를 Obsidian에 자동으로 저장�
 두 파일 모두에서 동일한 설정을 사용합니다:
 
 ```javascript
+// 🔑 API Key (환경 변수: $OBSIDIAN_API_KEY)
+// Secret/Token.md 또는 ~/.zshrc에서 관리
+const OBSIDIAN_API_KEY = 'YOUR_API_KEY_HERE';  // ← Secret/Token.md 참조
+
 const CONFIG = {
     obsidianApiUrl: 'http://127.0.0.1:27123',  // HTTP 포트 (SSL 문제 없음)
-    obsidianApiKey: '171c9f4842fe5b6476229473af33bfe4392514641d6fd98fa55283bb04e36db2',
+    obsidianApiKey: OBSIDIAN_API_KEY,          // 변수 참조
     targetFolder: 'NotebookLM',
     autoTags: ['notebooklm', 'imported'],
     showNotification: true
 };
 ```
 
+### API 키 관리 위치
+
+| 위치 | 용도 |
+|------|------|
+| `~/.zshrc` | 환경 변수 `$OBSIDIAN_API_KEY` (터미널용) |
+| `Secret/Token.md` | Obsidian 내 참조용 |
+| 스크립트 상단 | `OBSIDIAN_API_KEY` 상수로 정의 |
+
 ### Obsidian Local REST API 설정
 
 1. **설정 → Community Plugins → Local REST API**
-2. **API Key 확인**: `171c9f4842fe5b6476229473af33bfe4392514641d6fd98fa55283bb04e36db2`
+2. **API Key 확인**: `Secret/Token.md` 또는 `echo $OBSIDIAN_API_KEY`
 3. **HTTP 포트 활성화**: `27123` (Insecure Server)
    - ✅ Enable Insecure Server: **ON**
 
